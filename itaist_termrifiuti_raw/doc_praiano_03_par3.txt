@@ -1,0 +1,6 @@
+Lunedì; UMIDO; organico
+Martedì; METALLI - PLASTICA; multimateriale
+Mercoledì; UMIDO; organico; CARTA - CARTONE; tetra pak
+Giovedì; VETRO
+Venerdì; UMIDO;  organico
+Sabato; SECCO; Indifferenziato

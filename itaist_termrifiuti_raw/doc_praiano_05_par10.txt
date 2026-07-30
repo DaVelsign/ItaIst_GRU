@@ -1,0 +1,8 @@
+Giorni ed orari di conferimento di raccolta/ritiro su suolo pubblico Utenze non Domestiche:
+Lunedì; Rifiuti Organici, Carta e Cartone, Vetro, Multimateriale
+Martedì; Rifiuti Organici, Carta e Cartone, Vetro, Multimateriale
+Mercoledì; Rifiuti Organici, Carta e Cartone, Vetro, Multimateriale, Rifiuto Indifferenziato
+Giovedì; Rifiuti Organici, Carta e Cartone, Vetro, Multimateriale
+Venerdì; Rifiuti Organici, Carta e Cartone, Vetro, Multimateriale
+Sabato; Rifiuti Organici, Carta e Cartone, Vetro, Multimateriale, Rifiuto Indifferenziato
+Domenica; Rifiuti Organici, Carta e Cartone, Vetro, Multimateriale

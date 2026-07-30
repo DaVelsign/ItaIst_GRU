@@ -1,0 +1,13 @@
+ANNO 2022
+ENTRATA; Importo; Importo;
+Variazioni in aumento; CO; € 29.000,00
+;CA; € 29.000,00;
+Variazioni in diminuzione; CO;; € 0,00
+;CA;; € 0,00
+SPESA; Importo; Importo
+Variazioni in aumento; CO;; € 29.000,00
+;CA;; € 29.000,00
+Variazioni in diminuzione; CO; € 0,00
+;CA; € 0,00
+TOTALE A PAREGGIO; CO; € 29.000,00; € 29.000,00 
+;CA; € 29.000,00; € 29.000,00

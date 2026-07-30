@@ -1,0 +1,3 @@
+RUP | FARMACI | PILE
+Farmaci scaduti o non utilizzati: contenitori installati presso le Farmacie e Para-Farmacie.
+Pile ed accumulatori esausti: rivenditori autorizzati, o appositi contenitori dislocati sul territorio.

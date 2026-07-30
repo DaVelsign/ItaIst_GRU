@@ -1,0 +1,3 @@
+TABELLA CREDITI
+Crediti; Quantità di calcolo crediti; Quantità max
+2 crediti Alluminio e Banda Stagnata; Per 1 kg di alluminio e banda stagnata conferita; Kg 20 - quota limite di conferimento mensile oltre il quale non vengono riconosciuti crediti (max 40 crediti al mese pari ad un buono spesa di euro 20,00)

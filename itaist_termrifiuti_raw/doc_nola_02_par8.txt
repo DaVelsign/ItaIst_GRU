@@ -1,0 +1,27 @@
+Art 6. Conferimento delle Frazioni CON ONERI ECONOMICI A CARICO DELL'UTENTE
+4. A far data dal 01/1/2015 è possibile conferire presso il centro di raccolta le seguenti trazioni differenziate nei limiti massimi annuali riportati nella seguente tabella del presente articolo.
+Codice CER; Frazione; Limite annuale massimo senza oneri 
+20 0201; Sfalci d'Erba;
+20 01 38; lngombranti in Legno;
+ 20 03 07; lngombranti Misti;
+5. Per ciascuna delle frazioni riportate nella tabella precedente, una volta superato il limite massimo consentito senza oneri per l'utenza, si provvederà a trasmettere all'uffìcio TARI, a fine anno finanziario, l'importo oneroso determinato tramite la seguente formula: Importo oneroso= (tot an conf - tot max cons senza oneri) x il valore econ unit frazione
+Dove:
+Importo oneroso = è l'importo da trasmettere all'ufficio TARI come ulteriore onere per l'utenza
+Tot an cont= Totale annuale conferito presso il centro di raccolta per la singola utenza
+Tot max cons senza oneri = totale massimo annuale ammesso per il conferimento senza oneri per la relativa frazione di cui alla tabella precedente 
+Valore econ unit frazione= valore economico unitario per la singola frazione derivante dalla convenzione tra il comune di Nola e la piattaforma di trasferenza o la struttura di smaltimento
+6. Al fine di tener sotto costante controllo l'eventuale superamento del limite massimo annuale delle frazioni di cui al presente articolo, l'operatore del centro di raccolta dovrà: 
+a. Accettarsi che il conferimento sia seguito esclusivamente dal titolare della CARD verificando personalmente Ìidentità del conferente rispetto a quanto riportato sulla CARD o in alternativa con atto di delega del titolare della CARD.
+b. Registrare nel sistema informativo
+i. La data e l'ora di conferimento
+ii. la frazione conferita 
+iii. il peso del conferimenti
+c. stampare la singola ricevuta in doppia copia una delle quali firmata dall'utente
+d. Conservare agli atti la copia firmata dall'utente
+e. Trasmettere Annualmente il resoconto degli oneri economici derivanti dalle frazioni di cui al presente articolo all'ufficio ecologia e all'ufficio TARI. e, su richiesta dell'utente titolare della CARD, rilasciare al medesimo, il tabulato in cui siano indicati, per ogni singolo conferimento: 
+- data di conferimento, 
+- quantitativo conferito 
+- e frazione conferita con il relativo codice CER ; i dati di tale elenco devono essere aggregati per codice CER.
+7. A fine anno finanziario (owero entro il 31 gennaio dell'anno finanziario successivo a quello dei conferimenti), dovranno essere trasmessi all'ufficio TARI del Comune di Nola, su sopporto cartaceo e in formato elettronico (tipo Excel) con un tracciato record conforme a quanto richiesto dalla società fornitrice del software TARI in dotazione dell'amministrazione comunale:
+- L'elenco degli utenti che hanno diritto a riduzione della TARI in base ai bonus derivanti dalle frazioni valorizzabili economicamente di cui al precedente art. 5
+- L'elenco degli utenti che hanno superato il limite massimo ammesso per le frazioni di cui al presente articolo comprensivo del corrispondente onere economico che deve essere associato alla singola utenza e calcolato con la formula del presente articolo. .

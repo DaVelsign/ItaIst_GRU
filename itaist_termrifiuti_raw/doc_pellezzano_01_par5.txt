@@ -1,0 +1,8 @@
+N°; Qualifica; Nome; Presente; Assente
+1; Sindaco; MORRA FRANCESCO; X;
+2; Vice Sindaco; MURINO MICHELE; X;
+3; Assessore; LANDI RAFFAELA; X;
+4; Assessore; VILLARI ANNALAURA; X;
+5; Assessore; MARINO ANDREA; X;
+6; Assessore; NAPOLI ALBERTO; X;
+PRESENTI: 6 ASSENTI: 0

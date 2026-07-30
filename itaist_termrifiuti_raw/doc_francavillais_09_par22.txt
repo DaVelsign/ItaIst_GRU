@@ -1,0 +1,5 @@
+COMANDI E STRUMENTAZIONI
+Il funzionamento dell’attrezzatura deve essere gestito da un PLC (Programmable Logic Controllers) programmato per svolgere e controllare le sequenze del ciclo operativo.
+I comandi, di immediata visibilità devono essere a portata di mano del conducente del veicolo in posizione di guida il quale manovrando un selettore può scegliere il tipo di funzionamento.
+- Funzionamento in automatico,
+- funzionamento manuale dalla cabina o con operatore a terra.

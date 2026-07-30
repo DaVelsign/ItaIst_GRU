@@ -1,0 +1,5 @@
+RACCOLTA PORTA A PORTA UTENZE NON DOMESTICHE
+Domenica; Lunedì; Martedì; Mercoledì; Giovedì; Venerdì
+Frazione organica; Multimateriale; Frazione organica; Carta cartone; Frazione organica; Secco indifferenziato
+;;Vetro;;;Carta e cartone
+Orario di conferimento: Orario di chiusura serale dell'esercizio

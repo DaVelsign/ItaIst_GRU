@@ -1,0 +1,150 @@
+NOTA TECNICA AD INTERIM Gestione dei rifiuti urbani associata al virus SARS-CoV-2 NOTA TECNICA AD INTERIM Gestione dei rifiuti urbani associata al virus SARS-CoV-2 Federica SCAINI (a), Eleonora BECCALONI (a), Lucia BONADONNA (a), Carla CINI (b), Elisabetta CONFALONIERI (c), Francesco DI MARIA (d), Giuseppina LA ROSA (a), Marco MARTUZZI (a), Maria Rosaria MILANA (a), Emanuela TESTAI (a) (a) Dipartimento Ambiente e salute, Istituto Superiore di Sanità (b) ASPP Azienda AMA Roma (c) Direzione Generale Ambiente e Clima, Regione Lombardia, Milano (d) Dipartimento di Ingegneria, Università degli studi di Perugia, Perugia Istituto Superiore di Sanità Nota tecnica ad interim.
+Gestione dei rifiuti urbani associata al virus SARS-CoV-2.
+Federica Scaini, Eleonora Beccaloni, Lucia Bonadonna, Carla Cini, Elisabetta Confalonieri, Francesco Di Maria, Giuseppina La Rosa, Marco Martuzzi, Maria Rosaria Milana, Emanuela Testai ii, 11 p. Questo documento descrive le modalità operative per la gestione dei rifiuti urbani extra-ospedalieri nelle abitazioni su tutto il territorio nazionale distinguendo tra i rifiuti prodotti da soggetti positivi a COVID-19 e rifiuti prodotti dal resto della popolazione.
+Vengono fornite anche raccomandazioni per la preparazione e il conferimento dei rifiuti domestici, per gli operatori e per le aziende del settore di raccolta, smaltimento e trattamento dei suddetti rifiuti.
+Istituto Superiore di Sanità Interim Technical note.
+Urban waste management associated with the SARS-CoV-2 virus.
+Federica Scaini, Eleonora Beccaloni, Lucia Bonadonna, Carla Cini, Elisabetta Confalonieri, Francesco Di Maria, Giuseppina La Rosa, Marco Martuzzi, Maria Rosaria Milana, Emanuela Testai ii, 11 p. This document provides operating procedures to manage non-hospital urban waste, throughout the country distinguishing between waste produced by subjects positive to COVID-19 and waste produced by the remaining population.
+Recommendations are also provided for handling and disposing of household waste, for operators and for companies involved in the collection, disposal and treatment of household waste.
+Per informazioni su questo documento scrivere a: federica.scaini@iss.it Il presente documento aggiorna e sostituisce quanto indicato nel Rapporto ISS COVID-19 n. 3/2020 Rev. 2.
+Citare questo documento come segue: Scaini F, Beccaloni E, Bonadonna L, Cini C, Confalonieri E, Di Maria F, La Rosa G, Martuzzi M, Milana MR, Testai E. Nota tecnica ad interim.
+Gestione dei rifiuti urbani associata al virus SARS-CoV-2.
+Roma: Istituto Superiore di Sanità; 2022.
+La responsabilità dei dati scientifici e tecnici è dei singoli autori, che dichiarano di non avere conflitti di interesse.
+Redazione e grafica a cura del Servizio Comunicazione Scientifica dell’Istituto Superiore di Sanità (Sandra Salinetti e Paola De Castro) © Istituto Superiore di Sanità 2022 viale Regina Elena 299 – 00161 Roma Indice Introduzione ..................................................................................................................................................
+1 Trasmissione di SARS-CoV-2 e sua capacità di persistere sulle superfici ...................................................
+2 Gestione dei rifiuti urbani ..............................................................................................................................
+5 Raccomandazioni per preparazione e conferimento dei rifiuti domestici da parte degli utenti ......................
+6 Rifiuti urbani provenienti da abitazioni nelle quali siano presenti soggetti positivi a COVID-19 ..............
+6 Rifiuti urbani provenienti da abitazioni nelle quali non siano presenti soggetti positivi a COVID-19 .......
+6 Raccomandazioni per gli operatori del settore di raccolta dei rifiuti ..............................................................
+7 Raccomandazioni per le aziende di raccolta e gestione dei rifiuti .................................................................
+8 Bibliografia ..................................................................................................................................................
+10 Allegato .......................................................................................................................................................
+11 i Destinatari Le indicazioni di questo documento sono destinate a tutta la popolazione e ai Gestori dei Servizi di Igiene Ambientale, inclusi gli operatori degli impianti di raccolta e trattamento dei rifiuti, le autorità ambientali e sanitarie che a livello nazionale, regionale e locale (province, comuni e altri enti territoriali) sono preposte alla tutela della salute e alla salvaguardia ambientale e sono coinvolte nella prevenzione e gestione di rischi correlati raccolta e trattamento dei rifiuti. ii Introduzione Le presenti linee di indirizzo, aggiornate rispetto al progredire delle conoscenze, si basano sulle evidenze ad oggi note sulla trasmissione dell’infezione da virus SARS-CoV-2, ottemperando all’esigenza di dettare modalità operative per la gestione dei rifiuti urbani extra-ospedalieri improntate sul principio di cautela su tutto il territorio nazionale, come da decreti tempo per tempo emanati fino al Decreto Legge 7 gennaio 2022 n. 1 (1).
+Le indicazioni sono tali che ogni territorio possa declinarle sulla base delle proprie esigenze e organizzazioni in essere, considerando la comparsa di eventuali altre varianti del virus con specifiche caratteristiche di contagiosità, la situazione dello stato pandemico modificata soprattutto dall’introduzione dei vaccini e la conclusione dell’emergenza sanitaria.
+La Commissione Europea ha inizialmente espresso preoccupazione sul mantenimento degli obiettivi di riciclo e raccolta dei rifiuti qualora negli Stati Membri si fossero interrotte le procedure di raccolta differenziata, riconoscendo nel contempo la necessità di misure specifiche nei casi di positività o quarantena (2).
+Le presenti linee di indirizzo, che aggiornano e sostituiscono quanto indicato nel Rapporto ISS COVID- 19 n. 3/2020 Rev. 2 (3), pongono particolare attenzione sulla gestione dei rifiuti urbani extra-ospedalieri provenienti da abitazioni nelle quali siano presenti soggetti positivi a COVID-19 differenziando la gestione dei rifiuti rispetto alle abitazioni nelle quali non siano presenti tali soggetti.
+Al momento non è ancora noto il tempo di persistenza di virus in un rifiuto domestico/urbano e, in particolare del virus SARS-CoV-2, anche se è possibile sviluppare alcune considerazioni sulla base di risultati ottenuti da alcuni studi eseguiti su diversi materiali che possono andare a costituire parte dei rifiuti che giornalmente sono eliminati dalla popolazione.
+Di seguito, pertanto, si descrive quanto riportato sul tema in letteratura.
+1 Trasmissione di SARS-CoV-2 e sua capacità di persistere sulle superfici SARS-CoV-2, responsabile di COVID-19, è un virus con involucro pericapsidico (envelope) composto da un doppio strato di fosfolipidi e glicoproteine; il suo materiale genetico è racchiuso all’interno dell’involucro che presenta strutture (la proteina spike) utili per riconoscere e legare il recettore ACE2, che è la porta di ingresso del virus nelle cellule umane.
+L’involucro del SARS-CoV-2, come quello di altri virus respiratori, è labile e può degradarsi rapidamente a contatto con tensioattivi, biocidi e in condizioni ambientali ad esso sfavorevoli.
+Questo rende il virus più vulnerabile rispetto ad altri virus umani (es. Enterovirus).
+È opportuno ricordare che l’acquisizione di informazioni sulla trasmissione, la diffusione e la persistenza del virus SARS-CoV-2 è tuttora in fase di progressivo svolgimento, considerando la necessità di raccogliere i risultati di studi ancora in corso.
+Tuttavia, è ormai riconosciuto che il virus si diffonde nell’ambiente prevalentemente mediante il contatto interumano, per rilascio, da parte di soggetti infetti, di fluidi respiratori attraverso gli atti del respirare, parlare (emissione di particelle fluide di dimensioni tra <0,1 e 100 μm), tossire, starnutire (emissioni di droplet >100 μm), oltre che con attività come il cantare, ballare, fare attività fisica, ecc. L’ampio spettro dimensionale delle particelle respiratorie (droplet e aerosol) che vengono trasportate in modo diverso dai flussi d’aria, cambiando dimensioni e composizione a seconda delle condizioni microclimatiche negli ambienti (es. temperatura, umidità relativa, ecc.) permette la diffusione spaziale e temporale del virus soprattutto in ambienti confinati.
+A causa dei molti fattori che influenzano l’efficienza della diffusione ambientale, il rischio relativo di trasmissione tramite superfici è considerato basso rispetto al contatto diretto e alla trasmissione tramite droplet o per via aerea.
+Il rischio di trasmissione mediata dalle superfici dipende da: • tasso di prevalenza dell’infezione nella comunità; • quantità di virus che le persone infette espellono attraverso le vie respiratorie (che può essere sostanzialmente ridotta indossando ‘mascherine’ come prescritto); • deposizione di particelle virali sulle superfici, influenzata dal flusso d’aria e dalla ventilazione; • interazione con i fattori ambientali (ad esempio, radiazione solare, temperatura ed evaporazione) che danneggiano le particelle virali mentre sono trasportate in aria e si depositano sulle superfici; • tempo intercorso tra la contaminazione della superficie e il contatto della persona con la stessa superficie contaminata (oltre al tipo e alla durata del contatto); • efficienza del trasferimento delle particelle virali dalle superfici alle mani e dalle mani alle mucose (naso, bocca, occhi); • dose di virus attivo necessaria per causare l’infezione attraverso le mucose.
+In ogni caso, l’igiene delle mani, come anche l’eventuale protezione con dispositivi come i guanti, è una barriera alla trasmissione tramite superfici ed è stata associata ad un minor rischio di infezione.
+È opportuno ricordare che il virus SARS-CoV-2 è stabile a 4°C, ma sensibile alla temperatura anche in funzione dell’umidità dell’aria.
+2 A 4°C, si manifesta generalmente una riduzione di circa 0,7 unità logaritmiche del titolo infettivo al 14° giorno.
+Con l’aumento della temperatura fino a 70°C, il tempo di inattivazione del virus si riduce a 5 minuti.
+Da alcuni studi risulta quindi che il virus si mantiene in generale sulle superfici più a lungo in condizioni climatiche invernali, e fino a 21 giorni su alcune superfici, contro un massimo di 7 giorni in condizioni primaverili-autunnali.
+In condizioni simulate, nel periodo estivo, su gran parte delle superfici, il virus infettivo non è rilevabile dopo 3 giorni (4).
+Su diversi materiali sono state condotte indagini sulla persistenza del virus con procedure analitiche (inoculo su superfici mantenute a 22°C, con umidità relativa di circa 65%) che tuttavia non riflettono necessariamente la reale potenzialità di contagio per contatto casuale con il virus e di fatto non riflettono condizioni di vita reale.
+In Tabella 1 sono riportati i tempi di persistenza e decadimento del virus SARS-CoV-2, dati ricavati da prove sperimentali che non prevedono l’esposizione a condizioni naturali, quali, ad esempio, l’irraggiamento solare.
+Tabella 1.
+Tempi di persistenza e decadimento del virus SARS-CoV-2 a 22°C e al 65% di umidità relativa.
+Tipo di materiale SARS-CoV-2 Persistenza* Completo decadimento** [durata in ore] [durata in ore] Carta e fazzoletti di carta 0,5 3 Rame 4 8 Cartone 24 48 Tessuti 24 48 Legno 24 48 Banconote 48 96 Vetro 48 96 Acciaio inossidabile 72-96 96-168 Plastica 72-96 96-168 Mascherina chirurgica (interno) 96 168 Mascherina chirurgica (esterno) 168 - Superfici lisce 168 - Guanti di nitrile 96 144 216*** ≥336 (4°C) Cute - 24 (22°C 4 (37°C) * capacità di un virus di rimanere infettivo per un certo periodo di tempo in specifiche condizioni ambientali ** assenza di infettività *** non si conoscono condizioni di temperatura e umidità relativa Dalla tabella si evince quindi che per la maggior parte delle varie tipologie di materiali il virus perde di infettività nel giro di 2 giorni, con l’eccezione di alcuni materiali e della cute, dove è in grado di mantenersi in funzione della temperatura.
+Alcuni autori (5, 6) tuttavia hanno escluso l’esistenza di un rischio clinicamente significativo di trasmissione di CoVid-19 attraverso superfici o oggetti inanimati, sostenendo che una lunga sopravvivenza 3 del virus in condizioni simulate è da imputare principalmente ai titoli elevati di particelle virali infettive (10⁷) con cui venivano contaminate le superfici a scopo di studio.
+Pertanto, soprattutto in base alle diverse condizioni di temperatura, è stata assunta l’ipotesi che la trasmissione attraverso superfici inanimate sia possibile nei casi in cui si verifichi la seguente sequenza di eventi: • un soggetto infetto tossisca o starnutisca direttamente sulla superficie; • un secondo soggetto tocchi con le mani, quella stessa superficie entro tempi ridotti (1-2 ore); • il secondo soggetto, dopo aver toccato la superficie, porti le mani, senza averle né lavate né disinfettate, alla bocca, al naso e/o agli occhi.
+In aggiunta, il rispetto delle più basilari norme di igiene e comunque la frequente pulizia delle mani anche mediante soluzioni disinfettanti, rende estremamente poco probabile la trasmissione del virus attraverso le superfici e gli oggetti inanimati.
+Alcuni autori hanno messo a confronto la capacità delle varianti Alpha e Beta di mantenersi infettive rispetto al ceppo originario del virus: su alcune superfici non è stata dimostrata alcuna differenza significativa nei tempi di persistenza (7, 8).
+Da una ricerca più recente, comparsa sul web come studio non ancora sottoposto a valutazione da parte degli esperti del settore, e quindi non ancora riconosciuto come scientificamente attendibile, risulterebbe dimostrato che, su superfici di plastica e su pelle, la variante Omicron manifesti tempi di sopravvivenza più che raddoppiati rispetto a quelli del ceppo originario di Wuhan mantenendo l’infettività per più di 16 ore sulle superfici cutanee.
+Gli autori mettono in guardia sull’alta stabilità ambientale di questa variante che potrebbe aumentare il rischio di trasmissione per contatto e contribuire alla diffusione del virus.
+Dello studio tuttavia deve essere ancora valutata la validità scientifica mediante il processo che va sotto il nome di revisione tra pari (esperti del settore) o peer review (9).
+È necessario comunque anche considerare che la radiazione ultravioletta (UV) è uno strumento efficace per arginare la diffusione dei virus respiratori e proteggere la salute pubblica in ambienti commerciali, pubblici, di trasporto e sanitari, e all’aperto.
+I dati disponibili sui contagi di SARS-CoV-2 mostrano indissolubilmente che la pandemia in corso ha un impatto minore durante l’estate e nei Paesi con alti livelli di irraggiamento solare.
+Questo suggerisce che i raggi ultravioletti possono giocare un ruolo nell’evoluzione pandemica, forse in combinazione con fattori indiretti come temperatura e umidità.
+Infatti, i raggi UV-B, caratteristici della luce solare naturale, si sono dimostrati capaci di inattivare rapidamente il SARS-CoV-2 su superfici contaminate artificialmente.
+A livelli di luce solare simulata rappresentativi di mezzogiorno nel solstizio d’estate a 40°N di latitudine (condizioni tipiche di giornate di pieno sole in aree italiane), il 90% del virus infettivo viene inattivato ogni 6,8 minuti in saliva simulata (e artificialmente contaminata) essiccata sulla superficie esposta.
+Per la luce solare simulata rappresentativa del solstizio d’inverno a 40 N di latitudine, il 90% del virus infettivo viene inattivato ogni 14,3 minuti, in saliva simulata essiccata sulla superficie esposta.
+Conferme dell’efficacia dei raggi UV A/B (ma anche degli UV-C prodotti da alcuni dispositivi) provengono anche da diversi altri studi che hanno dimostrato l’alta efficienza del potere di inattivazione del virus da parte dei raggi UV che possono pertanto rappresentare un importante fattore di disinfezione (10, 11).
+Risulta quindi confermato che il potenziale di trasmissione di particelle virali infettive da materiali e superfici contaminati è significativamente ridotto in ambienti esterni esposti al sole e comunque a fattori ambientali ostili che si dimostrano in grado di limitare la persistenza del virus.
+4 Gestione dei rifiuti urbani Nel presente documento viene considerata la gestione di due tipi di rifiuti urbani, e precisamente: 1) Rifiuti urbani provenienti da abitazioni nelle quali siano presenti soggetti positivi a COVID-19; 2) Rifiuti urbani provenienti da abitazioni nelle quali non siano presenti soggetti positivi.
+In considerazione della attuale situazione epidemiologica e, nel contempo, dell’attuale stato vaccinale della popolazione italiana, oltre a quanto eventualmente già disposto dalle singole Regioni, si ritiene riesaminare le raccomandazioni per lo svolgimento di corrette attività di gestione dei rifiuti urbani di cui ai punti 1) e 2) la cui raccolta e gestione devono essere garantite trattandosi di servizi pubblici essenziali.
+5 Raccomandazioni per preparazione e conferimento dei rifiuti domestici da parte degli utenti Rifiuti urbani provenienti da abitazioni nelle quali siano presenti soggetti positivi a COVID-19 Si raccomanda che nelle abitazioni in cui siano presenti soggetti positivi a CoVid-19, si pongano in essere le procedure di seguito descritte.
+Mantenimento della raccolta differenziata, ove in essere, ma con i seguenti opportuni accorgimenti: − confezionare tutte le tipologie di rifiuti secondo le regole vigenti sul territorio relative alla raccolta differenziata in modo da non danneggiare e/o contaminare esternamente i sacchi.
+Ogni qualvolta siano presenti oggetti taglienti, a punta o comunque in grado di provocare lacerazioni dell’involucro (oggetti o frammenti in vetro o metallo), si raccomanda di eseguirne il conferimento con particolare cura (es. avvolgendoli in carta o panni) per evitare di produrre lacerazioni dei sacchi con conseguente rischio di fuoriuscita del loro contenuto.
+Per tutte le frazioni dovranno essere utilizzati almeno due sacchetti uno dentro l’altro (della stessa tipologia prevista per la frazione raccolta) o in numero maggiore in dipendenza della loro resistenza meccanica. − diversamente, fazzoletti di carta, carta in rotoli, mascherine e guanti, tamponi per test per autodiagnosi Covid-19, ecc. dovranno essere inseriti in una busta separata e chiusa, prima di essere introdotti nel sacco dei rifiuti indifferenziati.
+Tale scelta è stata determinata per limitare il più possibile errori nella raccolta e nel conferimento dei rifiuti a salvaguardia della sicurezza in ambito domestico e della salute degli operatori ecologici addetti alla raccolta dei rifiuti.
+Si raccomanda in generale di i) chiudere adeguatamente i sacchi eventualmente utilizzando guanti monouso; ii) non schiacciare e comprimere i sacchi con le mani; iii) evitare l’accesso di animali da compagnia ai locali dove sono presenti sacchetti di rifiuti; iv) far smaltire il rifiuto dalla propria abitazione con le procedure in vigore sul territorio.
+I guanti monouso utilizzati per l’operazione dovranno essere rimossi rovesciandoli (per evitare che vengano a contatto con la cute) ed essere eliminati nel successivo sacco di rifiuti indifferenziati (12).
+Rifiuti urbani provenienti da abitazioni nelle quali non siano presenti soggetti positivi a COVID-19 Si raccomanda di mantenere le modalità di raccolta e le procedure in vigore nel territorio di appartenenza, non interrompendo la raccolta differenziata.
+Tuttavia, si raccomanda comunque che, a scopo cautelativo, fazzoletti di carta, carta in rotoli, mascherine e guanti, tamponi per test per autodiagnosi COVID-19 eventualmente utilizzati, siano smaltiti nei contenitori (sacchi o buste) dei rifiuti indifferenziati.
+È aggiunta in allegato una infografica esplicativa per la popolazione.
+6 Raccomandazioni per gli operatori del settore di raccolta dei rifiuti Relativamente agli operatori del settore dell’igiene ambientale (Raccolta e Smaltimento Rifiuti) si raccomanda l’adozione di dispositivi di protezione individuale (DPI), come da gestione ordinaria, in particolare di mascherine (filtranti facciali FFP2 o FFP3), compatibilmente con la valutazione del rischio in essere in azienda.
+Il personale che esegue la raccolta e il trasporto dei rifiuti dovrà essere adeguatamente formato e informato.
+Per attività che prevedono il sollevamento di polveri grossolane, polline, terriccio, e analoghi, potrebbe essere possibile l’utilizzo di una doppia maschera chirurgica.
+Alla luce delle conoscenze scientifiche attualmente disponibili e delle principali modalità di trasmissione di questa malattia (droplet e aerosol), le mascherine chirurgiche opportunamente certificate e preferibilmente del tipo IIR o equivalente, in grado di proteggere l’operatore che le indossa da schizzi e spruzzi, rappresentano una protezione sufficiente nella maggior parte dei casi, come indicato nel Rapporto ISS COVID-19 n. 2/2020 Rev. (13).
+È comunque opportuno tenere presente che, come sopra descritto, fattori ambientali favorevoli (es. irraggiamento solare) possono ridurre l’esposizione a condizioni di rischio, essendo in grado di disattivare in tempi rapidi il virus.
+Si ricorda inoltre che, già all’inizio della fase pandemica (aprile 2020), l’INAIL, in qualità di organo tecnico scientifico del Servizio Sanitario Nazionale, ha elaborato il Documento tecnico sulla possibile rimodulazione delle misure di contenimento del contagio da SARS-CoV-2 nei luoghi di lavoro e strategie di prevenzione (14).
+Sulla base di una valutazione integrata del rischio relativo alla possibilità di venire a contatto con fonti di contagio in occasione di lavoro e/o di prossimità connessa ai processi lavorativi, è stata pertanto attribuita una classe di rischio per i tutti settori produttivi; all’”Attività di raccolta, trattamento e smaltimento dei rifiuti” è stata assegnata una classe di rischio medio-bassa, corrispondente quindi alla necessità di modulare adeguate misure contenitive unitamente ad opportune strategie di prevenzione.
+Gli operatori della raccolta dei rifiuti devono comunque attenersi alle norme igieniche precauzionali raccomandate dal Ministero della Salute, astenendosi dal servizio in caso di affezioni respiratorie e stati febbrili.
+7 Raccomandazioni per le aziende di raccolta e gestione dei rifiuti L’Azienda è tenuta ad essere a conoscenza della procedura di raccolta dei rifiuti così come sopra descritta e ne dovrà dare comunicazione agli utenti.
+In particolare, l’Azienda sarà tenuta a segnalare che, ove siano presenti soggetti positivi a COVID-19 si intende mantenuta la raccolta differenziata nelle abitazioni, con gli accorgimenti sopra descritti.
+Pertanto, in questi casi, tutti i rifiuti prodotti da tali soggetti, confezionati in un doppio sacco, idoneo rispetto alla frazione differenziata raccolta (es. doppio involucro compostabile per la frazione umida) e come già descritto sopra, dovranno continuare ad essere conferiti secondo la frazione di appartenenza.
+Alla luce delle conoscenze scientifiche attualmente disponibili e delle principali modalità di trasmissione di COVID-19 (droplet e aerosol), per alcune attività che non presentano particolari rischi di esposizione professionale è consentito fare ricorso a mascherine chirurgiche opportunamente certificate e preferibilmente del tipo IIR o equivalente, quali dispositivi idonei a proteggere gli operatori, in alternativa ai facciali filtranti e comunque si raccomanda di seguire gli aggiornamenti previsti dalle normative.
+Per le attività di raccolta e smaltimento rifiuti urbani si raccomanda:  la pulizia delle tute e degli indumenti da lavoro, a temperature tra i 55°C e i 60°C e comunque con prodotti disinfettanti idonei.
+Ove possibile, si raccomanda di effettuare la pulizia in maniera centralizzata;  la predisposizione di appositi contenitori per i DPI (guanti monouso, mascherine chirurgiche, facciali filtranti da avviare a smaltimento);  la disponibilità di un dosatore di disinfettante a base alcolica (almeno 75%v/v).
+Inoltre, si raccomanda la sanificazione della cabina di guida di tutti i mezzi utilizzati per la raccolta dei diversi tipi di rifiuti urbani, dopo ogni ciclo/turno di lavoro (volante, cambio, ecc.).
+Periodicamente andrà prestata attenzione ai tessuti dei sedili che possono rappresentare un sito di maggiore persistenza del virus.
+A tale scopo si raccomanda:  di non utilizzare aria compressa e/o acqua sotto pressione per la pulizia, o altri metodi che possono produrre spruzzi o possono aerosolizzare materiale infettivo nell’ambiente.
+L’aspirapolvere deve essere utilizzato solo dopo un’adeguata disinfezione;  l’uso di disinfettanti (es. a base di alcol almeno al 75% volume/volume) in confezione spray.
+Si possono avere differenti destinazioni dei flussi di rifiuti urbani.
+I rifiuti urbani indifferenziati dovranno essere gestiti come di seguito descritto: 1. avvio dopo la raccolta verso impianti di incenerimento di tutti i rifiuti indifferenziati raccolti preferibilmente evitando il passaggio da stazioni di trasferenza; 2. avvio, dopo la raccolta, ad impianti di Trattamento Meccanico-Biologico (TMB) dove dovranno essere avviati alla fase di selezione meccanica preferibilmente evitando il passaggio da eventuali stazioni di trasferenza; 3. solo per le zone dove sia stata dichiarata una situazione di emergenza per la gestione e lo smaltimento dei rifiuti, avvio diretto, dopo la raccolta, ad impianti di discarica, preferibilmente evitando il passaggio da eventuali stazioni di trasferenza.
+8 Si suggerisce inoltre di procedere il più rapidamente possibile alla sanificazione del cassone del mezzo utilizzato per il trasporto del rifiuto raccolto.
+I rifiuti derivanti da raccolta differenziata dovranno essere gestiti come di seguito descritto: 1. avvio agli impianti di effettivo recupero limitando il più possibile stazioni di trasferenza; 2. qualora eseguite, riduzione quanto più possibile delle eventuali operazioni di ricondizionamento, selezione e trattamento manuale.
+3. nel caso di necessità di manipolazione del rifiuto o di manutenzione degli impianti in aree in cui è presente il rifiuto, è necessario utilizzare idonei DPI come da Valutazione del rischio.
+9 Bibliografia 1.
+Italia.
+Decreto-Legge 7 gennaio 2022, n. 1.
+Misure urgenti per fronteggiare l’emergenza COVID-19, in particolare nei luoghi di lavoro, nelle scuole e negli istituti della formazione superiore.
+Gazzetta Ufficiale Serie Generale n.4 del 7 gennaio 2022.
+2.
+European Commission Waste management in the context of the coronavirus crisis” Brussels: EC; 14 April 2020. https://ec.europa.eu/info/sites/info/files/waste_management_guidance_dg-env.pdf 3.
+Gruppo di lavoro ISS Ambiente e Gestione dei Rifiuti.
+Indicazioni ad interim per la gestione dei rifiuti urbani in relazione alla trasmissione dell’infezione da virus SARS-CoV-2.
+Versione del 31 maggio 2020.
+Roma: Istituto Superiore di Sanità; 2020 (Rapporto ISS COVID-19, n. 3/2020 Rev. 2) 4.
+Chin AWH, et al. Stability of SARS-CoV.2 in different environmental conditions.
+The Lancet Microbe.
+2020;1(1):e10.
+5.
+Goldman E. Exaggerated risk of transmission of COVID-19 by fomites.
+Lancet Infect Dis 2020;20(8):892-3.
+6.
+Mondelli MU, Colaneri M, Seminari EM, Baldanti F, Bruno R. Low risk of SARS-CoV-2 transmission by fomites in real-life conditions.
+Lancet Infect Dis 2021; 21(5):e112.
+7.
+Pottage T, Garratt I, Onianwa O, Spencer A, Paton S, Verlander NQ, et al. A comparison of persistence of SARS-CoV-2 variants on stainless steel.
+Journal of Hospital Infection.
+2021;114:163-6.
+8.
+Meister TL, Fortmann J, Todt D, Heinen N, Ludwig A, Brüggemann Y, et al. Comparable Environmental Stability and Disinfection Profiles of the Currently Circulating SARS-CoV-2 Variants of Concern B.1.1.7 and B.1.351.
+Journal of Infectious Diseases.
+2021;224(3):420-4.
+9.
+Ryohei Hirose, Yoshito Itoh, Hiroshi Ikegaya, Hajime Miyazaki, Naoto Watanabe, Takuma Yoshida, Risa Bandou, Tomo Daidoji, Takaaki Nakaya.
+Differences in environmental stability among SARS-CoV-2 variants of concern: Omicron has higher stability. bioRxiv preprint doi: https://doi.org/10.1101/2022.01.18.476607; this version posted January 19, 2022.
+10.
+Criscuolo E, Diotti RA, Ferrarese R, Alippi C, Viscardi G, Signorelli C, Mancini N, Clementi M, Clementi N. Fast inactivation of SARS-CoV-2 by UV-C and ozone exposure on different materials.
+Emerging Microbes & Infections 2021;10:1:206-10, doi: 10.1080/22221751.2021.1872354 11.
+Nicastro F, Sironi G, Antonello E, Bianco A, Biasin M, Brucato JR, Ermolli I, Pareschi G, Salvati M, Tozzi P, Trabattoni D, Clerici M. Solar UV-B/A radiation is highly effective in inactivating SARS-CoV-2.
+Sci Rep.
+2021 Jul 20;11(1):14805. doi: 10.1038/s41598-021-94417-9.
+PMID: 34285313; PMCID: PMC8292397.
+12.
+Gruppo di Lavoro ISS Ambienti e Rifiuti.
+Indicazioni ad interim sulla gestione e smaltimento di mascherine e guanti monouso provenienti da utilizzo domestico e non domestico Versione del 18 maggio 2020.
+Roma: Istituto Superiore di Sanità; 2020.
+(Rapporto ISS COVID-19, n. 26/2020).
+13.
+Gruppo di lavoro ISS Prevenzione e controllo delle Infezioni.
+Indicazioni ad interim per un utilizzo razionale delle protezioni per infezione da SARS-COV-2 nelle attività sanitarie e sociosanitarie (assistenza a soggetti affetti da covid-19) nell’attuale scenario emergenziale SARS-COV-2.
+Versione del 28 marzo 2020.
+Roma: Istituto Superiore di Sanità; 2020.
+(Rapporto ISS COVID-19, n. 2/2020 Rev.) 14.
+INAIL.
+Documento tecnico sulla possibile rimodulazione delle misure di contenimento del contagio da SARS- CoV-2 nei luoghi di lavoro e strategie di prevenzione.
+Roma: Istituto Nazionale per l’Assicurazione contro gli Infortuni sul Lavoro; 2020.
+10 Allegato 11

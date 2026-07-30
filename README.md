@@ -41,7 +41,7 @@ For each term, the database provides linguistic, conceptual, and communicative i
 
 
 ## *Citation* 
- *Nicola Cirillo, Daniela Vellutino, David Nicoletti, Enzagiulia Sabarese& Benedetta Rubino. (2025). ItaIst_GRU (Version revision) [Dataset]. Zenodo. https://doi.org/10.5281/zenodo.17569617* 
+ *Nicola Cirillo, Daniela Vellutino, David Nicoletti, Enzagiulia Sabarese& Benedetta Rubino. (2025). ItaIst_GRU (Version revision) [Dataset]. Zenodo.* https://doi.org/10.5281/zenodo.17569617
 
 ## *Funding*
 Ministero dell'università e della ricerca - PRIN 2020 “VerbACxSS: su verbi analitici, complessità, verbi sintetici e semplificazione. Per l’accessibilità”

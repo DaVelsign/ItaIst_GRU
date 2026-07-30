@@ -1,0 +1,4 @@
+Indicatori di contesto
+Numero abitanti servizi
+Numero abitanti equivalenti (flussi giornalieri e turistici) Densità utente per kmq
+Numero utenze domestiche e Numero utenze non domestiche

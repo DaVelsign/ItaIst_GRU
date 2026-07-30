@@ -1,0 +1,911 @@
+entry;pos;concept;subterms;structure;usage_note_admin;usage_note_info
+abbandonare rifiuti;VERB;abbandonare rifiuti;rifiuto_NOUN;multi-word;preferred;preferred
+abbandono;NOUN;abbandono dei rifiuti;;single-word;admitted;admitted
+abbandono abusivo dei rifiuti;NOUN;abbandono dei rifiuti;"abbandono dei rifiuti_NOUN; rifiuto_NOUN";multi-word;admitted;admitted
+abbandono dei rifiuti;NOUN;abbandono dei rifiuti;rifiuto_NOUN;multi-word;preferred;preferred
+abbandono di rifiuti;NOUN;abbandono dei rifiuti;rifiuto_NOUN;multi-word;admitted;admitted
+abbandono di rifiuti non pericolosi e non ingombranti;NOUN;abbandono dei rifiuti;"abbandono di rifiuti_NOUN; pericoloso_ADJ; rifiuto_NOUN; rifiuto non ingombrante_NOUN; rifiuto non pericoloso_NOUN";multi-word;;
+abbandono dei rifiuti urbani pericolosi ed ingombranti;NOUN;abbandono dei rifiuti pericolosi;"abbandono dei rifiuti_NOUN; ingombrante_NOUN; pericoloso_ADJ; rifiuto_NOUN; rifiuto urbano_NOUN; rifiuto urbano ingombrante_NOUN; rifiuto urbano pericoloso_NOUN; rifiuto urbano pericoloso ed ingombrante_NOUN";multi-word;;
+fe;NOUN;acciaio;;symbol;;
+agevolazione tari;NOUN;agevolazione tari;tari_NOUN;mixed compound;admitted;preferred
+agevolazione tassa rifiuti;NOUN;agevolazione tari;"rifiuto_NOUN; tassa rifiuti_NOUN";multi-word;preferred;admitted
+al;PROPN;alluminio;;symbol;;
+alluminio;NOUN;alluminio;;single-word;admitted;admitted
+analisi merceologica;NOUN;analisi merceologica;;multi-word;;
+apparecchiatura elettrica/elettronica;NOUN;apparecchiature elettriche ed elettroniche;;multi-word;admitted;admitted
+apparecchiature elettriche ed elettroniche;NOUN;apparecchiature elettriche ed elettroniche;;multi-word;preferred;preferred
+frigoriferi e sistemi per il condizionamento;NOUN;apparecchiature refrigeranti;;multi-word;;
+area tecnica ambientale;NOUN;area tecnica ambientale;;multi-word;;
+area tecnica ambientale cimitero;NOUN;area tecnica ambientale;area tecnica ambientale_NOUN;multi-word;;
+area tecnica e tutela dell'ambiente;NOUN;area tecnica ambientale;;multi-word;;
+settore ambiente ufficio servizi esternalizzati e raccolta differenziata;NOUN;area tecnica ambientale;"raccolta_NOUN; raccolta differenziata_NOUN; ufficio servizi esternalizzati e raccolta differenziata_NOUN";multi-word;;
+settore ecologia ed ambiente;NOUN;area tecnica ambientale;;multi-word;;
+assessorato all'ambiente;NOUN;assessorato all'ambiente;;multi-word;;
+assimilabilità;NOUN;assimilabilità ai rifiuti urbani;;single-word;;
+attivazione del servizio;NOUN;attivazione del servizio di gestione dei rifiuti;;multi-word;;
+attività di front line;NOUN;attività di front line;;multi-word;;
+kit compostiere;NOUN;attrezzature per il compostaggio domestico;compostiera_NOUN;multi-word;;
+attrezzatura per la raccolta domiciliare;NOUN;attrezzature per la raccolta differenziata;"raccolta_NOUN; raccolta domiciliare_NOUN";multi-word;admitted;admitted
+attrezzature per la raccolta;NOUN;attrezzature per la raccolta differenziata;raccolta_NOUN;multi-word;admitted;admitted
+autocarro compattatore;NOUN;autocompattatore;;multi-word;preferred;admitted
+autocompattatore;NOUN;autocompattatore;;single-word;admitted;preferred
+autocompattatore per la raccolta di rifiuti solidi urbani;NOUN;autocompattatore;"autocompattatore_NOUN; raccolta_NOUN; raccolta di rifiuti_NOUN; raccolta di rifiuti solidi urbani_NOUN; rifiuto_NOUN; rifiuto solido urbano_NOUN; rifiuto urbano_NOUN";multi-word;admitted;admitted
+autocompattatore per raccolta rifiuti solidi urbani;NOUN;autocompattatore;"autocompattatore_NOUN; raccolta_NOUN; raccolta rifiuti_NOUN; raccolta rifiuti solidi urbani_NOUN; rifiuto_NOUN; rifiuto solido urbano_NOUN; rifiuto urbano_NOUN";multi-word;deprecated;deprecated
+autorizzazione unica ambientale;NOUN;autorizzazione unica ambientale;;multi-word;preferred;preferred
+autospazzatrice;NOUN;autospazzatrice;;single-word;preferred;preferred
+macchina spazzatrice;NOUN;autospazzatrice;;multi-word;deprecated;admitted
+avvio a riciclo;NOUN;avvio a riciclo;riciclo_NOUN;multi-word;;
+accumulatore al piombo;NOUN;batteria al piombo;"accumulatore_NOUN; piombo_NOUN";multi-word;preferred;deprecated
+batteria al piombo;NOUN;batteria al piombo;"batteria_NOUN; piombo_NOUN";multi-word;admitted;preferred
+pile portatili, batterie e accumulatori al piombo derivanti dalla manutenzione di veicoli ad uso privato effettuata in proprio dalle utenze domestiche;NOUN;rifiuti di pile o accumulatori;"accumulatore al piombo_NOUN; batteria_NOUN; batteria al piombo_NOUN; pila_NOUN; pila portatile_NOUN; piombo_NOUN; utenza_NOUN";multi-word;admitted;deprecated
+batteria auto;NOUN;batteria per autoveicoli;batteria_NOUN;multi-word;admitted;admitted
+bene durevole;NOUN;bene durevole;;multi-word;;
+bene durevole dismesso;NOUN;bene durevole dismesso;bene durevole_NOUN;multi-word;;
+bidone;NOUN;bidone;;single-word;preferred;preferred
+bidone portarifiuti;NOUN;bidone;bidone_NOUN;multi-word;admitted;admitted
+bidone carrellato;NOUN;bidone carrellato;bidone_NOUN;multi-word;preferred;preferred
+carrellato;NOUN;bidone carrellato;;single-word;admitted;deprecated
+carrellato condominiale;NOUN;bidone carrellato;carrellato_NOUN;multi-word;admitted;deprecated
+biodegradabile;ADJ;biodegradabile;;single-word;preferred;preferred
+biodiesel;NOUN;biodiesel;;single-word;preferred;preferred
+biodiversità;NOUN;biodiversità;;single-word;preferred;preferred
+bioplastica;NOUN;bioplastica;;single-word;preferred;preferred
+bioplastica compostabile;NOUN;bioplastica;"bioplastica_NOUN; compostabile_ADJ";multi-word;admitted;admitted
+busta;NOUN;busta;;single-word;preferred;preferred
+busta a sacchetto;NOUN;busta;"busta_NOUN; sacchetto_NOUN";multi-word;admitted;admitted
+busta di carta;NOUN;busta di carta;busta_NOUN;multi-word;;
+busta di plastica;NOUN;busta di plastica;busta_NOUN;multi-word;;
+calendario;NOUN;calendario di raccolta;;single-word;admitted;deprecated
+calendario di conferimento;NOUN;calendario di raccolta;conferimento_NOUN;multi-word;admitted;admitted
+calendario di conferimento e raccolta;NOUN;calendario di raccolta;"calendario di conferimento_NOUN; calendario di raccolta_NOUN; conferimento_NOUN; raccolta_NOUN";multi-word;deprecated;deprecated
+calendario di conferimento e ritiro dei rsu;NOUN;calendario di raccolta;"calendario di conferimento_NOUN; conferimento_NOUN; ritiro_NOUN; rsu_NOUN";multi-word;deprecated;deprecated
+calendario di raccolta;NOUN;calendario di raccolta;raccolta_NOUN;multi-word;preferred;preferred
+calendario di raccolta dei rifiuti solidi urbani;NOUN;calendario di raccolta;"calendario di raccolta_NOUN; calendario di raccolta rifiuti_NOUN; raccolta_NOUN; raccolta dei rifiuti_NOUN; raccolta dei rifiuti solidi urbani_NOUN; raccolta dei rifiuti urbani_NOUN; raccolta rifiuti solidi urbani_NOUN; rifiuto_NOUN; rifiuto solido urbano_NOUN; rifiuto urbano_NOUN";multi-word;admitted;admitted
+calendario di raccolta porta a porta;NOUN;calendario di raccolta;"calendario di raccolta_NOUN; porta a porta_NOUN; raccolta_NOUN; raccolta porta a porta_NOUN";multi-word;admitted;admitted
+calendario di raccolta rifiuti;NOUN;calendario di raccolta;"calendario di raccolta_NOUN; calendario raccolta rifiuti_NOUN; raccolta_NOUN; raccolta rifiuti_NOUN; rifiuto_NOUN";multi-word;admitted;admitted
+calendario raccolta rifiuti;NOUN;calendario di raccolta;"raccolta_NOUN; raccolta rifiuti_NOUN; rifiuto_NOUN";multi-word;deprecated;admitted
+ecocalendario;NOUN;calendario di raccolta;;single-word;deprecated;admitted
+calendario di conferimento utenze domestiche;NOUN;calendario di raccolta per le utenze domestiche;"calendario di conferimento_NOUN; calendario utenze domestiche_NOUN; conferimento_NOUN; utenza_NOUN; utenza domestica_NOUN";multi-word;deprecated;deprecated
+calendario utenze domestiche;NOUN;calendario di raccolta per le utenze domestiche;"utenza_NOUN; utenza domestica_NOUN";multi-word;admitted;admitted
+calendario utenze domestiche per la raccolta differenziata;NOUN;calendario di raccolta per le utenze domestiche;"calendario utenze domestiche_NOUN; raccolta_NOUN; raccolta differenziata_NOUN; utenza_NOUN; utenza domestica_NOUN";multi-word;admitted;admitted
+campana;NOUN;campana;;single-word;admitted;admitted
+capitolato speciale di appalto del servizio di igiene urbana;NOUN;capitolato speciale di appalto del servizio di igiene urbana;"igiene urbana_NOUN; servizio di igiene urbana_NOUN";multi-word;admitted;admitted
+capitolato speciale di appalto del servizio di igiene urbana della città;NOUN;capitolato speciale di appalto del servizio di igiene urbana;"capitolato speciale di appalto del servizio di igiene urbana_NOUN; igiene urbana_NOUN; servizio di igiene urbana_NOUN";multi-word;deprecated;deprecated
+carico dei rifiuti;NOUN;carico di rifiuti;rifiuto_NOUN;multi-word;;
+operazione di carico dei rifiuti;NOUN;carico di rifiuti;"carico dei rifiuti_NOUN; rifiuto_NOUN";multi-word;;
+carta dei servizi;NOUN;carta dei servizi di gestione dei rifiuti;;multi-word;admitted;admitted
+carta dei servizi di gestione dei rifiuti;NOUN;carta dei servizi di gestione dei rifiuti;"carta dei servizi_NOUN; gestione dei rifiuti_NOUN; rifiuto_NOUN";multi-word;preferred;preferred
+carta;NOUN;carta e cartone;;single-word;admitted;preferred
+carta - cartone;NOUN;carta e cartone;"carta_NOUN; cartone_NOUN";multi-word;admitted;admitted
+carta - cartone - tetra pak;NOUN;carta e cartone;"carta_NOUN; cartone_NOUN; tetra pak_NOUN";multi-word;admitted;admitted
+carta cartone;NOUN;carta e cartone;"carta_NOUN; cartone_NOUN";multi-word;deprecated;deprecated
+carta cartone e tetra pak;NOUN;carta e cartone;"carta_NOUN; cartone_NOUN; tetra pak_NOUN";multi-word;admitted;admitted
+carta e cartacce;NOUN;carta e cartone;carta_NOUN;multi-word;deprecated;deprecated
+carta e cartoncini;NOUN;carta e cartone;carta_NOUN;multi-word;deprecated;deprecated
+carta e cartone;NOUN;carta e cartone;"carta_NOUN; cartone_NOUN";multi-word;preferred;admitted
+carta e cartoni;NOUN;carta e cartone;"carta_NOUN; cartone_NOUN";multi-word;deprecated;deprecated
+carta e imballaggi in cartone;NOUN;carta e cartone;"carta_NOUN; cartone_NOUN; imballaggio_NOUN; imballaggio in cartone_NOUN";multi-word;admitted;deprecated
+carta – cartone – tetrapak;NOUN;carta e cartone;"carta_NOUN; cartone_NOUN; tetrapak_NOUN";multi-word;admitted;admitted
+carta, cartacce;NOUN;carta e cartone;carta_NOUN;multi-word;deprecated;deprecated
+carta, cartoncini e imballaggi in cartone;NOUN;carta e cartone;"carta_NOUN; carta e imballaggi in cartone_NOUN; cartone_NOUN; imballaggio_NOUN; imballaggio in cartone_NOUN";multi-word;deprecated;deprecated
+carta, cartone e cartoncino;NOUN;carta e cartone;"carta_NOUN; cartone_NOUN";multi-word;admitted;admitted
+carta, cartone e tetra pak;NOUN;carta e cartone;"carta_NOUN; cartone_NOUN; tetra pak_NOUN";multi-word;admitted;admitted
+carta, cartone, cartoncino;NOUN;carta e cartone;"carta_NOUN; carta cartone_NOUN; cartone_NOUN";multi-word;admitted;admitted
+carta/cartone;NOUN;carta e cartone;"carta_NOUN; cartone_NOUN";multi-word;admitted;admitted
+cartoncino e cartone;NOUN;carta e cartone;cartone_NOUN;multi-word;deprecated;deprecated
+cartone;NOUN;carta e cartone;;single-word;deprecated;admitted
+frazione carta;NOUN;carta e cartone;"carta_NOUN; frazione_NOUN";multi-word;admitted;deprecated
+cassone;NOUN;cassone scarrabile;;single-word;admitted;admitted
+cassone scarrabile;NOUN;cassone scarrabile;cassone_NOUN;multi-word;preferred;admitted
+container;NOUN;cassone scarrabile;;single-word;deprecated;admitted
+scarrabile;NOUN;cassone scarrabile;;single-word;admitted;deprecated
+cassonetto;NOUN;cassonetto;;single-word;preferred;preferred
+cassonetto stradale;NOUN;cassonetto;cassonetto_NOUN;multi-word;admitted;admitted
+contenitore stradale;NOUN;cassonetto;;multi-word;deprecated;deprecated
+postazione stradale;NOUN;cassonetto;;multi-word;deprecated;deprecated
+stazione di conferimento;NOUN;cassonetto;conferimento_NOUN;multi-word;deprecated;deprecated
+stazione ecologica;NOUN;cassonetto;;multi-word;deprecated;deprecated
+contenitore abiti usati;NOUN;cassonetto abiti usati;abito usato_NOUN;multi-word;deprecated;deprecated
+stazione di conferimento automatizzata;NOUN;cassonetto intelligente;"conferimento_NOUN; stazione di conferimento_NOUN";multi-word;deprecated;deprecated
+stazione informatizzata;NOUN;cassonetto intelligente;;multi-word;deprecated;deprecated
+stazione informatizzata per il conferimento;NOUN;cassonetto intelligente;"conferimento_NOUN; stazione informatizzata_NOUN";multi-word;deprecated;deprecated
+stazione informatizzata per il conferimento di pannolini e pannoloni;NOUN;cassonetto intelligente per pannolini pannoloni e traverse;"conferimento_NOUN; pannolini_NOUN; pannolini e pannoloni_NOUN; pannoloni_NOUN; stazione informatizzata_NOUN; stazione informatizzata per il conferimento_NOUN";multi-word;deprecated;deprecated
+contenitore per il conferimento pannoloni e i pannolini;NOUN;cassonetto per pannolini pannoloni e traverse;"conferimento_NOUN; pannolini_NOUN; pannoloni_NOUN";multi-word;deprecated;deprecated
+cer;NOUN;catalogo europeo dei rifiuti;;acronym;preferred;admitted
+ccr;NOUN;centro di raccolta;;acronym;admitted;admitted
+centro comunale di raccolta;NOUN;centro di raccolta;"centro di raccolta_NOUN; raccolta_NOUN";multi-word;admitted;admitted
+centro di raccolta;NOUN;centro di raccolta;raccolta_NOUN;multi-word;preferred;admitted
+centro di raccolta comunale;NOUN;centro di raccolta;"centro di raccolta_NOUN; raccolta_NOUN";multi-word;admitted;admitted
+centro di raccolta comunale dei rifiuti urbani;NOUN;centro di raccolta;"centro di raccolta_NOUN; centro di raccolta comunale_NOUN; centro di raccolta dei rifiuti urbani_NOUN; raccolta_NOUN; raccolta dei rifiuti urbani_NOUN; rifiuto_NOUN; rifiuto urbano_NOUN";multi-word;admitted;admitted
+centro di raccolta dei rifiuti urbani;NOUN;centro di raccolta;"centro di raccolta_NOUN; raccolta_NOUN; raccolta dei rifiuti urbani_NOUN; raccolta rifiuti_NOUN; rifiuto_NOUN; rifiuto urbano_NOUN";multi-word;admitted;admitted
+centro di raccolta dei rifiuti urbani raccolti in modo differenziato;NOUN;centro di raccolta;"centro di raccolta_NOUN; centro di raccolta dei rifiuti urbani_NOUN; centro di raccolta rifiuti urbani_NOUN; differenziato_ADJ; raccolta_NOUN; raccolta dei rifiuti urbani_NOUN; raccolta rifiuti_NOUN; rifiuto_NOUN; rifiuto urbano_NOUN";multi-word;deprecated;deprecated
+centro di raccolta differenziata;NOUN;centro di raccolta;"centro di raccolta_NOUN; raccolta_NOUN; raccolta differenziata_NOUN";multi-word;admitted;admitted
+centro di raccolta rifiuti differenziati;NOUN;centro di raccolta;"centro di raccolta_NOUN; differenziato_ADJ; raccolta_NOUN; raccolta rifiuti_NOUN; rifiuto_NOUN; rifiuto differenziato_NOUN";multi-word;deprecated;deprecated
+centro di raccolta rifiuti urbani;NOUN;centro di raccolta;"centro di raccolta_NOUN; raccolta_NOUN; raccolta rifiuti_NOUN; rifiuto_NOUN; rifiuto urbano_NOUN";multi-word;admitted;admitted
+ecocentro;NOUN;centro di raccolta;;single-word;admitted;admitted
+isola;NOUN;centro di raccolta;;single-word;deprecated;admitted
+isola ecologica;NOUN;centro di raccolta;;multi-word;admitted;preferred
+centro di raccolta intercomunale;NOUN;centro di raccolta intercomunale;"centro di raccolta_NOUN; raccolta_NOUN";multi-word;admitted;admitted
+centro di raccolta rifiuti differenziati intercomunale;NOUN;centro di raccolta intercomunale;"centro di raccolta_NOUN; centro di raccolta intercomunale_NOUN; centro di raccolta rifiuti differenziati_NOUN; differenziato_ADJ; raccolta_NOUN; raccolta rifiuti_NOUN; rifiuto_NOUN; rifiuto differenziato_NOUN";multi-word;deprecated;deprecated
+isola ecologica itinerante;NOUN;centro di raccolta mobile;isola ecologica_NOUN;multi-word;admitted;preferred
+cernire;VERB;cernire;;single-word;preferred;deprecated
+separare i rifiuti;VERB;cernire;rifiuto_NOUN;multi-word;deprecated;preferred
+cernita;NOUN;cernita dei rifiuti;;single-word;preferred;deprecated
+cernita di materiali;NOUN;cernita dei rifiuti;cernita_NOUN;multi-word;admitted;deprecated
+differenziazione;NOUN;cernita dei rifiuti;;single-word;deprecated;admitted
+differenziazione dei rifiuti;NOUN;cernita dei rifiuti;"differenziazione_NOUN; rifiuto_NOUN";multi-word;admitted;preferred
+cestino;NOUN;cestino;;single-word;preferred;preferred
+cestino portarifiuti;NOUN;cestino;cestino_NOUN;multi-word;admitted;admitted
+ciclo dei rifiuti;NOUN;ciclo dei rifiuti;rifiuto_NOUN;multi-word;;
+ciclo integrato dei rifiuti;NOUN;ciclo dei rifiuti;rifiuto_NOUN;multi-word;;
+ciclo integrato rifiuti;NOUN;ciclo dei rifiuti;rifiuto_NOUN;multi-word;;
+ciclo dei rifiuti urbani;NOUN;ciclo dei rifiuti urbani;"ciclo dei rifiuti_NOUN; rifiuto_NOUN; rifiuto urbano_NOUN";multi-word;;
+cittadino conferitore;NOUN;cittadino conferitore;;multi-word;deprecated;deprecated
+cod. cer;NOUN;codice del catalogo europeo dei rifiuti;cer_NOUN;mixed compound;admitted;deprecated
+codice cer;NOUN;codice del catalogo europeo dei rifiuti;cer_NOUN;mixed compound;preferred;admitted
+coefficiente di adattamento per superficie;NOUN;coefficiente di adattamento per superficie;;multi-word;;
+ka;NOUN;coefficiente potenziale di produzione;;symbol;;
+coefficiente proporzionale di produttività;NOUN;coefficiente proporzionale di produttività;;multi-word;;
+coefficiente proporzionale di produttività kb;NOUN;coefficiente proporzionale di produttività;"coefficiente proporzionale di produttività_NOUN; kb_NOUN";mixed compound;;
+kb;NOUN;coefficiente proporzionale di produttività;;symbol;;
+coefficienti per la determinazione della parte fissa e parte variabile;NOUN;coefficienti per la determinazione della parte fissa e parte variabile;parte variabile_NOUN;multi-word;;
+combustione;NOUN;combustione;;single-word;preferred;preferred
+operazione di combustione;NOUN;combustione;combustione_NOUN;multi-word;admitted;deprecated
+attività di pulitura e bruciatura;NOUN;combustione all'aperto;;multi-word;deprecated;deprecated
+combustione all'aperto;NOUN;combustione all'aperto;combustione_NOUN;multi-word;preferred;preferred
+compattatore;NOUN;compattatore;;single-word;preferred;admitted
+compattatore farid per raccolta rifiuti solidi urbani;NOUN;compattatore;"compattatore_NOUN; raccolta_NOUN; raccolta rifiuti_NOUN; raccolta rifiuti solidi urbani_NOUN; rifiuto_NOUN; rifiuto solido urbano_NOUN; rifiuto urbano_NOUN";multi-word;;
+eco compattatore;NOUN;compattatore;compattatore_NOUN;multi-word;admitted;admitted
+ecocompattatore;NOUN;compattatore;;single-word;admitted;preferred
+scarrabile pressa;NOUN;compattatore;scarrabile_NOUN;multi-word;admitted;deprecated
+ecocompattatore mangiaplastica;NOUN;compattatore mangiaplastica;ecocompattatore_NOUN;multi-word;admitted;preferred
+macchina mangia plastica;NOUN;compattatore mangiaplastica;plastica_NOUN;multi-word;deprecated;deprecated
+macchina mangiaplastica;NOUN;compattatore mangiaplastica;;multi-word;deprecated;admitted
+cartuccia esausta;NOUN;componente rimosso da apparecchiatura fuori uso;;multi-word;;
+compostabile;ADJ;compostabile;;single-word;preferred;preferred
+compostaggio;NOUN;compostaggio;;single-word;preferred;preferred
+compostaggio domestico;NOUN;compostaggio domestico;compostaggio_NOUN;multi-word;preferred;preferred
+compostiera;NOUN;compostiera;;single-word;preferred;preferred
+compostiera domestica;NOUN;compostiera domestica;;multi-word;preferred;preferred
+conferibile;ADJ;conferibile;;single-word;preferred;preferred
+conferimento;NOUN;conferimento;;single-word;preferred;preferred
+conferimento dei rifiuti;NOUN;conferimento;"conferimento_NOUN; rifiuto_NOUN";multi-word;admitted;admitted
+conferimento del rifiuto;NOUN;conferimento;"conferimento_NOUN; rifiuto_NOUN";multi-word;admitted;admitted
+conferimento delle frazioni;NOUN;conferimento;"conferimento_NOUN; frazione_NOUN";multi-word;admitted;deprecated
+conferimento separato dei rifiuti;NOUN;conferimento;"conferimento_NOUN; conferimento dei rifiuti_NOUN; rifiuto_NOUN";multi-word;admitted;deprecated
+deposito;NOUN;conferimento;;single-word;deprecated;admitted
+operazione di conferimento;NOUN;conferimento;conferimento_NOUN;multi-word;admitted;deprecated
+conferimento dei rifiuti speciali;NOUN;conferimento dei rifiuti speciali;"conferimento_NOUN; conferimento dei rifiuti_NOUN; rifiuto_NOUN; rifiuto speciale_NOUN";multi-word;preferred;preferred
+conferimento diretto;NOUN;conferimento diretto;conferimento_NOUN;multi-word;preferred;preferred
+conferimento presso l'isola ecologica;NOUN;conferimento diretto;"conferimento_NOUN; isola ecologica_NOUN";multi-word;admitted;admitted
+errato conferimento;NOUN;conferimento errato;conferimento_NOUN;multi-word;;
+conferimento fuori porta;NOUN;conferimento fuori porta;conferimento_NOUN;multi-word;admitted;admitted
+conferimento rifiuti su suolo pubblico;NOUN;conferimento fuori porta;"conferimento_NOUN; rifiuto_NOUN";multi-word;admitted;deprecated
+esposizione;NOUN;conferimento fuori porta;;single-word;admitted;preferred
+conferire;VERB;conferire;;single-word;preferred;preferred
+conferire i rifiuti;VERB;conferire;"conferire_VERB; rifiuto_NOUN";multi-word;admitted;admitted
+depositare;VERB;conferire;;single-word;deprecated;admitted
+depositare i rifiuti;VERB;conferire;"depositare_VERB; rifiuto_NOUN";multi-word;deprecated;admitted
+depositare rifiuti;VERB;conferire;"depositare_VERB; rifiuto_NOUN";multi-word;deprecated;admitted
+gettare;VERB;conferire;;single-word;deprecated;deprecated
+conferire direttamente;VERB;conferire direttamente;conferire_VERB;multi-word;;
+esporre;VERB;conferire fuori porta;;single-word;admitted;preferred
+conferito;ADJ;conferito;;single-word;preferred;preferred
+conferente;ADJ;conferitore;;single-word;;
+contenitore adibito alla raccolta delle frazioni di rifiuti;NOUN;contenitore di raccolta;"frazione_NOUN; frazione di rifiuti_NOUN; raccolta_NOUN; rifiuto_NOUN";multi-word;deprecated;deprecated
+contenitore apposito;NOUN;contenitore di raccolta;;multi-word;admitted;admitted
+contenitore di raccolta;NOUN;contenitore di raccolta;raccolta_NOUN;multi-word;preferred;preferred
+contenitore per la raccolta dei rifiuti urbani;NOUN;contenitore di raccolta;"raccolta_NOUN; raccolta dei rifiuti_NOUN; raccolta dei rifiuti urbani_NOUN; rifiuto_NOUN; rifiuto urbano_NOUN";multi-word;admitted;admitted
+contenitore predisposto;NOUN;contenitore di raccolta;;multi-word;admitted;admitted
+raccoglitore pile esauste;NOUN;contenitore di raccolta di batterie e accumulatori;"pila_NOUN; pila esausta_NOUN";multi-word;;
+contenitore adibito alla raccolta specifica degli oli;NOUN;contenitore di raccolta di oli e grassi commestibili;"olio_NOUN; raccolta_NOUN; raccolta degli oli_NOUN";multi-word;deprecated;deprecated
+contenitore di sostanze pericolose;NOUN;contenitore di sostanze pericolose;sostanza pericolosa_NOUN;multi-word;preferred;preferred
+contenitore etichettato con il simbolo f;NOUN;contenitore etichettato f;f_NOUN;multi-word;;
+contenitore etichettato con il simbolo t;NOUN;contenitore etichettato t;"contenitore etichettato t_NOUN; t_NOUN";multi-word;;
+contenitore etichettato t;NOUN;contenitore etichettato t;t_NOUN;multi-word;;
+contenitore etichettato con i simboli t e f;NOUN;contenitore etichettato t e f;"f_NOUN; t_NOUN";multi-word;;
+contenitore etichettato t e f;NOUN;contenitore etichettato t e f;"contenitore etichettato t_NOUN; f_NOUN; t_NOUN";multi-word;;
+contenitore siglato t/f/x;NOUN;contenitore etichettato t f e x;"f_NOUN; t_NOUN; x_NOUN";multi-word;;
+contenitore per il conferimento di farmaci;NOUN;contenitore farmaci scaduti;"conferimento_NOUN; farmaco_NOUN";multi-word;deprecated;deprecated
+corrosivo;ADJ;corrosivo;;single-word;preferred;preferred
+x;NOUN;corrosivo;;symbol;admitted;admitted
+costi di gestione;NOUN;costi di gestione del servizio di gestione dei rifiuti;;multi-word;admitted;admitted
+costi di smaltimento;NOUN;costi di smaltimento;smaltimento_NOUN;multi-word;admitted;admitted
+costi variabili;NOUN;costi variabili del servizio di gestione dei rifiuti;;multi-word;admitted;admitted
+criterio di assimilabilità dei rifiuti speciali non pericolosi ai rifiuti urbani;NOUN;criterio di assimilabilità dei rifiuti speciali non pericolosi ai rifiuti urbani;"assimilabilità_NOUN; pericoloso_ADJ; rifiuto_NOUN; rifiuto non pericoloso_NOUN; rifiuto speciale_NOUN; rifiuto speciale non pericoloso_NOUN; rifiuto urbano_NOUN";multi-word;;
+degrado estetico;NOUN;degrado estetico;;multi-word;;
+delibera arera;NOUN;delibera arera;;multi-word;preferred;preferred
+deposito temporaneo;NOUN;deposito temporaneo;deposito_NOUN;multi-word;preferred;preferred
+deposito temporaneo dei rifiuti;NOUN;deposito temporaneo;"deposito_NOUN; deposito temporaneo_NOUN; rifiuto_NOUN";multi-word;admitted;admitted
+deposito temporaneo del rifiuto;NOUN;deposito temporaneo;"deposito_NOUN; deposito temporaneo_NOUN; rifiuto_NOUN";multi-word;deprecated;deprecated
+stoccaggio provvisorio;NOUN;deposito temporaneo;stoccaggio_NOUN;multi-word;admitted;admitted
+deposito temporaneo della frazione dei rifiuti solidi urbani;NOUN;deposito temporaneo dei rifiuti urbani;"deposito_NOUN; deposito temporaneo_NOUN; frazione_NOUN; frazione dei rifiuti solidi urbani_NOUN; frazione dei rifiuti urbani_NOUN; rifiuto_NOUN; rifiuto solido urbano_NOUN; rifiuto urbano_NOUN";multi-word;;
+deposito temporaneo del rifiuto secco indifferenziato;NOUN;deposito temporaneo dei rifiuti urbani non differenziabili;"deposito_NOUN; deposito temporaneo_NOUN; deposito temporaneo del rifiuto_NOUN; indifferenziato_NOUN; rifiuto_NOUN; rifiuto indifferenziato_NOUN; rifiuto secco indifferenziato_NOUN";multi-word;;
+dichiarazione di cessazione;NOUN;dichiarazione di cessazione del servizio;;multi-word;admitted;admitted
+dichiarazione tari;NOUN;dichiarazione tari;tari_NOUN;multi-word;admitted;admitted
+differenziabile;ADJ;differenziabile;;single-word;preferred;preferred
+differenziare;VERB;differenziare;;single-word;preferred;preferred
+differenziato;ADJ;differenziato;;single-word;preferred;preferred
+discarica;NOUN;discarica;;single-word;;
+disciplina dei centri di raccolta;NOUN;disciplina dei centri di raccolta;"centro di raccolta_NOUN; raccolta_NOUN";multi-word;preferred;preferred
+disciplina dei centri di raccolta dei rifiuti urbani raccolti in modo differenziato;NOUN;disciplina dei centri di raccolta;"centro di raccolta_NOUN; centro di raccolta dei rifiuti urbani_NOUN; centro di raccolta dei rifiuti urbani raccolti in modo differenziato_NOUN; differenziato_ADJ; disciplina dei centri di raccolta_NOUN; raccolta_NOUN; raccolta dei rifiuti urbani_NOUN; raccolta rifiuti_NOUN; rifiuto_NOUN; rifiuto urbano_NOUN";multi-word;admitted;deprecated
+disciplinare per la gestione dei centri di raccolta comunali;NOUN;disciplina dei centri di raccolta;"centro di raccolta_NOUN; centro di raccolta comunale_NOUN; raccolta_NOUN";multi-word;admitted;admitted
+avviso di pagamento;NOUN;documento di riscossione;;multi-word;preferred;admitted
+bolletta;NOUN;documento di riscossione;;single-word;deprecated;preferred
+eco-dizionario;NOUN;ecodizionario;;single-word;admitted;admitted
+ecosostenibile;ADJ;ecosostenibile;;single-word;preferred;preferred
+ecovigilanza;NOUN;ecovigilanza;;single-word;;
+servizio di ecovigilanza;NOUN;ecovigilanza;ecovigilanza_NOUN;multi-word;;
+emissione;NOUN;emissione;;single-word;preferred;preferred
+energia green;NOUN;energia pulita;green_ADJ;multi-word;admitted;admitted
+fauna;NOUN;fauna;;single-word;preferred;preferred
+ferro;NOUN;ferro;;single-word;preferred;preferred
+filiera di destinazione;NOUN;filiera per la raccolta ed il trattamento dei rifiuti;;multi-word;;
+fir;NOUN;formulario di identificazione del rifiuto;;acronym;admitted;deprecated
+frazione valorizzabile economicamente;NOUN;frazione mercelogica valorizzabile economicamente;frazione_NOUN;multi-word;admitted;deprecated
+frazione;NOUN;frazione merceologica;;single-word;admitted;admitted
+frazione merceologica;NOUN;frazione merceologica;frazione_NOUN;multi-word;preferred;deprecated
+frazione merceologica dei rifiuti;NOUN;frazione merceologica;"frazione_NOUN; frazione merceologica_NOUN; rifiuto_NOUN";multi-word;admitted;deprecated
+gestione ambientale;NOUN;gestione ambientale;;multi-word;preferred;preferred
+gestione dei rifiuti;NOUN;gestione dei rifiuti;rifiuto_NOUN;multi-word;preferred;preferred
+gestione dei rifiuti differenziati;NOUN;gestione dei rifiuti;"differenziato_ADJ; gestione dei rifiuti_NOUN; gestione rifiuti_NOUN; rifiuto_NOUN; rifiuto differenziato_NOUN";multi-word;deprecated;deprecated
+gestione rifiuti;NOUN;gestione dei rifiuti;rifiuto_NOUN;multi-word;deprecated;admitted
+gestione dei rifiuti urbani;NOUN;gestione dei rifiuti urbani;"gestione dei rifiuti_NOUN; rifiuto_NOUN; rifiuto urbano_NOUN";multi-word;preferred;preferred
+gestione dei rifiuti urbani ed assimilati;NOUN;gestione dei rifiuti urbani;"gestione dei rifiuti_NOUN; gestione dei rifiuti urbani_NOUN; rifiuto_NOUN; rifiuto urbano_NOUN";multi-word;deprecated;deprecated
+gestione di rifiuti urbani;NOUN;gestione dei rifiuti urbani;"rifiuto_NOUN; rifiuto urbano_NOUN";multi-word;deprecated;admitted
+gestione centri di raccolta rifiuti urbani;NOUN;gestione del centro di raccolta;"centro di raccolta_NOUN; centro di raccolta rifiuti urbani_NOUN; gestione di rifiuti urbani_NOUN; gestione rifiuti_NOUN; raccolta_NOUN; raccolta rifiuti_NOUN; rifiuto_NOUN; rifiuto urbano_NOUN";multi-word;deprecated;admitted
+gestione del centro di raccolta;NOUN;gestione del centro di raccolta;"centro di raccolta_NOUN; raccolta_NOUN";multi-word;admitted;admitted
+gestione del servizio di raccolta;NOUN;gestione del servizio di raccolta;"raccolta_NOUN; servizio di raccolta_NOUN";multi-word;admitted;admitted
+gestione del servizio di raccolta per i rifiuti;NOUN;gestione del servizio di raccolta;"gestione del servizio di raccolta_NOUN; raccolta_NOUN; rifiuto_NOUN; servizio di raccolta_NOUN";multi-word;deprecated;deprecated
+gestione del servizio di raccolta per i rifiuti provenienti da luoghi adibiti ad uso di civile abitazione;NOUN;gestione del servizio di raccolta dei rifiuti domestici;"gestione del servizio di raccolta_NOUN; gestione del servizio di raccolta per i rifiuti_NOUN; raccolta_NOUN; rifiuto_NOUN; rifiuto proveniente da luogo adibito ad uso di civile abitazione_NOUN; servizio di raccolta_NOUN; servizio di raccolta per i rifiuti provenienti da luoghi adibiti ad uso di civile abitazione_NOUN";multi-word;deprecated;deprecated
+gestione dei servizi di igiene urbana;NOUN;gestione integrata dei rifiuti urbani;"igiene urbana_NOUN; servizio di igiene urbana_NOUN";multi-word;admitted;admitted
+gestione del ciclo integrato dei rifiuti;NOUN;gestione integrata dei rifiuti urbani;"ciclo integrato dei rifiuti_NOUN; gestione dei rifiuti_NOUN; gestione rifiuti_NOUN; rifiuto_NOUN";multi-word;admitted;deprecated
+gestione del servizio dei rifiuti urbani ed assimilati;NOUN;gestione integrata dei rifiuti urbani;"rifiuto_NOUN; rifiuto urbano_NOUN";multi-word;deprecated;deprecated
+raccolta differenziata e igiene del suolo;NOUN;gestione integrata dei rifiuti urbani;"igiene del suolo_NOUN; raccolta_NOUN; raccolta differenziata_NOUN";multi-word;deprecated;admitted
+raccolta differenziata e servizi complementari;NOUN;gestione integrata dei rifiuti urbani;"raccolta_NOUN; raccolta differenziata_NOUN";multi-word;deprecated;admitted
+servizio di gestione dei rifiuti;NOUN;gestione integrata dei rifiuti urbani;"gestione dei rifiuti_NOUN; rifiuto_NOUN";multi-word;deprecated;admitted
+servizio di gestione dei rifiuti urbani;NOUN;gestione integrata dei rifiuti urbani;"gestione dei rifiuti_NOUN; gestione dei rifiuti urbani_NOUN; rifiuto_NOUN; rifiuto urbano_NOUN; servizio di gestione dei rifiuti_NOUN";multi-word;admitted;admitted
+servizio di gestione del ciclo dei rifiuti urbani;NOUN;gestione integrata dei rifiuti urbani;"ciclo dei rifiuti_NOUN; ciclo dei rifiuti urbani_NOUN; rifiuto_NOUN; rifiuto urbano_NOUN";multi-word;admitted;deprecated
+servizio di gestione integrata dei rifiuti;NOUN;gestione integrata dei rifiuti urbani;"gestione dei rifiuti_NOUN; rifiuto_NOUN; servizio di gestione dei rifiuti_NOUN; servizio rifiuti_NOUN";multi-word;admitted;admitted
+servizio di igiene urbana;NOUN;gestione integrata dei rifiuti urbani;igiene urbana_NOUN;multi-word;admitted;preferred
+servizio gestione integrata rifiuti;NOUN;gestione integrata dei rifiuti urbani;;multi-word;deprecated;admitted
+servizio integrato di igiene urbana;NOUN;gestione integrata dei rifiuti urbani;"igiene urbana_NOUN; servizio di igiene urbana_NOUN";multi-word;admitted;admitted
+servizio integrato di igiene urbana e servizi accessori;NOUN;gestione integrata dei rifiuti urbani;"igiene urbana_NOUN; servizio di igiene urbana_NOUN; servizio integrato di igiene urbana_NOUN";multi-word;admitted;admitted
+servizio integrato gestione rifiuti;NOUN;gestione integrata dei rifiuti urbani;"gestione rifiuti_NOUN; rifiuto_NOUN";multi-word;deprecated;admitted
+servizio integrato gestione rifiuti – raccolta differenziata;NOUN;gestione integrata dei rifiuti urbani;"gestione rifiuti_NOUN; raccolta_NOUN; raccolta differenziata_NOUN; rifiuto_NOUN; servizio integrato gestione rifiuti_NOUN";multi-word;deprecated;admitted
+servizio integrato gestione rifiuti – raccolta differenziata e servizi complementari;NOUN;gestione integrata dei rifiuti urbani;"gestione rifiuti_NOUN; raccolta_NOUN; raccolta differenziata_NOUN; rifiuto_NOUN; servizio integrato gestione rifiuti_NOUN";multi-word;admitted;admitted
+servizio rifiuti;NOUN;gestione integrata dei rifiuti urbani;rifiuto_NOUN;multi-word;deprecated;deprecated
+attività di bollettazione;NOUN;gestione tariffe e rapporto con gli utenti;;multi-word;admitted;deprecated
+gestore dell'attività di gestione tariffe;NOUN;gestione tariffe e rapporto con gli utenti;"gestore_NOUN; tariffa_NOUN";multi-word;;
+gestore;NOUN;gestore;;single-word;preferred;admitted
+gestore del servizio di igiene urbana;NOUN;gestore;"gestore_NOUN; igiene urbana_NOUN; servizio di igiene urbana_NOUN";multi-word;admitted;preferred
+gestore del servizio di igiene urbana della città;NOUN;gestore;"gestore_NOUN; gestore del servizio di igiene urbana_NOUN; igiene urbana_NOUN; servizio di igiene urbana_NOUN";multi-word;admitted;admitted
+soggetto gestore;NOUN;gestore;gestore_NOUN;multi-word;admitted;deprecated
+gestore del centro di raccolta differenziata;NOUN;gestore del centro di raccolta;"centro di raccolta_NOUN; centro di raccolta differenziata_NOUN; gestore_NOUN; raccolta_NOUN; raccolta differenziata_NOUN";multi-word;deprecated;deprecated
+gestore del pronto intervento;NOUN;gestore del pronto intervento;gestore_NOUN;multi-word;preferred;preferred
+gestore della raccolta e trasporto;NOUN;gestore della raccolta e trasporto;"gestore_NOUN; raccolta_NOUN; trasporto_NOUN";multi-word;preferred;preferred
+gestore dello spazzamento e lavaggio;NOUN;gestore dello spazzamento e lavaggio;"gestore_NOUN; lavaggio_NOUN; spazzamento_NOUN";multi-word;preferred;preferred
+gestore dello spazzamento e lavaggio delle strade;NOUN;gestore dello spazzamento e lavaggio;"gestore_NOUN; gestore dello spazzamento e lavaggio_NOUN; lavaggio_NOUN; lavaggio delle strade_NOUN; spazzamento_NOUN; spazzamento delle strade_NOUN";multi-word;admitted;admitted
+grande utenza;NOUN;grande utenza;utenza_NOUN;multi-word;preferred;preferred
+lavatrici, lavastoviglie, cucine, scaldabagni;NOUN;grandi bianchi;;multi-word;deprecated;admitted
+grasso;NOUN;grasso;;single-word;preferred;preferred
+grasso commestibile;NOUN;grasso;grasso_NOUN;multi-word;admitted;admitted
+grasso animale;NOUN;grasso animale;grasso_NOUN;multi-word;preferred;preferred
+grasso vegetale;NOUN;grasso vegetale;grasso_NOUN;multi-word;preferred;preferred
+green;ADJ;green;;single-word;preferred;preferred
+guida al conferimento;NOUN;guida al conferimento;conferimento_NOUN;multi-word;admitted;admitted
+guida alla raccolta differenziata;NOUN;guida al conferimento;"raccolta_NOUN; raccolta differenziata_NOUN";multi-word;preferred;preferred
+condizioni igieniche e di decoro;NOUN;igiene urbana;;multi-word;admitted;admitted
+decoro;NOUN;igiene urbana;;single-word;admitted;admitted
+decoro dell'ambiente;NOUN;igiene urbana;decoro_NOUN;multi-word;admitted;admitted
+igiene ambientale;NOUN;igiene urbana;;multi-word;admitted;admitted
+igiene urbana;NOUN;igiene urbana;;multi-word;preferred;preferred
+imballaggio;NOUN;imballaggio;;multi-word;preferred;preferred
+box in cartone;NOUN;imballaggio di carta e cartone;cartone_NOUN;multi-word;deprecated;admitted
+imballaggi di cartone e cartoncino;NOUN;imballaggio di carta e cartone;"cartone_NOUN; imballaggio_NOUN; imballaggio di cartone_NOUN";multi-word;deprecated;admitted
+imballaggi e box in cartone;NOUN;imballaggio di carta e cartone;"box in cartone_NOUN; cartone_NOUN; imballaggio_NOUN; imballaggio in cartone_NOUN";multi-word;deprecated;admitted
+imballaggi in cartone ondulato e cartoncino;NOUN;imballaggio di carta e cartone;"cartone_NOUN; imballaggio_NOUN; imballaggio in cartone_NOUN";multi-word;deprecated;admitted
+imballaggi in cartone, carta e cartoncini;NOUN;imballaggio di carta e cartone;"carta_NOUN; carta e cartoncini_NOUN; cartone_NOUN; imballaggio_NOUN; imballaggio in cartone_NOUN";multi-word;deprecated;admitted
+imballaggio di cartone;NOUN;imballaggio di carta e cartone;"cartone_NOUN; imballaggio_NOUN";multi-word;admitted;preferred
+imballaggio in carta e cartone;NOUN;imballaggio di carta e cartone;"carta_NOUN; carta e cartone_NOUN; cartone_NOUN; imballaggio_NOUN; imballaggio in cartone_NOUN";multi-word;admitted;admitted
+imballaggio in cartone;NOUN;imballaggio di carta e cartone;"cartone_NOUN; imballaggio_NOUN";multi-word;admitted;preferred
+imballaggio di plastica;NOUN;imballaggio di plastica;"imballaggio_NOUN; plastica_NOUN";multi-word;preferred;preferred
+imballaggio in plastica;NOUN;imballaggio di plastica;"imballaggio_NOUN; plastica_NOUN";multi-word;preferred;preferred
+imballaggio in vetro;NOUN;imballaggio di vetro;"imballaggio_NOUN; vetro_NOUN";multi-word;preferred;preferred
+imballaggio in legno;NOUN;imballaggio in legno;"imballaggio_NOUN; legno_NOUN";multi-word;preferred;preferred
+imballaggio in legno ingombrante;NOUN;imballaggio in legno;"imballaggio_NOUN; imballaggio in legno_NOUN; ingombrante_NOUN; legno_NOUN";multi-word;;
+imballaggio in materiale misto;NOUN;imballaggio in materiale misto;imballaggio_NOUN;multi-word;preferred;admitted
+imballaggio in metallo;NOUN;imballaggio metallico;imballaggio_NOUN;multi-word;admitted;preferred
+imballaggio metallico;NOUN;imballaggio metallico;imballaggio_NOUN;multi-word;preferred;admitted
+imballaggio secondario;NOUN;imballaggio secondario;imballaggio_NOUN;multi-word;preferred;admitted
+impatto inquinante;NOUN;impatto inquinante;;multi-word;preferred;preferred
+impianto di compostaggio;NOUN;impianto di compostaggio;compostaggio_NOUN;multi-word;preferred;preferred
+impianto di frantumazione;NOUN;impianto di frantumazione;;multi-word;preferred;preferred
+impianto di frantumazione autorizzato;NOUN;impianto di frantumazione;impianto di frantumazione_NOUN;multi-word;;
+impianto di smaltimento;NOUN;impianto di smaltimento;smaltimento_NOUN;multi-word;preferred;preferred
+struttura di smaltimento;NOUN;impianto di smaltimento;smaltimento_NOUN;multi-word;admitted;admitted
+centro di stoccaggio;NOUN;impianto di stoccaggio;stoccaggio_NOUN;multi-word;admitted;admitted
+impianto di conferimento;NOUN;impianto di trattamento;conferimento_NOUN;multi-word;admitted;admitted
+impianto di destinazione;NOUN;impianto di trattamento;;multi-word;admitted;admitted
+impianto di destinazione dei rifiuti;NOUN;impianto di trattamento;"impianto di destinazione_NOUN; rifiuto_NOUN";multi-word;admitted;admitted
+impianto di destinazione dei rifiuti raccolti;NOUN;impianto di trattamento;"impianto di destinazione_NOUN; impianto di destinazione dei rifiuti_NOUN; rifiuto_NOUN";multi-word;deprecated;deprecated
+impianto di trattamento rifiuti;NOUN;impianto di trattamento;rifiuto_NOUN;multi-word;admitted;admitted
+piattaforma di conferimento;NOUN;impianto di trattamento;conferimento_NOUN;multi-word;admitted;deprecated
+impianto finale;NOUN;impianto finale;;multi-word;preferred;preferred
+impianto finale di smaltimento;NOUN;impianto finale di smaltimento;"impianto di smaltimento_NOUN; impianto finale_NOUN; smaltimento_NOUN";multi-word;preferred;preferred
+impianto intermedio;NOUN;impianto intermedio;;multi-word;preferred;preferred
+impianto intermedio di smaltimento;NOUN;impianto intermedio di smaltimento;"impianto di smaltimento_NOUN; impianto intermedio_NOUN; smaltimento_NOUN";multi-word;preferred;preferred
+indifferenziato;ADJ;indifferenziato;;single-word;admitted;preferred
+f;NOUN;infiammabile;;symbol;admitted;admitted
+infiammabile;ADJ;infiammabile;;single-word;preferred;preferred
+interruzione programmata del servizio;NOUN;interruzione programmata del servizio;;multi-word;;
+lampada a vapori di sodio;NOUN;lampada a vapori di sodio;;multi-word;;
+lampada fluorescente;NOUN;lampada fluorescente;;multi-word;preferred;preferred
+tubo al neon;NOUN;lampada fluorescente;;multi-word;admitted;admitted
+tubo contenente mercurio;NOUN;lampada fluorescente;;multi-word;admitted;admitted
+tubo di neon;NOUN;lampada fluorescente;;multi-word;deprecated;deprecated
+tubo fluorescente;NOUN;lampada fluorescente;;multi-word;admitted;admitted
+tubo fluorescente al neon;NOUN;lampada fluorescente;"tubo al neon_NOUN; tubo fluorescente_NOUN";multi-word;admitted;admitted
+tubo fluorescente contenente mercurio;NOUN;lampada fluorescente;"tubo contenente mercurio_NOUN; tubo fluorescente_NOUN";multi-word;admitted;admitted
+tubo fluorescente rd;NOUN;lampada fluorescente;tubo fluorescente_NOUN;mixed compound;admitted;deprecated
+lampadina;NOUN;lampadina;;single-word;preferred;preferred
+acc;PROPN;latta;;symbol;admitted;admitted
+banda stagnata;NOUN;latta;;multi-word;preferred;deprecated
+latta;NOUN;latta;;single-word;admitted;preferred
+lattina;NOUN;lattina;;single-word;preferred;preferred
+lattina col simbolo al;NOUN;lattina;"al_PROPN; lattina_NOUN";multi-word;admitted;admitted
+lattina in alluminio con il simbolo al;NOUN;lattina;"al_PROPN; lattina_NOUN";multi-word;admitted;admitted
+lavaggio;NOUN;lavaggio;;single-word;preferred;preferred
+lavaggio delle strade;NOUN;lavaggio;lavaggio_NOUN;multi-word;admitted;admitted
+lavaggio suolo;NOUN;lavaggio;lavaggio_NOUN;multi-word;deprecated;deprecated
+lavaggio suolo aree pubbliche;NOUN;lavaggio;"lavaggio_NOUN; lavaggio suolo_NOUN";multi-word;deprecated;deprecated
+legno non trattato;NOUN;legno non trattato;legno_NOUN;multi-word;;
+limite graduale di crescita tariffaria;NOUN;limite graduale di crescita tariffaria;;multi-word;;
+limite di accettabilità;NOUN;limite quantitativo di conferimento;;multi-word;deprecated;deprecated
+limite quantitativo di conferimento;NOUN;limite quantitativo di conferimento;conferimento_NOUN;multi-word;deprecated;deprecated
+limiti di accettabilità e frequenze;NOUN;limite quantitativo di conferimento;limite di accettabilità_NOUN;multi-word;deprecated;deprecated
+quota limite di conferimento mensile;NOUN;limite quantitativo di conferimento;conferimento_NOUN;multi-word;preferred;preferred
+manutenzione del verde;NOUN;manutenzione del verde;;multi-word;admitted;preferred
+manutenzione del verde pubblico;NOUN;manutenzione del verde;manutenzione del verde_NOUN;multi-word;preferred;admitted
+mastello;NOUN;mastello;;single-word;admitted;admitted
+mastello contenitore;NOUN;mastello;mastello_NOUN;multi-word;admitted;admitted
+secchiello;NOUN;mastello;;single-word;deprecated;preferred
+secchiello contenitore;NOUN;mastello;secchiello_NOUN;multi-word;admitted;admitted
+secchiello areato;NOUN;mastello areato;secchiello_NOUN;multi-word;deprecated;preferred
+materiale ferroso;NOUN;materiale ferroso;;multi-word;;
+metodo mtr;NOUN;metodo tariffario rifiuti;mtr_NOUN;mixed compound;admitted;deprecated
+mtr;NOUN;metodo tariffario rifiuti;;acronym;admitted;deprecated
+mtr2;NOUN;metodo tariffario rifiuti 2;;acronym;admitted;deprecated
+mtr2-arera;NOUN;metodo tariffario rifiuti 2;mtr2_NOUN;acronym;admitted;deprecated
+deposito di rifiuti;NOUN;microdiscarica;"deposito_NOUN; rifiuto_NOUN";multi-word;deprecated;deprecated
+micro discarica;NOUN;microdiscarica;discarica_NOUN;multi-word;deprecated;deprecated
+microdiscarica;NOUN;microdiscarica;;single-word;preferred;preferred
+microparticella sintetica;NOUN;microplastica;;multi-word;admitted;deprecated
+microplastica;NOUN;microplastica;;single-word;preferred;preferred
+misura di gestione ambientale;NOUN;misura di gestione ambientale;gestione ambientale_NOUN;multi-word;;
+modalità di conferimento;NOUN;modalità di raccolta;conferimento_NOUN;multi-word;deprecated;deprecated
+modalità di raccolta;NOUN;modalità di raccolta;raccolta_NOUN;multi-word;preferred;preferred
+modalità di raccolta differenziata;NOUN;modalità di raccolta;"modalità di raccolta_NOUN; raccolta_NOUN; raccolta differenziata_NOUN";multi-word;admitted;admitted
+modalità per il conferimento;NOUN;modalità di raccolta;conferimento_NOUN;multi-word;deprecated;deprecated
+modulo reclami;NOUN;modulo reclami;;multi-word;;
+modulo segnalazione – reclamo – suggerimento;NOUN;modulo segnalazione  reclamo  suggerimento;;multi-word;;
+frazione multimateriale;NOUN;multimateriale;"frazione_NOUN; multimateriale_NOUN";multi-word;admitted;deprecated
+metalli - plastica;NOUN;multimateriale;plastica_NOUN;multi-word;admitted;admitted
+metalli e imballaggi in plastica;NOUN;multimateriale;"imballaggio_NOUN; imballaggio in plastica_NOUN; plastica_NOUN";multi-word;admitted;admitted
+metallo - plastica;NOUN;multimateriale;plastica_NOUN;multi-word;admitted;admitted
+multimateriale;NOUN;multimateriale;;single-word;preferred;preferred
+multimateriale plastica e metalli;NOUN;multimateriale;"multimateriale_NOUN; plastica_NOUN; plastica e metalli_NOUN";multi-word;deprecated;deprecated
+plastica e metalli;NOUN;multimateriale;plastica_NOUN;multi-word;admitted;admitted
+plastica – alluminio e banda stagnata;NOUN;multimateriale;"alluminio_NOUN; banda stagnata_NOUN; plastica_NOUN";multi-word;admitted;deprecated
+plastica – lattine;NOUN;multimateriale;"lattina_NOUN; plastica_NOUN";multi-word;admitted;admitted
+plastica, acciaio e alluminio;NOUN;multimateriale;plastica_NOUN;multi-word;admitted;admitted
+non conferibile;ADJ;non conferibile;conferibile_ADJ;multi-word;preferred;preferred
+non differenziabile;ADJ;non differenziabile;differenziabile_ADJ;multi-word;preferred;preferred
+non pericoloso;ADJ;non pericoloso;pericoloso_ADJ;multi-word;preferred;preferred
+non putrescibile;ADJ;non putrescibile;putrescibile_ADJ;multi-word;preferred;preferred
+non riciclabile;ADJ;non riciclabile;;multi-word;preferred;preferred
+grasso vegetale esausto;NOUN;oli e grassi commestibili;grasso_NOUN;multi-word;admitted;admitted
+oli e grassi;NOUN;oli e grassi commestibili;"grasso_NOUN; olio_NOUN";multi-word;admitted;admitted
+oli e grassi commestibili;NOUN;oli e grassi commestibili;"grasso_NOUN; grasso commestibile_NOUN; oli e grassi_NOUN; olio_NOUN; olio commestibile_NOUN";multi-word;preferred;admitted
+oli e grassi vegetali esausti;NOUN;oli e grassi commestibili;"grasso_NOUN; grasso vegetale_NOUN; grasso vegetale esausto_NOUN; oli e grassi_NOUN; olio_NOUN; olio esausto_NOUN; olio vegetale esausto_NOUN";multi-word;admitted;admitted
+oli esausti e grassi vegetali;NOUN;oli e grassi commestibili;"grasso_NOUN; grasso vegetale_NOUN; oli e grassi_NOUN; olio_NOUN; olio esausto_NOUN";multi-word;deprecated;deprecated
+oli esausti e grassi vegetali di provenieza domestica;NOUN;oli e grassi commestibili;"grasso_NOUN; oli e grassi_NOUN; oli esausti e grassi vegetali_NOUN; olio_NOUN; olio esausto_NOUN";multi-word;deprecated;deprecated
+oli vegetali e animali esausti;NOUN;oli e grassi commestibili;"olio_NOUN; olio animale esausto_NOUN; olio esausto_NOUN; olio vegetale_NOUN; olio vegetale esausto_NOUN";multi-word;deprecated;deprecated
+olio;NOUN;oli e grassi commestibili;;single-word;deprecated;deprecated
+olio alimentare deteriorato;NOUN;oli e grassi commestibili;olio_NOUN;multi-word;deprecated;admitted
+olio alimentare esausto;NOUN;oli e grassi commestibili;"olio_NOUN; olio esausto_NOUN";multi-word;admitted;preferred
+olio alimentare scaduto;NOUN;oli e grassi commestibili;olio_NOUN;multi-word;deprecated;admitted
+olio animale esausto;NOUN;oli e grassi commestibili;"olio_NOUN; olio esausto_NOUN";multi-word;admitted;admitted
+olio commestibile;NOUN;oli e grassi commestibili;olio_NOUN;multi-word;admitted;admitted
+olio esausto;NOUN;oli e grassi commestibili;olio_NOUN;multi-word;admitted;admitted
+olio esausto commestibile;NOUN;oli e grassi commestibili;"olio_NOUN; olio commestibile_NOUN; olio esausto_NOUN";multi-word;deprecated;deprecated
+olio usato;NOUN;oli e grassi commestibili;olio_NOUN;multi-word;deprecated;admitted
+olio vegetale;NOUN;oli e grassi commestibili;olio_NOUN;multi-word;admitted;admitted
+olio vegetale da frittura;NOUN;oli e grassi commestibili;"olio_NOUN; olio vegetale_NOUN";multi-word;deprecated;admitted
+olio vegetale esausto;NOUN;oli e grassi commestibili;"olio_NOUN; olio esausto_NOUN; olio vegetale_NOUN";multi-word;admitted;admitted
+olio minerale;NOUN;olio minerale usato;olio_NOUN;multi-word;admitted;admitted
+olio motore;NOUN;olio minerale usato;olio_NOUN;multi-word;deprecated;admitted
+olio non commestibile;NOUN;olio minerale usato;"olio_NOUN; olio commestibile_NOUN";multi-word;deprecated;admitted
+addetto al servizio dell'isola;NOUN;operatore del centro di raccolta;isola_NOUN;multi-word;deprecated;admitted
+addetto all'isola;NOUN;operatore del centro di raccolta;isola_NOUN;multi-word;deprecated;admitted
+addetto alla gestione;NOUN;operatore del centro di raccolta;;multi-word;admitted;admitted
+operatore del centro di raccolta;NOUN;operatore del centro di raccolta;"centro di raccolta_NOUN; raccolta_NOUN";multi-word;preferred;preferred
+operatore dell'isola ecologica;NOUN;operatore del centro di raccolta;isola ecologica_NOUN;multi-word;admitted;admitted
+operatore di pronto intervento;NOUN;operatore di pronto intervento;;multi-word;preferred;preferred
+operatore ecologico;NOUN;operatore ecologico;;multi-word;preferred;preferred
+pannolini;NOUN;pannolini pannoloni e traverse;;single-word;admitted;admitted
+pannolini e pannoloni;NOUN;pannolini pannoloni e traverse;"pannolini_NOUN; pannoloni_NOUN";multi-word;admitted;admitted
+pannolini | pannoloni | traverse;NOUN;pannolini pannoloni e traverse;"pannolini_NOUN; pannoloni_NOUN";multi-word;admitted;admitted
+pannolini, pannoloni e traverse;NOUN;pannolini pannoloni e traverse;"pannolini_NOUN; pannoloni_NOUN";multi-word;preferred;preferred
+pannoloni;NOUN;pannolini pannoloni e traverse;;single-word;admitted;admitted
+patrimonio verde;NOUN;patrimonio verde;;multi-word;preferred;preferred
+percentuale di raccolta differenziata;NOUN;percentuale di raccolta differenziata;"raccolta_NOUN; raccolta differenziata_NOUN";multi-word;preferred;preferred
+percentuale di raccolta differenziata dei rifiuti;NOUN;percentuale di raccolta differenziata;"percentuale di raccolta differenziata_NOUN; raccolta_NOUN; raccolta differenziata_NOUN; raccolta differenziata dei rifiuti_NOUN; rifiuto_NOUN";multi-word;admitted;admitted
+performance ambientali;NOUN;performance ambientale;;multi-word;;
+pericoloso;ADJ;pericoloso;;single-word;preferred;preferred
+piano di raccolta;NOUN;piano di raccolta differenziata;raccolta_NOUN;multi-word;admitted;admitted
+piano di raccolta differenziata dei rifiuti;NOUN;piano di raccolta differenziata;"piano di raccolta_NOUN; raccolta_NOUN; raccolta differenziata_NOUN; raccolta differenziata dei rifiuti_NOUN; rifiuto_NOUN";multi-word;admitted;admitted
+piano di riorganizzazione del servizio di raccolta rsu;NOUN;piano di raccolta differenziata;"piano di raccolta_NOUN; raccolta_NOUN; raccolta rsu_NOUN; rsu_NOUN; servizio di raccolta_NOUN";mixed compound;admitted;deprecated
+pef;NOUN;piano economico finanziario della gestione dei rifiuti;;acronym;admitted;deprecated
+piano finanziario;NOUN;piano economico finanziario della gestione dei rifiuti;;multi-word;admitted;admitted
+piano finanziario del servizio di gestione dei rifiuti;NOUN;piano economico finanziario della gestione dei rifiuti;"gestione dei rifiuti_NOUN; piano finanziario_NOUN; rifiuto_NOUN; servizio di gestione dei rifiuti_NOUN";multi-word;admitted;preferred
+piano tariffario;NOUN;piano tariffario;;multi-word;admitted;admitted
+piano tariffario tari;NOUN;piano tariffario;"piano tariffario_NOUN; tari_NOUN";mixed compound;preferred;admitted
+piano tariffario tassa sui rifiuti;NOUN;piano tariffario;"piano tariffario_NOUN; rifiuto_NOUN; tassa sui rifiuti_NOUN";multi-word;admitted;preferred
+piano tariffe;NOUN;piano tariffario;tariffa_NOUN;multi-word;admitted;admitted
+piano tariffe tari;NOUN;piano tariffario;"piano tariffe_NOUN; tari_NOUN; tariffa_NOUN";multi-word;admitted;admitted
+piattaforma di trasferenza;NOUN;piattaforma di trasferenza;;multi-word;admitted;deprecated
+piccolo raee;NOUN;piccoli rifiuti di apparecchiature elettriche ed elettroniche;raee_NOUN;mixed compound;admitted;admitted
+accumulatore;NOUN;pila;;single-word;preferred;deprecated
+batteria;NOUN;pila;;single-word;admitted;admitted
+pila;NOUN;pila;;single-word;admitted;preferred
+pila portatile;NOUN;pila portatile;pila_NOUN;multi-word;preferred;admitted
+pile e batterie ad uso domestico;NOUN;pila portatile;"batteria_NOUN; pila_NOUN";multi-word;admitted;admitted
+piombo;NOUN;piombo;;single-word;preferred;preferred
+materiale in plastica;NOUN;plastica;plastica_NOUN;multi-word;;
+plastica in mono materiale;NOUN;plastica mono materiale;plastica_NOUN;multi-word;;
+plastica riciclata;NOUN;plastica riciclata;plastica_NOUN;multi-word;preferred;preferred
+pneumatico;NOUN;pneumatici fuori uso;;single-word;admitted;admitted
+pneumatico derivante dalla manutenzione dei veicoli ad uso privato;NOUN;pneumatici fuori uso;pneumatico_NOUN;multi-word;admitted;deprecated
+pneumatico derivante dalla manutenzione dei veicoli ad uso privato effettuata in proprio da utenze domestiche;NOUN;pneumatici fuori uso;"pneumatico_NOUN; pneumatico derivante dalla manutenzione dei veicoli ad uso privato_NOUN; utenza_NOUN; utenza domestica_NOUN";multi-word;deprecated;
+pneumatico derivante dalla manutenzione dei veicoli ad uso privato effettuata in proprio dalle utenze domestiche;NOUN;pneumatici fuori uso;"pneumatico_NOUN; pneumatico derivante dalla manutenzione dei veicoli ad uso privato_NOUN; utenza_NOUN; utenza domestica_NOUN";multi-word;admitted;
+ruota gommata;NOUN;pneumatici fuori uso;;multi-word;;
+plc;NOUN;policaprolattone;;acronym;admitted;deprecated
+pe;NOUN;polietilene;;symbol;admitted;deprecated
+ps;NOUN;polistirolo;;symbol;admitted;deprecated
+prodotto tessile;NOUN;prodotto tessile;tessile_NOUN;multi-word;preferred;admitted
+scarto tessile;NOUN;prodotto tessile;scarto_NOUN;multi-word;admitted;admitted
+tessile;NOUN;prodotto tessile;;single-word;admitted;admitted
+tessili;NOUN;prodotto tessile;;single-word;admitted;preferred
+attività di pulizia dei fondali;NOUN;pulizia dei fondali;;multi-word;;
+bonifica dei fondali;NOUN;pulizia dei fondali;;multi-word;;
+pulizia degli arenili urbani;NOUN;pulizia delle spiagge;pulizia_NOUN;multi-word;;
+eco-punto;NOUN;punto di conferimento;;single-word;deprecated;admitted
+punto di conferimento;NOUN;punto di conferimento;conferimento_NOUN;multi-word;admitted;admitted
+punto di raccolta;NOUN;punto di conferimento;raccolta_NOUN;multi-word;preferred;preferred
+punto raccolta;NOUN;punto di conferimento;raccolta_NOUN;multi-word;deprecated;deprecated
+putrescibile;ADJ;putrescibile;;single-word;preferred;preferred
+quota fissa;NOUN;quota fissa;;multi-word;;
+parte variabile;NOUN;quota variabile tari;;multi-word;;
+quota variabile;NOUN;quota variabile tari;;multi-word;;
+raccolta;NOUN;raccolta;;single-word;preferred;preferred
+raccolta dei rifiuti;NOUN;raccolta;"raccolta_NOUN; rifiuto_NOUN";multi-word;admitted;admitted
+raccolta di rifiuti;NOUN;raccolta;"raccolta_NOUN; rifiuto_NOUN";multi-word;deprecated;admitted
+raccolta rifiuti;NOUN;raccolta;"raccolta_NOUN; rifiuto_NOUN";multi-word;deprecated;admitted
+raccolta/ritiro;NOUN;raccolta;"raccolta_NOUN; ritiro_NOUN";multi-word;admitted;admitted
+ritiro;NOUN;raccolta;;single-word;admitted;admitted
+ritiro rifiuti;NOUN;raccolta;"rifiuto_NOUN; ritiro_NOUN";multi-word;admitted;admitted
+servizio di raccolta;NOUN;raccolta;raccolta_NOUN;multi-word;admitted;admitted
+servizio di raccolta dei rifiuti;NOUN;raccolta;"raccolta_NOUN; raccolta dei rifiuti_NOUN; rifiuto_NOUN; servizio di raccolta_NOUN";multi-word;admitted;admitted
+raccolta degli oli;NOUN;raccolta degli oli e grassi commestibili;"olio_NOUN; raccolta_NOUN";multi-word;admitted;admitted
+raccolta degli oli esausti;NOUN;raccolta degli oli e grassi commestibili;"olio_NOUN; olio esausto_NOUN; raccolta_NOUN; raccolta degli oli_NOUN";multi-word;preferred;preferred
+raccolta differenziata degli oli vegetali e animali esausti;NOUN;raccolta degli oli e grassi commestibili;"oli vegetali e animali esausti_NOUN; olio_NOUN; olio animale esausto_NOUN; olio esausto_NOUN; olio vegetale esausto_NOUN; raccolta_NOUN; raccolta degli oli_NOUN; raccolta degli oli esausti_NOUN; raccolta differenziata_NOUN";multi-word;admitted;admitted
+raccolta olio alimentare esausto;NOUN;raccolta degli oli e grassi commestibili;"olio_NOUN; olio alimentare esausto_NOUN; olio esausto_NOUN; raccolta_NOUN";multi-word;deprecated;admitted
+servizio di raccolta degli oli esausti commestibili;NOUN;raccolta degli oli e grassi commestibili;"olio_NOUN; olio commestibile_NOUN; olio esausto_NOUN; olio esausto commestibile_NOUN; raccolta_NOUN; raccolta degli oli_NOUN; raccolta degli oli esausti_NOUN; servizio di raccolta_NOUN";multi-word;admitted;admitted
+servizio di raccolta di oli alimentari esausti;NOUN;raccolta degli oli e grassi commestibili;"olio_NOUN; olio alimentare esausto_NOUN; olio esausto_NOUN; raccolta_NOUN; servizio di raccolta_NOUN";multi-word;deprecated;admitted
+raccolta tessili;NOUN;raccolta dei prodotti tessili;"raccolta_NOUN; tessili_NOUN";multi-word;;
+raccolta organico;NOUN;raccolta dei rifiuti biodegradabili di cucine e mense;"organico_NOUN; raccolta_NOUN";multi-word;;
+servizio ingombranti;NOUN;raccolta dei rifiuti ingombranti;ingombrante_NOUN;multi-word;admitted;admitted
+raccolta dei rifiuti solidi urbani;NOUN;raccolta dei rifiuti urbani;"raccolta_NOUN; raccolta dei rifiuti_NOUN; raccolta dei rifiuti urbani_NOUN; rifiuto_NOUN; rifiuto solido urbano_NOUN; rifiuto urbano_NOUN";multi-word;admitted;admitted
+raccolta dei rifiuti urbani;NOUN;raccolta dei rifiuti urbani;"raccolta_NOUN; raccolta dei rifiuti_NOUN; rifiuto_NOUN; rifiuto urbano_NOUN";multi-word;preferred;preferred
+raccolta di rifiuti solidi urbani;NOUN;raccolta dei rifiuti urbani;"raccolta_NOUN; raccolta di rifiuti_NOUN; rifiuto_NOUN; rifiuto solido urbano_NOUN; rifiuto urbano_NOUN";multi-word;deprecated;deprecated
+raccolta rifiuti solidi urbani;NOUN;raccolta dei rifiuti urbani;"raccolta_NOUN; raccolta rifiuti_NOUN; rifiuto_NOUN; rifiuto solido urbano_NOUN; rifiuto urbano_NOUN";multi-word;deprecated;admitted
+raccolta rsu;NOUN;raccolta dei rifiuti urbani;"raccolta_NOUN; rsu_NOUN";mixed compound;admitted;deprecated
+servizio di raccolta per i rifiuti provenienti da luoghi adibiti ad uso di civile abitazione;NOUN;raccolta dei rifiuti urbani;"raccolta_NOUN; raccolta dei rifiuti_NOUN; rifiuto_NOUN; rifiuto proveniente da luogo adibito ad uso di civile abitazione_NOUN; servizio di raccolta_NOUN";multi-word;deprecated;deprecated
+raccolta dei rifiuti urbani e speciali;NOUN;raccolta dei rifiuti urbani e speciali;"raccolta_NOUN; raccolta dei rifiuti_NOUN; raccolta dei rifiuti urbani_NOUN; rifiuto_NOUN; rifiuto speciale_NOUN; rifiuto urbano_NOUN";multi-word;admitted;admitted
+raccolta di pannolini e pannoloni;NOUN;raccolta di pannolini pannoloni e traverse;"pannolini_NOUN; pannolini e pannoloni_NOUN; pannoloni_NOUN; raccolta_NOUN";multi-word;admitted;admitted
+servizio di raccolta di pannolini e pannoloni;NOUN;raccolta di pannolini pannoloni e traverse;"pannolini_NOUN; pannolini e pannoloni_NOUN; pannoloni_NOUN; raccolta_NOUN; raccolta di pannolini e pannoloni_NOUN; servizio di raccolta_NOUN";multi-word;admitted;admitted
+modalità stradale;NOUN;raccolta di prossimità;;multi-word;admitted;deprecated
+raccolta di prossimità;NOUN;raccolta di prossimità;raccolta_NOUN;multi-word;preferred;deprecated
+raccolta stradale;NOUN;raccolta di prossimità;raccolta_NOUN;multi-word;admitted;preferred
+raccolta stradale con cassonetti e campane;NOUN;raccolta di prossimità;"campana_NOUN; cassonetto_NOUN; raccolta_NOUN; raccolta stradale_NOUN";multi-word;admitted;admitted
+servizio di raccolta di prossimità;NOUN;raccolta di prossimità;"raccolta_NOUN; raccolta di prossimità_NOUN; servizio di raccolta_NOUN";multi-word;admitted;deprecated
+differenziata;NOUN;raccolta differenziata;;single-word;deprecated;admitted
+raccolta dei rifiuti in forma differenziata;NOUN;raccolta differenziata;"raccolta_NOUN; raccolta rifiuti_NOUN; rifiuto_NOUN";multi-word;deprecated;deprecated
+raccolta differenziata;NOUN;raccolta differenziata;raccolta_NOUN;multi-word;preferred;preferred
+raccolta differenziata dei rifiuti;NOUN;raccolta differenziata;"raccolta_NOUN; raccolta dei rifiuti_NOUN; raccolta differenziata_NOUN; rifiuto_NOUN";multi-word;admitted;admitted
+raccolta differenziata dei rifiuti solidi urbani;NOUN;raccolta differenziata;"raccolta_NOUN; raccolta dei rifiuti_NOUN; raccolta dei rifiuti solidi urbani_NOUN; raccolta dei rifiuti urbani_NOUN; raccolta differenziata_NOUN; raccolta differenziata dei rifiuti_NOUN; raccolta differenziata dei rifiuti urbani_NOUN; rifiuto_NOUN; rifiuto solido urbano_NOUN; rifiuto urbano_NOUN";multi-word;admitted;admitted
+raccolta differenziata dei rifiuti urbani;NOUN;raccolta differenziata;"raccolta_NOUN; raccolta dei rifiuti urbani_NOUN; raccolta differenziata_NOUN; raccolta differenziata dei rifiuti_NOUN; rifiuto_NOUN; rifiuto urbano_NOUN";multi-word;admitted;admitted
+raccolta differenziata rifiuti solidi urbani;NOUN;raccolta differenziata;"raccolta_NOUN; raccolta differenziata_NOUN; raccolta rifiuti_NOUN; raccolta rifiuti solidi urbani_NOUN; rifiuto_NOUN; rifiuto solido urbano_NOUN; rifiuto urbano_NOUN";multi-word;deprecated;admitted
+servizio di raccolta differenziata;NOUN;raccolta differenziata;"raccolta_NOUN; raccolta differenziata_NOUN; servizio di raccolta_NOUN";multi-word;admitted;admitted
+servizio di raccolta differenziata dei rifiuti solidi urbani;NOUN;raccolta differenziata;"raccolta_NOUN; raccolta dei rifiuti solidi urbani_NOUN; raccolta dei rifiuti urbani_NOUN; raccolta differenziata_NOUN; raccolta differenziata dei rifiuti_NOUN; raccolta differenziata dei rifiuti solidi urbani_NOUN; raccolta differenziata dei rifiuti urbani_NOUN; rifiuto_NOUN; rifiuto solido urbano_NOUN; rifiuto urbano_NOUN; servizio di raccolta_NOUN; servizio di raccolta dei rifiuti_NOUN; servizio di raccolta differenziata_NOUN";multi-word;admitted;admitted
+sistema di raccolta differenziata;NOUN;raccolta differenziata;"raccolta_NOUN; raccolta differenziata_NOUN";multi-word;admitted;admitted
+gestione integrata rifiuti con sistema porta a porta;NOUN;raccolta differenziata porta a porta;"gestione rifiuti_NOUN; porta a porta_NOUN; rifiuto_NOUN; sistema porta a porta_NOUN";multi-word;admitted;deprecated
+metodologia del porta a porta;NOUN;raccolta differenziata porta a porta;porta a porta_NOUN;multi-word;admitted;deprecated
+pap;NOUN;raccolta differenziata porta a porta;;acronym;admitted;admitted
+porta a porta;NOUN;raccolta differenziata porta a porta;;multi-word;deprecated;admitted
+porta-a-porta;NOUN;raccolta differenziata porta a porta;;single-word;deprecated;admitted
+raccolta differenziata dei rifiuti porta-a-porta;NOUN;raccolta differenziata porta a porta;"porta a porta_NOUN; porta-a-porta_NOUN; raccolta_NOUN; raccolta differenziata_NOUN; raccolta differenziata dei rifiuti_NOUN; raccolta differenziata porta a porta_NOUN; raccolta porta a porta_NOUN; rifiuto_NOUN";multi-word;admitted;admitted
+raccolta differenziata porta a porta;NOUN;raccolta differenziata porta a porta;"porta a porta_NOUN; raccolta_NOUN; raccolta differenziata_NOUN; raccolta porta a porta_NOUN";multi-word;admitted;admitted
+raccolta differenziata porta a porta dei rifiuti solidi urbani;NOUN;raccolta differenziata porta a porta;"porta a porta_NOUN; raccolta_NOUN; raccolta dei rifiuti solidi urbani_NOUN; raccolta dei rifiuti urbani_NOUN; raccolta differenziata_NOUN; raccolta differenziata dei rifiuti_NOUN; raccolta differenziata dei rifiuti solidi urbani_NOUN; raccolta differenziata dei rifiuti urbani_NOUN; raccolta differenziata porta a porta_NOUN; raccolta porta a porta_NOUN; rifiuto_NOUN; rifiuto solido urbano_NOUN; rifiuto urbano_NOUN";multi-word;admitted;admitted
+raccolta domiciliare;NOUN;raccolta differenziata porta a porta;raccolta_NOUN;multi-word;admitted;deprecated
+raccolta domiciliare dei rifiuti;NOUN;raccolta differenziata porta a porta;"raccolta_NOUN; raccolta dei rifiuti_NOUN; raccolta domiciliare_NOUN; rifiuto_NOUN";multi-word;admitted;deprecated
+raccolta domiciliare porta a porta;NOUN;raccolta differenziata porta a porta;"porta a porta_NOUN; raccolta_NOUN; raccolta domiciliare_NOUN; raccolta porta a porta_NOUN";multi-word;deprecated;deprecated
+raccolta porta a porta;NOUN;raccolta differenziata porta a porta;"porta a porta_NOUN; raccolta_NOUN";multi-word;admitted;preferred
+servizio di raccolta differenziata porta a porta;NOUN;raccolta differenziata porta a porta;"porta a porta_NOUN; raccolta_NOUN; raccolta differenziata_NOUN; raccolta differenziata porta a porta_NOUN; raccolta porta a porta_NOUN; servizio di raccolta_NOUN; servizio di raccolta differenziata_NOUN; servizio di raccolta porta a porta_NOUN";multi-word;admitted;admitted
+servizio di raccolta differenziata porta a porta dei rifiuti solidi urbani;NOUN;raccolta differenziata porta a porta;"porta a porta_NOUN; raccolta_NOUN; raccolta dei rifiuti solidi urbani_NOUN; raccolta dei rifiuti urbani_NOUN; raccolta differenziata_NOUN; raccolta differenziata dei rifiuti_NOUN; raccolta differenziata dei rifiuti solidi urbani_NOUN; raccolta differenziata dei rifiuti urbani_NOUN; raccolta differenziata porta a porta_NOUN; raccolta differenziata porta a porta dei rifiuti solidi urbani_NOUN; raccolta porta a porta_NOUN; rifiuto_NOUN; rifiuto solido urbano_NOUN; rifiuto urbano_NOUN; servizio di raccolta_NOUN; servizio di raccolta dei rifiuti_NOUN; servizio di raccolta differenziata_NOUN; servizio di raccolta differenziata dei rifiuti solidi urbani_NOUN; servizio di raccolta differenziata porta a porta_NOUN; servizio di raccolta porta a porta_NOUN; servizio di raccolta porta a porta dei rifiuti solidi urbani_NOUN; servizio porta a porta_NOUN";multi-word;admitted;admitted
+servizio di raccolta domiciliare dei rifiuti;NOUN;raccolta differenziata porta a porta;"raccolta_NOUN; raccolta dei rifiuti_NOUN; raccolta domiciliare_NOUN; raccolta domiciliare dei rifiuti_NOUN; rifiuto_NOUN; servizio di raccolta_NOUN; servizio di raccolta dei rifiuti_NOUN";multi-word;admitted;deprecated
+servizio di raccolta porta a porta;NOUN;raccolta differenziata porta a porta;"porta a porta_NOUN; raccolta_NOUN; raccolta porta a porta_NOUN; servizio di raccolta_NOUN; servizio porta a porta_NOUN";multi-word;admitted;admitted
+servizio di raccolta porta a porta dei rifiuti solidi urbani;NOUN;raccolta differenziata porta a porta;"porta a porta_NOUN; raccolta_NOUN; raccolta dei rifiuti_NOUN; raccolta dei rifiuti solidi urbani_NOUN; raccolta dei rifiuti urbani_NOUN; raccolta porta a porta_NOUN; rifiuto_NOUN; rifiuto solido urbano_NOUN; rifiuto urbano_NOUN; servizio di raccolta_NOUN; servizio di raccolta dei rifiuti_NOUN; servizio di raccolta porta a porta_NOUN; servizio porta a porta_NOUN";multi-word;admitted;admitted
+servizio domiciliare;NOUN;raccolta differenziata porta a porta;;multi-word;admitted;deprecated
+servizio gestione integrata rifiuti con sistema porta a porta;NOUN;raccolta differenziata porta a porta;"gestione integrata rifiuti con sistema porta a porta_NOUN; gestione rifiuti_NOUN; porta a porta_NOUN; rifiuto_NOUN; servizio gestione integrata rifiuti_NOUN; servizio porta a porta_NOUN; servizio rifiuti_NOUN; sistema porta a porta_NOUN";multi-word;admitted;deprecated
+servizio porta a porta;NOUN;raccolta differenziata porta a porta;porta a porta_NOUN;multi-word;admitted;admitted
+sistema del porta a porta;NOUN;raccolta differenziata porta a porta;porta a porta_NOUN;multi-word;admitted;deprecated
+sistema di raccolta differenziata dei rifiuti porta-a-porta;NOUN;raccolta differenziata porta a porta;"porta a porta_NOUN; raccolta_NOUN; raccolta differenziata_NOUN; raccolta differenziata dei rifiuti_NOUN; raccolta differenziata dei rifiuti porta-a-porta_NOUN; raccolta differenziata porta a porta_NOUN; raccolta porta a porta_NOUN; rifiuto_NOUN; sistema di raccolta differenziata_NOUN; sistema di raccolta porta a porta_NOUN; sistema porta a porta_NOUN";multi-word;deprecated;deprecated
+sistema di raccolta porta a porta;NOUN;raccolta differenziata porta a porta;"porta a porta_NOUN; raccolta_NOUN; raccolta porta a porta_NOUN; sistema porta a porta_NOUN";multi-word;admitted;admitted
+sistema porta a porta;NOUN;raccolta differenziata porta a porta;porta a porta_NOUN;multi-word;admitted;admitted
+raccolta integrata;NOUN;raccolta differenziata porta a porta integrata;raccolta_NOUN;multi-word;admitted;admitted
+raccolta integrata con il sistema del porta a porta;NOUN;raccolta differenziata porta a porta integrata;"porta a porta_NOUN; raccolta_NOUN; raccolta integrata_NOUN; raccolta porta a porta_NOUN; sistema del porta a porta_NOUN";multi-word;admitted;admitted
+porta a porta spinto;NOUN;raccolta differenziata porta a porta spinto;porta a porta_NOUN;multi-word;admitted;admitted
+raccolta differenziata porta a porta spinto;NOUN;raccolta differenziata porta a porta spinto;"porta a porta_NOUN; porta a porta spinto_NOUN; raccolta_NOUN; raccolta differenziata_NOUN; raccolta differenziata porta a porta_NOUN; raccolta porta a porta_NOUN";multi-word;preferred;preferred
+raccolta trasporto dei rifiuti solidi urbani;NOUN;raccolta e trasporto dei rifiuti urbani;"raccolta_NOUN; raccolta dei rifiuti_NOUN; raccolta dei rifiuti solidi urbani_NOUN; raccolta dei rifiuti urbani_NOUN; rifiuto_NOUN; rifiuto solido urbano_NOUN; rifiuto urbano_NOUN; trasporto_NOUN; trasporto dei rifiuti_NOUN; trasporto dei rifiuti urbani_NOUN";multi-word;deprecated;deprecated
+servizio raccolta e trasporto;NOUN;raccolta e trasporto dei rifiuti urbani;"raccolta_NOUN; trasporto_NOUN";multi-word;admitted;admitted
+ingombrante raee;NOUN;raee ingombrante;"ingombrante_NOUN; raee_NOUN";multi-word;admitted;admitted
+segnalazione di disservizi;NOUN;reclamo;;multi-word;admitted;admitted
+segnalazione verbale;NOUN;reclamo verbale;;multi-word;;
+recupero;NOUN;recupero;;single-word;preferred;preferred
+recupero dei materiali;NOUN;recupero;recupero_NOUN;multi-word;admitted;admitted
+recupero di rifiuti;NOUN;recupero;"recupero_NOUN; rifiuto_NOUN";multi-word;deprecated;admitted
+valorizzazione economica;NOUN;recupero;;multi-word;admitted;deprecated
+recupero degli oli esausti;NOUN;recupero degli oli e grassi commestibili;"olio_NOUN; olio esausto_NOUN; recupero_NOUN";multi-word;admitted;admitted
+recupero dei rifiuti organici domestici;NOUN;recupero dei rifiuti biodegradabili di cucine e mense;"recupero_NOUN; rifiuto_NOUN; rifiuto organico_NOUN; rifiuto organico domestico_NOUN";multi-word;admitted;admitted
+attività di recupero dell'evasione;NOUN;recupero dell'evasione;;multi-word;admitted;admitted
+regolamento comunale gestione del servizio dei rifiuti urbani ed assimilati;NOUN;regolamento comunale per la gestione dei rifiuti;"gestione dei rifiuti_NOUN; gestione dei rifiuti urbani_NOUN; gestione del servizio dei rifiuti urbani ed assimilati_NOUN; rifiuto_NOUN; rifiuto urbano_NOUN";multi-word;deprecated;deprecated
+regolamento comunale per la gestione dei rifiuti differenziati;NOUN;regolamento comunale per la gestione dei rifiuti;"differenziato_ADJ; gestione dei rifiuti_NOUN; gestione dei rifiuti differenziati_NOUN; regolamento per la gestione dei rifiuti differenziati_NOUN; rifiuto_NOUN; rifiuto differenziato_NOUN";multi-word;deprecated;deprecated
+regolamento comunale per la gestione dei rifiuti urbani ed assimilati e la tutela del decoro e dell'igiene ambientale;NOUN;regolamento comunale per la gestione dei rifiuti;"gestione dei rifiuti_NOUN; gestione dei rifiuti urbani_NOUN; gestione dei rifiuti urbani ed assimilati_NOUN; igiene ambientale_NOUN; regolamento per la gestione dei rifiuti urbani ed assimilati_NOUN; rifiuto_NOUN; rifiuto urbano_NOUN";multi-word;deprecated;deprecated
+regolamento comunale per la gestione del servizio dei rifiuti urbani ed assimilati;NOUN;regolamento comunale per la gestione dei rifiuti;"gestione del servizio dei rifiuti urbani ed assimilati_NOUN; regolamento per la gestione dei rifiuti urbani ed assimilati_NOUN; rifiuto_NOUN; rifiuto urbano_NOUN";multi-word;deprecated;deprecated
+regolamento per la gestione dei rifiuti differenziati;NOUN;regolamento comunale per la gestione dei rifiuti;"differenziato_ADJ; gestione dei rifiuti_NOUN; gestione dei rifiuti differenziati_NOUN; rifiuto_NOUN; rifiuto differenziato_NOUN";multi-word;deprecated;deprecated
+regolamento per la gestione dei rifiuti urbani ed assimilati;NOUN;regolamento comunale per la gestione dei rifiuti;"gestione dei rifiuti_NOUN; gestione dei rifiuti urbani_NOUN; gestione dei rifiuti urbani ed assimilati_NOUN;  rifiuto_NOUN; rifiuto urbano_NOUN";multi-word;deprecated;deprecated
+regolamento per la gestione dei rifiuti urbani ed assimilati e la tutela del decoro e dell'igiene urbana;NOUN;regolamento comunale per la gestione dei rifiuti;"decoro_NOUN; gestione dei rifiuti_NOUN; gestione dei rifiuti urbani_NOUN; gestione dei rifiuti urbani ed assimilati_NOUN; igiene urbana_NOUN; regolamento per la gestione dei rifiuti urbani ed assimilati_NOUN; rifiuto_NOUN; rifiuto urbano_NOUN";multi-word;deprecated;deprecated
+regolamento tari;NOUN;regolamento tari;tari_NOUN;mixed compound;admitted;admitted
+residuo;NOUN;residuo;;single-word;preferred;preferred
+residuo industriale;NOUN;residuo industriale;residuo_NOUN;multi-word;;
+responsabile del centro;NOUN;responsabile del centro di raccolta;;multi-word;admitted;admitted
+responsabile del centro di raccolta;NOUN;responsabile del centro di raccolta;"centro di raccolta_NOUN; raccolta_NOUN; responsabile del centro_NOUN";multi-word;preferred;preferred
+richiesta di attrezzature per la raccolta;NOUN;richiesta di attrezzature per la raccolta differenziata;"attrezzature per la raccolta_NOUN; raccolta_NOUN";multi-word;;
+richiesta per la sostituzione/integrazione o modifica della volumetria;NOUN;richiesta per la sostituzioneintegrazione o modifica della volumetria;;multi-word;admitted;admitted
+riciclabile;ADJ;riciclabile;;single-word;preferred;preferred
+riciclaggio;NOUN;riciclaggio;;single-word;preferred;admitted
+riciclare;VERB;riciclaggio;;single-word;;
+riciclo;NOUN;riciclaggio;;single-word;admitted;preferred
+riciclo dei materiali;NOUN;riciclaggio;riciclo_NOUN;multi-word;admitted;admitted
+riciclo/recupero dei materiali;NOUN;riciclaggio/recupero;"recupero_NOUN; recupero dei materiali_NOUN; riciclo_NOUN; riciclo dei materiali_NOUN";multi-word;admitted;admitted
+r4;NOUN;riciclaggio/recupero dei metalli e dei composti metallici;;identifier code;admitted;deprecated
+r3;NOUN;riciclaggio/recupero delle sostanze organiche non utilizzate come solventi;;identifier code;admitted;deprecated
+r5;NOUN;riciclaggio/recupero di altre sostanze inorganiche;;identifier code;admitted;deprecated
+riciclato;ADJ;riciclato;;single-word;preferred;preferred
+abbigliamento;NOUN;rifiuti di abbigliamento;;single-word;admitted;admitted
+abito;NOUN;rifiuti di abbigliamento;;single-word;admitted;admitted
+abito dismesso;NOUN;rifiuti di abbigliamento;;multi-word;admitted;admitted
+abito usato;NOUN;rifiuti di abbigliamento;;multi-word;admitted;admitted
+indumento;NOUN;rifiuti di abbigliamento;;single-word;admitted;admitted
+indumento usato;NOUN;rifiuti di abbigliamento;;multi-word;admitted;admitted
+r.a.e.e;NOUN;rifiuti di apparecchiature elettriche ed elettroniche;;acronym;deprecated;deprecated
+r.a.e.e.;NOUN;rifiuti di apparecchiature elettriche ed elettroniche;;acronym;admitted;admitted
+raee;NOUN;rifiuti di apparecchiature elettriche ed elettroniche;;acronym;preferred;preferred
+rifiuto da apparecchiature elettriche ed elettroniche;NOUN;rifiuti di apparecchiature elettriche ed elettroniche;"apparecchiature elettriche ed elettroniche_NOUN; rifiuto_NOUN";multi-word;admitted;admitted
+rifiuto da apparecchiature elettroniche ed elettriche;NOUN;rifiuti di apparecchiature elettriche ed elettroniche;rifiuto_NOUN;multi-word;admitted;admitted
+rifiuto raee;NOUN;rifiuti di apparecchiature elettriche ed elettroniche;"raee_NOUN; rifiuto_NOUN";mixed compound;deprecated;deprecated
+cartone da imballaggio;NOUN;rifiuti di imballaggio in cartone;"cartone_NOUN; imballaggio_NOUN";multi-word;admitted;admitted
+cartone selettivo;NOUN;rifiuti di imballaggio in cartone;cartone_NOUN;multi-word;admitted;deprecated
+accumulatore esausto;NOUN;rifiuti di pile o accumulatori;accumulatore_NOUN;multi-word;preferred;deprecated
+pila esausta;NOUN;rifiuti di pile o accumulatori;pila_NOUN;multi-word;admitted;preferred
+pila scarica;NOUN;rifiuti di pile o accumulatori;pila_NOUN;multi-word;admitted;admitted
+pile ed accumulatori esausti;NOUN;rifiuti di pile o accumulatori;"accumulatore_NOUN; accumulatore esausto_NOUN; pila_NOUN; pila esausta_NOUN";multi-word;admitted;admitted
+rifiuti zero;NOUN;rifiuti zero;rifiuto_NOUN;multi-word;;
+rifiuto;NOUN;rifiuto;;single-word;preferred;preferred
+scarto;NOUN;rifiuto;;single-word;admitted;admitted
+spazzatura;NOUN;rifiuto;;single-word;deprecated;deprecated
+rifiuto abbandonato;NOUN;rifiuto abbandonato;rifiuto_NOUN;multi-word;preferred;preferred
+rifiuto disperso;NOUN;rifiuto abbandonato;rifiuto_NOUN;multi-word;admitted;admitted
+rifiuto biodegradabile;NOUN;rifiuto biodegradabile;"biodegradabile_ADJ; rifiuto_NOUN";multi-word;preferred;preferred
+20 0201;NUM;rifiuto biodegradabile da giardini e parchi;;identifier code;admitted;deprecated
+frazione verde;NOUN;rifiuto biodegradabile da giardini e parchi;frazione_NOUN;multi-word;admitted;deprecated
+grande scarto di potatura;NOUN;rifiuto biodegradabile da giardini e parchi;"potatura_NOUN; scarto_NOUN";multi-word;admitted;admitted
+piccolo scarto di fiori e piante;NOUN;rifiuto biodegradabile da giardini e parchi;scarto_NOUN;multi-word;admitted;admitted
+piccolo scarto di potatura;NOUN;rifiuto biodegradabile da giardini e parchi;"potatura_NOUN; scarto_NOUN; scarto di potatura_NOUN";multi-word;admitted;admitted
+piccolo sfalcio di potatura;NOUN;rifiuto biodegradabile da giardini e parchi;"potatura_NOUN; sfalcio_NOUN; sfalcio di potatura_NOUN";multi-word;admitted;admitted
+potatura;NOUN;rifiuto biodegradabile da giardini e parchi;;single-word;admitted;admitted
+potatura di alberi;NOUN;rifiuto biodegradabile da giardini e parchi;potatura_NOUN;multi-word;admitted;admitted
+ramaglia;NOUN;rifiuto biodegradabile da giardini e parchi;;single-word;admitted;admitted
+ramaglie e sfalci d'erba;NOUN;rifiuto biodegradabile da giardini e parchi;"ramaglia_NOUN; sfalcio_NOUN; sfalcio d'erba_NOUN";multi-word;admitted;admitted
+ramaglie, sfalci e potature;NOUN;rifiuto biodegradabile da giardini e parchi;"potatura_NOUN; ramaglia_NOUN; sfalci e potature_NOUN; sfalcio_NOUN";multi-word;admitted;admitted
+residui vegetali agricoli e forestali;NOUN;rifiuto biodegradabile da giardini e parchi;"residuo_NOUN; residuo vegetale_NOUN; residuo vegetale agricolo_NOUN; residuo vegetale forestale_NOUN";multi-word;admitted;admitted
+residuo agricolo;NOUN;rifiuto biodegradabile da giardini e parchi;residuo_NOUN;multi-word;admitted;admitted
+residuo vegetale;NOUN;rifiuto biodegradabile da giardini e parchi;residuo_NOUN;multi-word;admitted;admitted
+residuo vegetale agricolo;NOUN;rifiuto biodegradabile da giardini e parchi;"residuo_NOUN; residuo agricolo_NOUN; residuo vegetale_NOUN";multi-word;admitted;admitted
+residuo vegetale forestale;NOUN;rifiuto biodegradabile da giardini e parchi;"residuo_NOUN; residuo vegetale_NOUN";multi-word;admitted;admitted
+rifiuti verdi e potature;NOUN;rifiuto biodegradabile da giardini e parchi;"potatura_NOUN; rifiuto_NOUN; rifiuto verde_NOUN";multi-word;admitted;admitted
+rifiuto vegetale;NOUN;rifiuto biodegradabile da giardini e parchi;rifiuto_NOUN;multi-word;admitted;admitted
+rifiuto vegetale verde;NOUN;rifiuto biodegradabile da giardini e parchi;"rifiuto_NOUN; rifiuto vegetale_NOUN; rifiuto verde_NOUN";multi-word;admitted;admitted
+rifiuto verde;NOUN;rifiuto biodegradabile da giardini e parchi;rifiuto_NOUN;multi-word;admitted;admitted
+scarto di potatura;NOUN;rifiuto biodegradabile da giardini e parchi;"potatura_NOUN; scarto_NOUN";multi-word;admitted;admitted
+scarto vegetale;NOUN;rifiuto biodegradabile da giardini e parchi;scarto_NOUN;multi-word;admitted;admitted
+scarto vegetale proveniente dalla cura del giardino;NOUN;rifiuto biodegradabile da giardini e parchi;"scarto_NOUN; scarto vegetale_NOUN";multi-word;admitted;deprecated
+sfalci e potature;NOUN;rifiuto biodegradabile da giardini e parchi;"potatura_NOUN; sfalcio_NOUN";multi-word;admitted;preferred
+sfalci e potature da attività di giardinaggio di uso domestico;NOUN;rifiuto biodegradabile da giardini e parchi;"potatura_NOUN; sfalci e potature_NOUN; sfalcio_NOUN";multi-word;deprecated;deprecated
+sfalci e potature da manutenzione di giardino;NOUN;rifiuto biodegradabile da giardini e parchi;"potatura_NOUN; sfalci e potature_NOUN; sfalcio_NOUN";multi-word;admitted;admitted
+sfalci e ramaglie;NOUN;rifiuto biodegradabile da giardini e parchi;"ramaglia_NOUN; sfalcio_NOUN";multi-word;admitted;admitted
+sfalci, ramaglie e potature;NOUN;rifiuto biodegradabile da giardini e parchi;"potatura_NOUN; ramaglia_NOUN; sfalci e potature_NOUN; sfalcio_NOUN";multi-word;admitted;admitted
+sfalcio;NOUN;rifiuto biodegradabile da giardini e parchi;;single-word;admitted;admitted
+sfalcio d'erba;NOUN;rifiuto biodegradabile da giardini e parchi;sfalcio_NOUN;multi-word;admitted;admitted
+sfalcio di potatura;NOUN;rifiuto biodegradabile da giardini e parchi;"potatura_NOUN; sfalcio_NOUN";multi-word;admitted;admitted
+sfalcio di potatura da manutenzione di giardino;NOUN;rifiuto biodegradabile da giardini e parchi;"potatura_NOUN; sfalcio_NOUN; sfalcio di potatura_NOUN";multi-word;admitted;admitted
+verde;NOUN;rifiuto biodegradabile da giardini e parchi;;single-word;admitted;admitted
+20.01.08;NUM;rifiuto biodegradabile di cucine e mense;;identifier code;admitted;deprecated
+avanzi di cucina cotti e crudi;NOUN;rifiuto biodegradabile di cucine e mense;;multi-word;deprecated;admitted
+rifiuto biodegradabile di cucine e mense;NOUN;rifiuto biodegradabile di cucine e mense;"biodegradabile_ADJ; rifiuto_NOUN; rifiuto biodegradabile_NOUN";multi-word;preferred;admitted
+scarto di cucina;NOUN;rifiuto biodegradabile di cucine e mense;scarto_NOUN;multi-word;deprecated;admitted
+materiale conferibile;NOUN;rifiuto conferibile;conferibile_ADJ;multi-word;admitted;admitted
+rifiuto conferibile;NOUN;rifiuto conferibile;"conferibile_ADJ; rifiuto_NOUN";multi-word;preferred;preferred
+frazione conferita;NOUN;rifiuto conferito;"conferito_ADJ; frazione_NOUN";multi-word;admitted;deprecated
+materiale conferito;NOUN;rifiuto conferito;conferito_ADJ;multi-word;admitted;admitted
+rifiuto conferito;NOUN;rifiuto conferito;"conferito_ADJ; rifiuto_NOUN";multi-word;preferred;preferred
+rifiuto già conferito;NOUN;rifiuto conferito;"conferito_ADJ; rifiuto_NOUN; rifiuto conferito_NOUN";multi-word;admitted;admitted
+lampadine, tubi fluorescenti e altri con mercurio;NOUN;rifiuto contenente mercurio;"lampadina_NOUN; tubi fluorescenti e altri con mercurio_NOUN; tubo fluorescente_NOUN";multi-word;deprecated;deprecated
+rifiuto contenente mercurio;NOUN;rifiuto contenente mercurio;rifiuto_NOUN;multi-word;preferred;preferred
+tubi fluorescenti e altri con mercurio;NOUN;rifiuto contenente mercurio;tubo fluorescente_NOUN;multi-word;deprecated;deprecated
+tubi fluorescenti ed altri rifiuti contenenti mercurio;NOUN;rifiuto contenente mercurio;"rifiuto_NOUN; rifiuto contenente mercurio_NOUN; tubo contenente mercurio_NOUN; tubo fluorescente_NOUN; tubo fluorescente contenente mercurio_NOUN";multi-word;admitted;admitted
+tubi fluorescenti ed altri tubi contenenti mercurio;NOUN;rifiuto contenente mercurio;"tubo contenente mercurio_NOUN; tubo fluorescente_NOUN; tubo fluorescente contenente mercurio_NOUN";multi-word;deprecated;deprecated
+tubi fluorescenti rd altri rifiuti contenenti mercurio;NOUN;rifiuto contenente mercurio;"rifiuto_NOUN; rifiuto contenente mercurio_NOUN; tubo contenente mercurio_NOUN; tubo fluorescente_NOUN; tubo fluorescente contenente mercurio_NOUN; tubo fluorescente rd_NOUN";multi-word;deprecated;deprecated
+20 01 38;NUM;rifiuto di legno;;identifier code;admitted;deprecated
+legno;NOUN;rifiuto di legno;;single-word;admitted;admitted
+rifiuto legnoso;NOUN;rifiuto di legno;rifiuto_NOUN;multi-word;admitted;admitted
+metalli, acciaio, alluminio;NOUN;rifiuto di metallo;;multi-word;admitted;admitted
+metalli, acciaio, alluminio e banda stagnata;NOUN;rifiuto di metallo;"banda stagnata_NOUN; alluminio_NOUN";multi-word;admitted;deprecated
+metallo - banda stagnata - alluminio;NOUN;rifiuto di metallo;;multi-word;admitted;deprecated
+metallo-banda stagnata-alluminio;NOUN;rifiuto di metallo;banda stagnata_NOUN;multi-word;admitted;deprecated
+rifiuto in metallo;NOUN;rifiuto di metallo;rifiuto_NOUN;multi-word;preferred;preferred
+plastica;NOUN;rifiuto di plastica;;single-word;admitted;preferred
+rifiuto in plastica;NOUN;rifiuto di plastica;"plastica_NOUN; rifiuto_NOUN";multi-word;preferred;admitted
+frazione dei rifiuti differenziati;NOUN;rifiuto differenziato;"differenziato_ADJ; frazione_NOUN; rifiuto_NOUN; rifiuto differenziato_NOUN";multi-word;admitted;deprecated
+frazione dei rifiuti urbani;NOUN;rifiuto differenziato;"frazione_NOUN; rifiuto_NOUN; rifiuto urbano_NOUN";multi-word;admitted;deprecated
+frazione di rifiuti;NOUN;rifiuto differenziato;"frazione_NOUN; rifiuto_NOUN";multi-word;admitted;deprecated
+frazione differenziata;NOUN;rifiuto differenziato;frazione_NOUN;multi-word;admitted;deprecated
+frazione riciclabile;NOUN;rifiuto differenziato;"frazione_NOUN; riciclabile_ADJ";multi-word;admitted;deprecated
+frazione rifiuto;NOUN;rifiuto differenziato;"frazione_NOUN; rifiuto_NOUN";multi-word;deprecated;deprecated
+frazioni dei rifiuti differenziati;NOUN;rifiuto differenziato;"differenziato_ADJ; frazione_NOUN; rifiuto_NOUN; rifiuto differenziato_NOUN";multi-word;admitted;deprecated
+materiale differenziato;NOUN;rifiuto differenziato;differenziato_ADJ;multi-word;admitted;admitted
+rifiuto differenziato;NOUN;rifiuto differenziato;"differenziato_ADJ; rifiuto_NOUN";multi-word;preferred;preferred
+rifiuto proveniente dalla raccolta differenziata;NOUN;rifiuto differenziato;"raccolta_NOUN; raccolta differenziata_NOUN; rifiuto_NOUN";multi-word;admitted;admitted
+rifiuti di provenienza domestica e similari;NOUN;rifiuto domestico;"rifiuto_NOUN; rifiuto di provenienza domestica_NOUN";multi-word;admitted;admitted
+rifiuto di provenienza domestica;NOUN;rifiuto domestico;rifiuto_NOUN;multi-word;admitted;admitted
+rifiuto domestico;NOUN;rifiuto domestico;rifiuto_NOUN;multi-word;preferred;preferred
+rifiuto proveniente da luogo adibito ad uso di civile abitazione;NOUN;rifiuto domestico;rifiuto_NOUN;multi-word;deprecated;deprecated
+rifiuto speciale non pericoloso prodotto da utenze domestiche, assimilabile ai rifiuti urbani;NOUN;rifiuto domestico speciale non pericoloso;"non pericoloso_ADJ; rifiuto_NOUN; rifiuto non pericoloso_NOUN; rifiuto speciale_NOUN; rifiuto speciale non pericoloso_NOUN; rifiuto urbano_NOUN; utenza_NOUN; utenza domestica_NOUN";multi-word;admitted;deprecated
+farmaco;NOUN;rifiuto farmaceutico;;single-word;admitted;admitted
+farmaco non utilizzato;NOUN;rifiuto farmaceutico;farmaco_NOUN;multi-word;admitted;admitted
+farmaco scaduto;NOUN;rifiuto farmaceutico;;multi-word;admitted;admitted
+farmaco scaduto o non utilizzato;NOUN;rifiuto farmaceutico;"farmaco non utilizzato_NOUN; farmaco scaduto_NOUN";multi-word;admitted;preferred
+medicina scaduta;NOUN;rifiuto farmaceutico;;multi-word;deprecated;admitted
+medicinale scaduto;NOUN;rifiuto farmaceutico;;multi-word;admitted;admitted
+medicinale scaduto o inutilizzato;NOUN;rifiuto farmaceutico;medicinale scaduto_NOUN;multi-word;admitted;admitted
+inerte;NOUN;rifiuto inerte;;single-word;admitted;admitted
+rifiuto inerte;NOUN;rifiuto inerte;rifiuto_NOUN;multi-word;preferred;preferred
+inerti: piccole quantità da interventi domestici privati;NOUN;rifiuto inerte da interventi privati;inerte_NOUN;multi-word;deprecated;deprecated
+rifiuto inerte proveniente da piccole manutenzioni effettuate direttamente dagli utenti domestici;NOUN;rifiuto inerte da interventi privati;"rifiuto_NOUN; rifiuto inerte_NOUN; utente_NOUN; utente domestico_NOUN";multi-word;admitted;admitted
+maceria;NOUN;rifiuto inerte derivante dalle attività di costruzione e demolizione;;single-word;admitted;admitted
+maceria proveniente da lavori edili;NOUN;rifiuto inerte derivante dalle attività di costruzione e demolizione;maceria_NOUN;multi-word;admitted;admitted
+materiale edile;NOUN;rifiuto inerte derivante dalle attività di costruzione e demolizione;;multi-word;preferred;preferred
+scarto di materiali edili;NOUN;rifiuto inerte derivante dalle attività di costruzione e demolizione;"materiale edile_NOUN; scarto_NOUN";multi-word;admitted;admitted
+20 03 07;NUM;rifiuto ingombrante;;identifier code;admitted;deprecated
+ingombrante;NOUN;rifiuto ingombrante;;single-word;admitted;preferred
+ingombranti e beni durevoli;NOUN;rifiuto ingombrante;"bene durevole_NOUN; ingombrante_NOUN";multi-word;admitted;admitted
+lngombrante in legno;NOUN;rifiuto ingombrante;legno_NOUN;multi-word;admitted;admitted
+rifiuto di grandi dimensioni;NOUN;rifiuto ingombrante;rifiuto_NOUN;multi-word;deprecated;admitted
+rifiuto ingombrante;NOUN;rifiuto ingombrante;rifiuto_NOUN;multi-word;preferred;admitted
+rifiuto urbano ingombrante;NOUN;rifiuto ingombrante;"rifiuto_NOUN; rifiuto ingombrante_NOUN; rifiuto urbano_NOUN";multi-word;admitted;admitted
+rifiuto voluminoso;NOUN;rifiuto ingombrante;rifiuto_NOUN;multi-word;deprecated;admitted
+ingombrante misto;NOUN;rifiuto ingombrante misto;ingombrante_NOUN;multi-word;admitted;admitted
+ingombrante pericoloso;NOUN;rifiuto ingombrante pericoloso;ingombrante_NOUN;multi-word;admitted;admitted
+rifiuto urbano pericoloso ed ingombrante;NOUN;rifiuto ingombrante pericoloso;"rifiuto_NOUN; rifiuto ingombrante_NOUN; rifiuto pericoloso_NOUN; rifiuto urbano_NOUN; rifiuto urbano ingombrante_NOUN; rifiuto urbano pericoloso_NOUN";multi-word;admitted;admitted
+materiale non conferibile;NOUN;rifiuto non conferibile;non conferibile_ADJ;multi-word;admitted;admitted
+rifiuto non ingombrante;NOUN;rifiuto non ingombrante;rifiuto_NOUN;multi-word;preferred;preferred
+rifiuto non pericoloso;NOUN;rifiuto non pericoloso;"non pericoloso_ADJ; rifiuto_NOUN";multi-word;preferred;preferred
+rifiuto non riciclabile;NOUN;rifiuto non riciclabile;"riciclabile_ADJ; rifiuto_NOUN";multi-word;preferred;preferred
+f. o. u;NOUN;rifiuto organico;;acronym;deprecated;deprecated
+f. o. u.;NOUN;rifiuto organico;;acronym;admitted;deprecated
+frazione organica;NOUN;rifiuto organico;frazione_NOUN;multi-word;admitted;deprecated
+frazione organica umida;NOUN;rifiuto organico;"frazione_NOUN; frazione organica_NOUN; frazione umida_NOUN";multi-word;admitted;deprecated
+frazione umida;NOUN;rifiuto organico;frazione_NOUN;multi-word;admitted;deprecated
+frazione umida dei r.s.u.;NOUN;rifiuto organico;"frazione_NOUN; frazione umida_NOUN";mixed compound;admitted;deprecated
+frazione umida organica;NOUN;rifiuto organico;"frazione_NOUN; frazione organica_NOUN; frazione umida_NOUN";multi-word;admitted;deprecated
+organico;NOUN;rifiuto organico;;single-word;admitted;preferred
+organico e bioplastiche compostabili;NOUN;rifiuto organico;"bioplastica compostabile_NOUN; compostabile_ADJ; organico_NOUN";multi-word;admitted;admitted
+residuo organico;NOUN;rifiuto organico;residuo_NOUN;multi-word;admitted;admitted
+residuo putrescibile;NOUN;rifiuto organico;"putrescibile_ADJ; residuo_NOUN";multi-word;admitted;deprecated
+rifiuto di origine organica;NOUN;rifiuto organico;rifiuto_NOUN;multi-word;admitted;admitted
+rifiuto organico;NOUN;rifiuto organico;rifiuto_NOUN;multi-word;preferred;admitted
+rifiuto organico domestico;NOUN;rifiuto organico;"organico_NOUN; rifiuto_NOUN; rifiuto domestico_NOUN; rifiuto organico_NOUN";multi-word;admitted;admitted
+umido;NOUN;rifiuto organico;;single-word;deprecated;admitted
+rifiuto pericoloso;NOUN;rifiuto pericoloso;rifiuto_NOUN;multi-word;preferred;preferred
+rifiuto raccolto a domicilio;NOUN;rifiuto raccolto a domicilio;rifiuto_NOUN;multi-word;admitted;admitted
+materiale da riciclare;NOUN;rifiuto riciclabile;riciclare_VERB;multi-word;admitted;admitted
+materiale differenziabile;NOUN;rifiuto riciclabile;differenziabile_ADJ;multi-word;admitted;admitted
+materiale riciclabile;NOUN;rifiuto riciclabile;riciclabile_ADJ;multi-word;admitted;admitted
+prodotto riciclabile;NOUN;rifiuto riciclabile;riciclabile_ADJ;multi-word;admitted;admitted
+rifiuto riciclabile;NOUN;rifiuto riciclabile;"riciclabile_ADJ; rifiuto_NOUN";multi-word;preferred;preferred
+rifiuto ospedaliero;NOUN;rifiuto sanitario;rifiuto_NOUN;multi-word;admitted;admitted
+rifiuto speciale;NOUN;rifiuto speciale;rifiuto_NOUN;multi-word;preferred;preferred
+rifiuto speciale non pericoloso;NOUN;rifiuto speciale non pericoloso;"non pericoloso_ADJ; rifiuto_NOUN; rifiuto non pericoloso_NOUN; rifiuto speciale_NOUN";multi-word;preferred;preferred
+prodotti e contenitori etichettati con i simboli t e/o f;NOUN;rifiuto tossico e infiammabile;"contenitore etichettato con i simboli t e f_NOUN; contenitore etichettato con il simbolo f_NOUN; contenitore etichettato con il simbolo t_NOUN; f_NOUN; t_NOUN";multi-word;admitted;admitted
+prodotti e contenitori etichettati con i simboli t e/o f e pitture in genere;NOUN;rifiuto tossico e infiammabile;"contenitore etichettato con i simboli t e f_NOUN; contenitore etichettato con il simbolo f_NOUN; contenitore etichettato con il simbolo t_NOUN; f_NOUN; prodotti e contenitori etichettati con i simboli t e/o f_NOUN; t_NOUN";multi-word;admitted;admitted
+rifiuto t/f;NOUN;rifiuto tossico e infiammabile;"f_NOUN; rifiuto_NOUN; t_NOUN";multi-word;deprecated;deprecated
+prodotti pericolosi tossici, infiammabili e corrosivi;NOUN;rifiuto tossico e infiammabile e corrosivo;"corrosivo_ADJ; infiammabile_ADJ; pericoloso_ADJ; tossico_ADJ";multi-word;admitted;admitted
+frazione dei rifiuti solidi urbani;NOUN;rifiuto urbano;"frazione_NOUN; frazione dei rifiuti urbani_NOUN; rifiuto_NOUN; rifiuto solido urbano_NOUN; rifiuto urbano_NOUN";multi-word;admitted;deprecated
+r.s.u.;NOUN;rifiuto urbano;;acronym;admitted;deprecated
+rifiuto solido urbano;NOUN;rifiuto urbano;"rifiuto_NOUN; rifiuto urbano_NOUN";multi-word;preferred;preferred
+rifiuto urbano;NOUN;rifiuto urbano;rifiuto_NOUN;multi-word;admitted;admitted
+rsu;NOUN;rifiuto urbano;;acronym;admitted;deprecated
+rifiuto urbano pericoloso;NOUN;rifiuto urbano pericoloso;"rifiuto_NOUN; rifiuto pericoloso_NOUN; rifiuto urbano_NOUN";multi-word;preferred;preferred
+rup;NOUN;rifiuto urbano pericoloso;;acronym;admitted;deprecated
+cer 200301;NOUN;rifiuto urbano residuo;cer_NOUN;identifier code;admitted;deprecated
+frazione di non differenziabile;NOUN;rifiuto urbano residuo;"frazione_NOUN; non differenziabile_ADJ";multi-word;admitted;deprecated
+frazione indifferenziata;NOUN;rifiuto urbano residuo;"frazione_NOUN; indifferenziato_ADJ";multi-word;admitted;deprecated
+frazione indifferenziata dei r.s.u.;NOUN;rifiuto urbano residuo;"frazione_NOUN; frazione indifferenziata_NOUN; indifferenziato_ADJ";mixed compound;admitted;deprecated
+frazione non differenziabile;NOUN;rifiuto urbano residuo;"frazione_NOUN; non differenziabile_ADJ";multi-word;admitted;deprecated
+frazione secca;NOUN;rifiuto urbano residuo;frazione_NOUN;multi-word;admitted;admitted
+indifferenziato;NOUN;rifiuto urbano residuo;;single-word;admitted;preferred
+rifiuto indifferenziato;NOUN;rifiuto urbano residuo;"indifferenziato_NOUN; rifiuto_NOUN";multi-word;preferred;admitted
+rifiuto secco indifferenziato;NOUN;rifiuto urbano residuo;"indifferenziato_NOUN; rifiuto_NOUN; rifiuto indifferenziato_NOUN";multi-word;admitted;admitted
+rifiuto secco residuo;NOUN;rifiuto urbano residuo;rifiuto_NOUN;multi-word;admitted;admitted
+rifiuto urbano residuo;NOUN;rifiuto urbano residuo;"rifiuto_NOUN; rifiuto urbano_NOUN";multi-word;admitted;admitted
+rur;NOUN;rifiuto urbano residuo;;acronym;admitted;deprecated
+secco;NOUN;rifiuto urbano residuo;;single-word;admitted;admitted
+secco indifferenziato;NOUN;rifiuto urbano residuo;"indifferenziato_NOUN; secco_NOUN";multi-word;admitted;admitted
+secco non riciclabile;NOUN;rifiuto urbano residuo;"non riciclabile_ADJ; secco_NOUN";multi-word;admitted;admitted
+secco residuale;NOUN;rifiuto urbano residuo;secco_NOUN;multi-word;admitted;admitted
+secco residuale non riciclabile;NOUN;rifiuto urbano residuo;"non riciclabile_ADJ; secco_NOUN; secco non riciclabile_NOUN; secco residuale_NOUN";multi-word;admitted;admitted
+secco residuo;NOUN;rifiuto urbano residuo;secco_NOUN;multi-word;admitted;admitted
+r2;NOUN;rigenerazione/recupero di solventi;;identifier code;admitted;deprecated
+rimozione di micro discariche;NOUN;rimozione di micro discariche;"discarica_NOUN; micro discarica_NOUN";multi-word;;
+rimozione micro discariche;NOUN;rimozione di micro discariche;"discarica_NOUN; micro discarica_NOUN";multi-word;;
+raccolta a chiamata;NOUN;ritiro su prenotazione;raccolta_NOUN;multi-word;admitted;admitted
+ritiro a domicilio;NOUN;ritiro su prenotazione;ritiro_NOUN;multi-word;admitted;admitted
+ritiro gratuito a domicilio;NOUN;ritiro su prenotazione;"ritiro_NOUN; ritiro a domicilio_NOUN";multi-word;admitted;admitted
+ritiro ingombranti e raee;NOUN;ritiro su prenotazione;"ingombrante_NOUN; raee_NOUN; ritiro_NOUN";mixed compound;admitted;admitted
+ritiro su prenotazione;NOUN;ritiro su prenotazione;ritiro_NOUN;multi-word;preferred;preferred
+sistema a chiamata;NOUN;ritiro su prenotazione;;multi-word;admitted;admitted
+riutilizzabile;ADJ;riutilizzabile;;single-word;preferred;preferred
+riuso;NOUN;riutilizzo;;single-word;admitted;preferred
+riuso del materiale riciclato;NOUN;riutilizzo;"riciclato_ADJ; riuso_NOUN";multi-word;admitted;admitted
+riutilizzo;NOUN;riutilizzo;;single-word;preferred;admitted
+riutilizzo dei materiali;NOUN;riutilizzo;riutilizzo_NOUN;multi-word;admitted;admitted
+rottame in vetro;NOUN;rottame di vetro;vetro_NOUN;multi-word;admitted;deprecated
+sacchetto;NOUN;sacco;;single-word;admitted;preferred
+sacchetto a svuotamento;NOUN;sacco;sacchetto_NOUN;multi-word;deprecated;deprecated
+sacco;NOUN;sacco;;single-word;preferred;admitted
+sacchetto biodegradabile;NOUN;sacco biodegradabile;"biodegradabile_ADJ; sacchetto_NOUN";multi-word;admitted;preferred
+sacchetto biodegradabile compostabile;NOUN;sacco biodegradabile;"biodegradabile_ADJ; compostabile_ADJ; sacchetto_NOUN; sacchetto biodegradabile_NOUN";multi-word;admitted;admitted
+sacco biodegradabile;NOUN;sacco biodegradabile;"biodegradabile_ADJ; sacco_NOUN";multi-word;preferred;admitted
+sacco biodegradabile e compostabile;NOUN;sacco biodegradabile;"biodegradabile_ADJ; compostabile_ADJ; sacco_NOUN; sacco biodegradabile_NOUN";multi-word;admitted;admitted
+busta con legaccio;NOUN;sacco con legaccio;busta_NOUN;multi-word;admitted;admitted
+sacco di bioplastica;NOUN;sacco di bioplastica;"bioplastica_NOUN; sacco_NOUN";multi-word;preferred;admitted
+sacchetto di carta;NOUN;sacco di carta;"carta_NOUN; sacchetto_NOUN";multi-word;admitted;preferred
+sacchetto di carta o cartone;NOUN;sacco di carta;"carta_NOUN; cartone_NOUN; sacchetto_NOUN; sacchetto di carta_NOUN";multi-word;admitted;admitted
+busta di carta con legaccio;NOUN;sacco di carta con legaccio;"busta_NOUN; busta con legaccio_NOUN; busta di carta_NOUN";multi-word;admitted;admitted
+sacco di plastica;NOUN;sacco di plastica;"plastica_NOUN; sacco_NOUN";multi-word;preferred;admitted
+busta nera;NOUN;sacco nero;busta_NOUN;multi-word;admitted;admitted
+sacco di colore nero;NOUN;sacco nero;sacco_NOUN;multi-word;admitted;admitted
+sacchetto non conforme;NOUN;sacco non conforme;sacchetto_NOUN;multi-word;admitted;preferred
+sacchetto trasparente;NOUN;sacco trasparente;sacchetto_NOUN;multi-word;admitted;preferred
+sacco semitrasparente;NOUN;sacco trasparente;sacco_NOUN;multi-word;preferred;admitted
+servizio di raccolta e trasporto dei rifiuti urbani;NOUN;servizio di raccolta e trasporto dei rifiuti urbani;"raccolta_NOUN; raccolta dei rifiuti urbani_NOUN; rifiuto_NOUN; rifiuto urbano_NOUN; servizio di raccolta_NOUN; servizio di raccolta dei rifiuti_NOUN; servizio raccolta e trasporto_NOUN; trasporto_NOUN; trasporto dei rifiuti_NOUN; trasporto dei rifiuti urbani_NOUN";multi-word;preferred;preferred
+single-use plastics;NOUN;single-use plastics;;multi-word;admitted;deprecated
+sup;NOUN;single-use plastics;;acronym;admitted;deprecated
+sistri;NOUN;sistema di controllo della tracciabilità dei rifiuti;;acronym;preferred;deprecated
+capacità di gestione ambientale;NOUN;sistema di gestione ambientale;gestione ambientale_NOUN;multi-word;;
+sistema di gestione ambientale;NOUN;sistema di gestione ambientale;gestione ambientale_NOUN;multi-word;;
+servizio di smaltimento rifiuti urbani ed assimilabili;NOUN;smaltimento;"rifiuto_NOUN; rifiuto urbano_NOUN; smaltimento_NOUN";multi-word;deprecated;deprecated
+smaltimento;NOUN;smaltimento;;single-word;preferred;preferred
+smaltimento dei rifiuti;NOUN;smaltimento;"rifiuto_NOUN; smaltimento_NOUN";multi-word;admitted;admitted
+smaltimento dei rifiuti solidi urbani;NOUN;smaltimento dei rifiuti urbani;"rifiuto_NOUN; rifiuto solido urbano_NOUN; rifiuto urbano_NOUN; smaltimento_NOUN; smaltimento dei rifiuti_NOUN";multi-word;admitted;admitted
+smaltire;VERB;smaltire;;single-word;preferred;preferred
+smaltire i rifiuti;VERB;smaltire;"rifiuto_NOUN; smaltire_VERB";multi-word;admitted;admitted
+smaltire tramite combustione all'aperto;VERB;smaltire tramite combustione all'aperto;"combustione_NOUN; combustione all'aperto_NOUN; smaltire_VERB";multi-word;;
+smaltito;ADJ;smaltito;;single-word;preferred;preferred
+sostanza inquinante;NOUN;sostanza inquinante;;multi-word;preferred;preferred
+sostanza pericolosa;NOUN;sostanza pericolosa;;multi-word;preferred;preferred
+servizio di spazzamento;NOUN;spazzamento delle strade;spazzamento_NOUN;multi-word;admitted;admitted
+spazzamento;NOUN;spazzamento delle strade;;single-word;admitted;preferred
+spazzamento delle strade;NOUN;spazzamento delle strade;"spazzamento_NOUN; spazzamento strade_NOUN";multi-word;admitted;admitted
+spazzamento stradale;NOUN;spazzamento delle strade;spazzamento_NOUN;multi-word;admitted;admitted
+spazzamento strade;NOUN;spazzamento delle strade;spazzamento_NOUN;multi-word;deprecated;admitted
+igiene del suolo;NOUN;spazzamento e lavaggio;;multi-word;admitted;admitted
+pulizia;NOUN;spazzamento e lavaggio;;single-word;deprecated;deprecated
+pulizia, lavaggio e disinfezione;NOUN;spazzamento e lavaggio;"lavaggio_NOUN; pulizia_NOUN";multi-word;deprecated;deprecated
+pulizia, lavaggio e disinfezione aree interne ed esterne;NOUN;spazzamento e lavaggio;"lavaggio_NOUN; pulizia_NOUN";multi-word;deprecated;deprecated
+spazzamento integrato;NOUN;spazzamento integrato;spazzamento_NOUN;multi-word;preferred;preferred
+spazzamento manuale;NOUN;spazzamento manuale;spazzamento_NOUN;multi-word;preferred;preferred
+servizio meccanizzato;NOUN;spazzamento meccanizzato;;multi-word;admitted;deprecated
+spazzamento meccanizzato;NOUN;spazzamento meccanizzato;spazzamento_NOUN;multi-word;preferred;preferred
+intervento straordinario di spazzamento stradale;NOUN;spazzamento straordinario;"spazzamento_NOUN; spazzamento stradale_NOUN";multi-word;;
+stoccaggio;NOUN;stoccaggio;;single-word;preferred;preferred
+stoppia;NOUN;stoppia;;single-word;;
+area assoggettabile al tributo;NOUN;superficie assoggettabile al tributo;;multi-word;admitted;admitted
+servizio di svuotamento;NOUN;svuotamento;svuotamento_NOUN;multi-word;admitted;admitted
+svuotamento;NOUN;svuotamento;;single-word;preferred;preferred
+svuotamento dei carrellati;NOUN;svuotamento dei bidoni carrellati;"carrellato_NOUN; svuotamento_NOUN";multi-word;admitted;deprecated
+svuotamento dei carrellati condominiali;NOUN;svuotamento dei bidoni carrellati;"carrellato_NOUN; carrellato condominiale_NOUN; svuotamento_NOUN; svuotamento dei carrellati_NOUN";multi-word;admitted;deprecated
+svuotamento dei contenitori;NOUN;svuotamento dei cassonetti;svuotamento_NOUN;multi-word;admitted;admitted
+svuotamento dei contenitori colmi;NOUN;svuotamento dei cassonetti;"svuotamento_NOUN; svuotamento dei contenitori_NOUN";multi-word;admitted;admitted
+svuotamento dei cestini;NOUN;svuotamento dei cestini;"cestino_NOUN; svuotamento_NOUN";multi-word;admitted;admitted
+ta.ri.;NOUN;tassa rifiuti;;acronym;admitted;admitted
+tari;NOUN;tassa rifiuti;;acronym;preferred;admitted
+tariffa tari;NOUN;tassa rifiuti;"tari_NOUN; tariffa_NOUN";mixed compound;admitted;admitted
+tassa rifiuti;NOUN;tassa rifiuti;rifiuto_NOUN;multi-word;admitted;preferred
+tari presuntiva;NOUN;tassa rifiuti presuntiva;tari_NOUN;mixed compound;admitted;admitted
+tributo puntuale;NOUN;tassa rifiuti puntuale;;multi-word;admitted;admitted
+tarsu;NOUN;tassa smaltimento rifiuti solidi urbani;;acronym;admitted;admitted
+tassa sui rifiuti solidi urbani;NOUN;tassa smaltimento rifiuti solidi urbani;"rifiuto_NOUN; rifiuto solido urbano_NOUN; rifiuto urbano_NOUN; tassa rifiuti_NOUN";multi-word;admitted;preferred
+tariffa;NOUN;tassa sui rifiuti;;single-word;deprecated;admitted
+tariffa per i rifiuti;NOUN;tassa sui rifiuti;"rifiuto_NOUN; tariffa_NOUN";multi-word;deprecated;admitted
+tassa sui rifiuti;NOUN;tassa sui rifiuti;rifiuto_NOUN;multi-word;preferred;preferred
+tmv;NOUN;termovalorizzatore;;acronym;admitted;deprecated
+card;NOUN;tessera dei rifiuti;;single-word;admitted;admitted
+tetra pak;NOUN;tetrapak;;multi-word;preferred;preferred
+tetrapack;NOUN;tetrapak;;single-word;deprecated;admitted
+tetrapak;NOUN;tetrapak;;single-word;deprecated;deprecated
+toner;NOUN;toner per stampa esauriti;;single-word;admitted;admitted
+toner e cartucce;NOUN;toner per stampa esauriti;toner_NOUN;multi-word;admitted;admitted
+toner e cartucce esausti;NOUN;toner per stampa esauriti;"cartuccia esausta_NOUN; toner_NOUN; toner e cartucce_NOUN; toner esausto_NOUN";multi-word;admitted;admitted
+toner esausto;NOUN;toner per stampa esauriti;toner_NOUN;multi-word;admitted;admitted
+t;NOUN;tossico;;symbol;admitted;admitted
+tossico;ADJ;tossico;;single-word;preferred;preferred
+totale annuale conferito;NOUN;totale annuale conferito;conferito_ADJ;multi-word;;
+totale massimo annuale;NOUN;totale massimo annuale;;multi-word;;
+trasporto;NOUN;trasporto;;single-word;preferred;preferred
+trasporto ad impianto autorizzato;NOUN;trasporto;trasporto_NOUN;multi-word;admitted;admitted
+trasporto dei rifiuti;NOUN;trasporto;"rifiuto_NOUN; trasporto_NOUN";multi-word;admitted;admitted
+trasporto dei rifiuti urbani;NOUN;trasporto dei rifiuti urbani;"rifiuto_NOUN; rifiuto urbano_NOUN; trasporto_NOUN; trasporto dei rifiuti_NOUN";multi-word;admitted;admitted
+tmb;NOUN;trattamento meccanico biologico;;acronym;admitted;deprecated
+tares;NOUN;tributo comunale sui rifiuti e sui servizi;;acronym;admitted;admitted
+crt;NOUN;tubo catodico;;acronym;admitted;deprecated
+uffìcio tari;NOUN;uffcio tari;tari_NOUN;mixed compound;admitted;admitted
+servizio ecologia;NOUN;ufficio ambiente;;multi-word;;
+servizio ecologia e gestione del ciclo integrato rifiuti;NOUN;ufficio ambiente;"ciclo integrato rifiuti_NOUN; gestione rifiuti_NOUN; rifiuto_NOUN; servizio ecologia_NOUN";multi-word;;
+servizio ecologico;NOUN;ufficio ambiente;;multi-word;;
+ufficio ambiente;NOUN;ufficio ambiente;;multi-word;;
+ufficio ecologia;NOUN;ufficio ambiente;;multi-word;;
+ufficio servizi esternalizzati e raccolta differenziata;NOUN;ufficio servizi esternalizzati e raccolta differenziata;"raccolta_NOUN; raccolta differenziata_NOUN";multi-word;;
+contribuente;NOUN;utente;;single-word;admitted;admitted
+contribuente titolare;NOUN;utente;contribuente_NOUN;multi-word;admitted;admitted
+utente;NOUN;utente;;single-word;preferred;preferred
+utente domestico;NOUN;utente domestico;utente_NOUN;multi-word;preferred;preferred
+utenza;NOUN;utenza;;single-word;preferred;preferred
+utenza domestica;NOUN;utenza domestica;utenza_NOUN;multi-word;preferred;preferred
+utenza commerciale;NOUN;utenza non domestica;utenza_NOUN;multi-word;admitted;preferred
+utenza commerciale produttiva;NOUN;utenza non domestica;"utenza_NOUN; utenza commerciale_NOUN";multi-word;admitted;admitted
+utenza non domestica;NOUN;utenza non domestica;utenza_NOUN;multi-word;preferred;admitted
+utenza turistica;NOUN;utenza turistica;utenza_NOUN;multi-word;admitted;admitted
+utenza turistica non domestica;NOUN;utenza turistica;"utenza_NOUN; utenza non domestica_NOUN; utenza turistica_NOUN";multi-word;admitted;admitted
+r1;NOUN;utilizzazione principalmente come combustibile o come altro mezzo per produrre energia;;identifier code;admitted;deprecated
+rifiuto in vetro;NOUN;vetro;"rifiuto_NOUN; vetro_NOUN";multi-word;admitted;admitted
+vetro;NOUN;vetro;;single-word;admitted;preferred
+vetro e contenitori in vetro;NOUN;vetro;vetro_NOUN;multi-word;deprecated;deprecated
+vetro in lastre;NOUN;vetro ingombrante;vetro_NOUN;multi-word;admitted;admitted
+vetro in lastre e grossi recipienti;NOUN;vetro ingombrante;"vetro_NOUN; vetro in lastre_NOUN";multi-word;admitted;admitted
+vigilanza igienico-sanitaria;NOUN;vigilanza igienico-sanitaria;;multi-word;;
+volta cassonetti;NOUN;volta cassonetti;cassonetto_NOUN;multi-word;admitted;admitted
+volta cassonetti post;NOUN;volta cassonetti;"cassonetto_NOUN; volta cassonetti_NOUN";multi-word;;
+volta cassonetti post.;NOUN;volta cassonetti;"cassonetto_NOUN; volta cassonetti_NOUN";multi-word;;

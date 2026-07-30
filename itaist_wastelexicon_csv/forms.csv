@@ -1,0 +1,1265 @@
+form;feats;lemma;pos
+20 01 38;;20 01 38;NUM
+20 0201;;20 0201;NUM
+20 03 07;;20 03 07;NUM
+20.01.08;;20.01.08;NUM
+abbandonare rifiuti;;abbandonare rifiuti;VERB
+abbandono;Gender=Masc|Number=Sing;abbandono;NOUN
+abbandono abusivo dei rifiuti;Gender=Masc|Number=Sing;abbandono abusivo dei rifiuti;NOUN
+abbandono dei rifiuti;Gender=Masc|Number=Sing;abbandono dei rifiuti;NOUN
+abbandono dei rifiuti urbani pericolosi ed ingombranti;Gender=Masc|Number=Sing;abbandono dei rifiuti urbani pericolosi ed ingombranti;NOUN
+abbandono di rifiuti;Gender=Masc|Number=Sing;abbandono di rifiuti;NOUN
+abbandono di rifiuti non pericolosi e non ingombranti;Gender=Masc|Number=Sing;abbandono di rifiuti non pericolosi e non ingombranti;NOUN
+abbigliamento;Gender=Masc|Number=Sing;abbigliamento;NOUN
+abiti;Gender=Masc|Number=Plur;abito;NOUN
+abiti dismessi;Gender=Masc|Number=Plur;abito dismesso;NOUN
+abiti usati;Gender=Masc|Number=Plur;abito usato;NOUN
+abito;Gender=Masc|Number=Sing;abito;NOUN
+abito dismesso;Gender=Masc|Number=Sing;abito dismesso;NOUN
+abito usato;Gender=Masc|Number=Sing;abito usato;NOUN
+acc;;acc;PROPN
+accumulatore;Gender=Masc|Number=Sing;accumulatore;NOUN
+accumulatore al piombo;Gender=Masc|Number=Sing;accumulatore al piombo;NOUN
+accumulatore esausto;Gender=Masc|Number=Sing;accumulatore esausto;NOUN
+accumulatori al piombo;Gender=Masc|Number=Plur;accumulatore al piombo;NOUN
+accumulatori esausti;Gender=Masc|Number=Plur;accumulatore esausto;NOUN
+addetti al servizio dell'isola;Gender=Masc|Number=Plur;addetto al servizio dell'isola;NOUN
+addetti alla gestione;Gender=Masc|Number=Plur;addetto alla gestione;NOUN
+addetto al servizio dell'isola;Gender=Masc|Number=Sing;addetto al servizio dell'isola;NOUN
+addetto all'isola;Gender=Masc|Number=Sing;addetto all'isola;NOUN
+addetto alla gestione;Gender=Masc|Number=Sing;addetto alla gestione;NOUN
+agevolazione tari;Gender=Fem|Number=Sing;agevolazione tari;NOUN
+agevolazione tassa rifiuti;Gender=Fem|Number=Sing;agevolazione tassa rifiuti;NOUN
+agevolazioni tari;Gender=Fem|Number=Plur;agevolazione tari;NOUN
+agevolazioni tassa rifiuti;Gender=Fem|Number=Plur;agevolazione tassa rifiuti;NOUN
+al;;al;PROPN
+alluminio;Gender=Masc|Number=Sing;alluminio;NOUN
+analisi merceologica;Gender=Fem|Number=Sing;analisi merceologica;NOUN
+analisi merceologiche;Gender=Fem|Number=Plur;analisi merceologica;NOUN
+apparecchiatura elettrica/elettronica;Gender=Fem|Number=Sing;apparecchiatura elettrica/elettronica;NOUN
+apparecchiature elettriche ed elettroniche;Gender=Fem|Number=Plur;apparecchiature elettriche ed elettroniche;NOUN
+apparecchiature elettriche/elettroniche;Gender=Fem|Number=Plur;apparecchiatura elettrica/elettronica;NOUN
+area assoggettabile al tributo;Gender=Fem|Number=Sing;area assoggettabile al tributo;NOUN
+area tecnica ambientale;Gender=Fem|Number=Sing;area tecnica ambientale;NOUN
+area tecnica ambientale cimitero;Gender=Fem|Number=Sing;area tecnica ambientale cimitero;NOUN
+area tecnica e tutela dell'ambiente;Gender=Fem|Number=Sing;area tecnica e tutela dell'ambiente;NOUN
+aree assoggettabili al tributo;Gender=Fem|Number=Plur;area assoggettabile al tributo;NOUN
+assessorato all'ambiente;Gender=Masc|Number=Sing;assessorato all'ambiente;NOUN
+assimilabilità;Gender=Fem|Number=Sing;assimilabilità;NOUN
+attivazione del servizio;Gender=Fem|Number=Sing;attivazione del servizio;NOUN
+attività di bollettazione;Gender=Fem|Number=Sing;attività di bollettazione;NOUN
+attività di front line;Gender=Fem|Number=Sing;attività di front line;NOUN
+attività di pulitura e bruciatura;Gender=Fem|Number=Sing;attività di pulitura e bruciatura;NOUN
+attività di pulizia dei fondali;Gender=Fem|Number=Sing;attività di pulizia dei fondali;NOUN
+attività di recupero dell'evasione;Gender=Fem|Number=Sing;attività di recupero dell'evasione;NOUN
+attrezzatura per la raccolta domiciliare;Gender=Fem|Number=Sing;attrezzatura per la raccolta domiciliare;NOUN
+attrezzature per la raccolta;Gender=Fem|Number=Plur;attrezzature per la raccolta;NOUN
+attrezzature per la raccolta domiciliare;Gender=Fem|Number=Plur;attrezzatura per la raccolta domiciliare;NOUN
+autocarro compattatore;Gender=Masc|Number=Sing;autocarro compattatore;NOUN
+autocompattatore;Gender=Masc|Number=Sing;autocompattatore;NOUN
+autocompattatore per la raccolta di rifiuti solidi urbani;Gender=Masc|Number=Sing;autocompattatore per la raccolta di rifiuti solidi urbani;NOUN
+autocompattatore per raccolta rifiuti solidi urbani;Gender=Masc|Number=Sing;autocompattatore per raccolta rifiuti solidi urbani;NOUN
+autorizzazione unica ambientale;Gender=Fem|Number=Sing;autorizzazione unica ambientale;NOUN
+autospazzatrice;Gender=Fem|Number=Sing;autospazzatrice;NOUN
+avanzi di cucina cotti e crudi;Gender=Masc|Number=Plur;avanzi di cucina cotti e crudi;NOUN
+avvio a riciclo;Gender=Masc|Number=Sing;avvio a riciclo;NOUN
+avvisi di pagamento;Gender=Masc|Number=Plur;avviso di pagamento;NOUN
+avviso di pagamento;Gender=Masc|Number=Sing;avviso di pagamento;NOUN
+banda stagnata;Gender=Fem|Number=Sing;banda stagnata;NOUN
+batteria;Gender=Fem|Number=Sing;batteria;NOUN
+batteria al piombo;Gender=Fem|Number=Sing;batteria al piombo;NOUN
+batteria auto;Gender=Fem|Number=Sing;batteria auto;NOUN
+batterie;Gender=Fem|Number=Plur;batteria;NOUN
+batterie al piombo;Gender=Fem|Number=Plur;batteria al piombo;NOUN
+batterie auto;Gender=Fem|Number=Plur;batteria auto;NOUN
+bene durevole;Gender=Masc|Number=Sing;bene durevole;NOUN
+bene durevole dismesso;Gender=Masc|Number=Sing;bene durevole dismesso;NOUN
+beni durevoli;Gender=Masc|Number=Sing;bene durevole;NOUN
+beni durevoli dismessi;Gender=Masc|Number=Plur;bene durevole dismesso;NOUN
+bidone;Gender=Masc|Number=Sing;bidone;NOUN
+bidone carrellato;Gender=Masc|Number=Sing;bidone carrellato;NOUN
+bidone portarifiuti;Gender=Masc|Number=Sing;bidone portarifiuti;NOUN
+bidoni carrellati;Gender=Masc|Number=Plur;bidone carrellato;NOUN
+bidoni portarifiuti;Gender=Masc|Number=Plur;bidone portarifiuti;NOUN
+biodegradabile;Gender=Fem|Number=Sing;biodegradabile;ADJ
+biodegradabili;Gender=Fem|Number=Plur;biodegradabile;ADJ
+biodiesel;Gender=Masc|Number=Sing;biodiesel;NOUN
+biodiversità;Gender=Fem|Number=Sing;biodiversità;NOUN
+bioplastica;Gender=Fem|Number=Sing;bioplastica;NOUN
+bioplastica compostabile;Gender=Fem|Number=Sing;bioplastica compostabile;NOUN
+bioplastiche compostabili;Gender=Fem|Number=Plur;bioplastica compostabile;NOUN
+bolletta;Gender=Fem|Number=Sing;bolletta;NOUN
+bollette;Gender=Fem|Number=Plur;bolletta;NOUN
+bonifica dei fondali;Gender=Fem|Number=Sing;bonifica dei fondali;NOUN
+box in cartone;Gender=Masc;box in cartone;NOUN
+busta;Gender=Fem|Number=Sing;busta;NOUN
+busta a sacchetto;Gender=Fem|Number=Sing;busta a sacchetto;NOUN
+busta con legaccio;Gender=Fem|Number=Sing;busta con legaccio;NOUN
+busta di carta;Gender=Fem|Number=Sing;busta di carta;NOUN
+busta di carta con legaccio;Gender=Fem|Number=Sing;busta di carta con legaccio;NOUN
+busta di plastica;Gender=Fem|Number=Sing;busta di plastica;NOUN
+busta nera;Gender=Fem|Number=Sing;busta nera;NOUN
+buste;Gender=Fem|Number=Plur;busta;NOUN
+buste a sacchetto;Gender=Fem|Number=Plur;busta a sacchetto;NOUN
+buste di plastica;Gender=Fem|Number=Plur;busta di plastica;NOUN
+buste nere;Gender=Fem|Number=Plur;busta nera;NOUN
+calendari di raccolta;Gender=Masc|Number=Plur;calendario di raccolta;NOUN
+calendario;Gender=Masc|Number=Sing;calendario;NOUN
+calendario di conferimento;Gender=Masc|Number=Sing;calendario di conferimento;NOUN
+calendario di conferimento e raccolta;Gender=Masc|Number=Sing;calendario di conferimento e raccolta;NOUN
+calendario di conferimento e ritiro dei rsu;Gender=Masc|Number=Sing;calendario di conferimento e ritiro dei rsu;NOUN
+calendario di conferimento utenze domestiche;Gender=Masc|Number=Sing;calendario di conferimento utenze domestiche;NOUN
+calendario di raccolta;Gender=Masc|Number=Sing;calendario di raccolta;NOUN
+calendario di raccolta dei rifiuti solidi urbani;Gender=Masc|Number=Sing;calendario di raccolta dei rifiuti solidi urbani;NOUN
+calendario di raccolta porta a porta;Gender=Masc|Number=Sing;calendario di raccolta porta a porta;NOUN
+calendario di raccolta rifiuti;Gender=Masc|Number=Sing;calendario di raccolta rifiuti;NOUN
+calendario raccolta rifiuti;Gender=Masc|Number=Sing;calendario raccolta rifiuti;NOUN
+calendario utenze domestiche;Gender=Masc|Number=Sing;calendario utenze domestiche;NOUN
+calendario utenze domestiche per la raccolta differenziata;Gender=Masc|Number=Sing;calendario utenze domestiche per la raccolta differenziata;NOUN
+campana;Gender=Fem|Number=Sing;campana;NOUN
+campane;Gender=Fem|Number=Plur;campana;NOUN
+capacità di gestione ambientale;Gender=Fem|Number=Sing;capacità di gestione ambientale;NOUN
+capitolato speciale di appalto del servizio di igiene urbana;Gender=Masc|Number=Sing;capitolato speciale di appalto del servizio di igiene urbana;NOUN
+capitolato speciale di appalto del servizio di igiene urbana della città;Gender=Masc|Number=Sing;capitolato speciale di appalto del servizio di igiene urbana della città;NOUN
+card;Gender=Fem|Number=Sing;card;NOUN
+carico dei rifiuti;Gender=Masc|Number=Sing;carico dei rifiuti;NOUN
+carrellati;Gender=Masc|Number=Plur;carrellato;NOUN
+carrellati condominiali;Gender=Masc|Number=Plur;carrellato condominiale;NOUN
+carrellato;Gender=Masc|Number=Sing;carrellato;NOUN
+carrellato condominiale;Gender=Masc|Number=Sing;carrellato condominiale;NOUN
+carta;Gender=Fem|Number=Sing;carta;NOUN
+carta - cartone;Gender=Fem|Number=Sing;carta - cartone;NOUN
+carta - cartone - tetra pak;Gender=Fem|Number=Sing;carta - cartone - tetra pak;NOUN
+carta cartone;Gender=Fem|Number=Sing;carta cartone;NOUN
+carta cartone e tetra pak;Gender=Fem|Number=Sing;carta cartone e tetra pak;NOUN
+carta dei servizi;Gender=Fem|Number=Sing;carta dei servizi;NOUN
+carta dei servizi di gestione dei rifiuti;Gender=Fem|Number=Sing;carta dei servizi di gestione dei rifiuti;NOUN
+carta e cartacce;Gender=Fem|Number=Sing;carta e cartacce;NOUN
+carta e cartoncini;Gender=Fem|Number=Sing;carta e cartoncini;NOUN
+carta e cartone;Gender=Fem|Number=Sing;carta e cartone;NOUN
+carta e cartoni;Gender=Fem|Number=Sing;carta e cartoni;NOUN
+carta e imballaggi in cartone;Gender=Fem|Number=Sing;carta e imballaggi in cartone;NOUN
+carta – cartone – tetrapak;Gender=Fem|Number=Sing;carta – cartone – tetrapak;NOUN
+carta, cartacce;Gender=Fem|Number=Sing;carta, cartacce;NOUN
+carta, cartoncini e imballaggi in cartone;Gender=Fem|Number=Sing;carta, cartoncini e imballaggi in cartone;NOUN
+carta, cartone e cartoncino;Gender=Fem|Number=Sing;carta, cartone e cartoncino;NOUN
+carta, cartone e tetra pak;Gender=Fem|Number=Sing;carta, cartone e tetra pak;NOUN
+carta, cartone, cartoncino;Gender=Fem|Number=Sing;carta, cartone, cartoncino;NOUN
+carta/cartone;Gender=Fem|Number=Sing;carta/cartone;NOUN
+cartoncino e cartone;Gender=Masc|Number=Sing;cartoncino e cartone;NOUN
+cartone;Gender=Masc|Number=Sing;cartone;NOUN
+cartone da imballaggio;Gender=Masc|Number=Sing;cartone da imballaggio;NOUN
+cartone selettivo;Gender=Masc|Number=Sing;cartone selettivo;NOUN
+cartoni;Gender=Masc|Number=Plur;cartone;NOUN
+cartoni da imballaggio;Gender=Masc|Number=Plur;cartone da imballaggio;NOUN
+cartucce esauste;Gender=Fem|Number=Plur;cartuccia esausta;NOUN
+cartuccia esausta;Gender=Fem|Number=Sing;cartuccia esausta;NOUN
+cassone;Gender=Masc|Number=Sing;cassone;NOUN
+cassone scarrabile;Gender=Masc|Number=Plur;cassone scarrabile;NOUN
+cassonetti;Gender=Masc|Number=Plur;cassonetto;NOUN
+cassonetti stradali;Gender=Masc|Number=Plur;cassonetto stradale;NOUN
+cassonetto;Gender=Masc|Number=Sing;cassonetto;NOUN
+cassonetto stradale;Gender=Masc|Number=Sing;cassonetto stradale;NOUN
+cassoni;Gender=Masc|Number=Plur;cassone;NOUN
+cassoni scarrabili;Gender=Masc|Number=Plur;cassone scarrabile;NOUN
+ccr;Gender=Masc|Number=Sing;ccr;NOUN
+centri comunali di raccolta;Gender=Masc|Number=Plur;centro comunale di raccolta;NOUN
+centri di raccolta;Gender=Masc|Number=Plur;centro di raccolta;NOUN
+centri di raccolta comunali;Gender=Masc|Number=Plur;centro di raccolta comunale;NOUN
+centri di raccolta dei rifiuti urbani;Gender=Masc|Number=Plur;centro di raccolta dei rifiuti urbani;NOUN
+centri di raccolta dei rifiuti urbani raccolti in modo differenziato;Gender=Masc|Number=Plur;centro di raccolta dei rifiuti urbani raccolti in modo differenziato;NOUN
+centri di raccolta intercomunali;Gender=Masc|Number=Sing;centro di raccolta intercomunale;NOUN
+centri di raccolta rifiuti urbani;Gender=Masc|Number=Plur;centro di raccolta rifiuti urbani;NOUN
+centro comunale di raccolta;Gender=Masc|Number=Sing;centro comunale di raccolta;NOUN
+centro di raccolta;Gender=Masc|Number=Sing;centro di raccolta;NOUN
+centro di raccolta comunale;Gender=Masc|Number=Sing;centro di raccolta comunale;NOUN
+centro di raccolta comunale dei rifiuti urbani;Gender=Masc|Number=Sing;centro di raccolta comunale dei rifiuti urbani;NOUN
+centro di raccolta dei rifiuti urbani;Gender=Masc|Number=Sing;centro di raccolta dei rifiuti urbani;NOUN
+centro di raccolta dei rifiuti urbani raccolti in modo differenziato;Gender=Masc|Number=Sing;centro di raccolta dei rifiuti urbani raccolti in modo differenziato;NOUN
+centro di raccolta differenziata;Gender=Masc|Number=Sing;centro di raccolta differenziata;NOUN
+centro di raccolta intercomunale;Gender=Masc|Number=Sing;centro di raccolta intercomunale;NOUN
+centro di raccolta rifiuti differenziati;Gender=Masc|Number=Sing;centro di raccolta rifiuti differenziati;NOUN
+centro di raccolta rifiuti differenziati intercomunale;Gender=Masc|Number=Sing;centro di raccolta rifiuti differenziati intercomunale;NOUN
+centro di raccolta rifiuti urbani;Gender=Masc|Number=Sing;centro di raccolta rifiuti urbani;NOUN
+centro di stoccaggio;Gender=Masc|Number=Sing;centro di stoccaggio;NOUN
+cer;Gender=Masc|Number=Sing;cer;NOUN
+cer 200301;;cer 200301;NOUN
+cernire;;cernire;VERB
+cernita;Gender=Fem|Number=Sing;cernita;NOUN
+cernita di materiali;Gender=Fem|Number=Sing;cernita di materiali;NOUN
+cernite;Gender=Fem|Number=Plur;cernita;NOUN
+cernite di materiali;Gender=Fem|Number=Plur;cernita di materiali;NOUN
+cestini;Gender=Masc|Number=Plur;cestino;NOUN
+cestini portarifiuti;Gender=Masc|Number=Plur;cestino portarifiuti;NOUN
+cestino;Gender=Masc|Number=Sing;cestino;NOUN
+cestino portarifiuti;Gender=Masc|Number=Sing;cestino portarifiuti;NOUN
+ciclo dei rifiuti;Gender=Masc|Number=Sing;ciclo dei rifiuti;NOUN
+ciclo dei rifiuti urbani;Gender=Masc|Number=Sing;ciclo dei rifiuti urbani;NOUN
+ciclo integrato dei rifiuti;Gender=Masc|Number=Sing;ciclo integrato dei rifiuti;NOUN
+ciclo integrato rifiuti;Gender=Masc|Number=Sing;ciclo integrato rifiuti;NOUN
+cittadini conferitori;Gender=Masc|Number=Plur;cittadino conferitore;NOUN
+cittadino conferitore;Gender=Masc|Number=Plur;cittadino conferitore;NOUN
+cod. cer;Gender=Masc|Number=Sing;cod. cer;NOUN
+codice cer;Gender=Masc|Number=Sing;codice cer;NOUN
+codici cer;Gender=Masc|Number=Plur;codice cer;NOUN
+coefficiente di adattamento per superficie;Gender=Masc|Number=Sing;coefficiente di adattamento per superficie;NOUN
+coefficiente proporzionale di produttività;Gender=Masc|Number=Sing;coefficiente proporzionale di produttività;NOUN
+coefficiente proporzionale di produttività kb;Gender=Masc|Number=Sing;coefficiente proporzionale di produttività kb;NOUN
+coefficienti per la determinazione della parte fissa e parte variabile;Gender=Masc|Number=Plur;coefficienti per la determinazione della parte fissa e parte variabile;NOUN
+combustione;Gender=Fem|Number=Sing;combustione;NOUN
+combustione all'aperto;Gender=Fem|Number=Sing;combustione all'aperto;NOUN
+compattatore;Gender=Masc|Number=Sing;compattatore;NOUN
+compattatore farid per raccolta rifiuti solidi urbani;Gender=Masc|Number=Sing;compattatore farid per raccolta rifiuti solidi urbani;NOUN
+compostabile;Gender=Fem|Number=Plur;compostabile;ADJ
+compostabili;Gender=Fem|Number=Plur;compostabile;ADJ
+compostaggio;Gender=Masc|Number=Sing;compostaggio;NOUN
+compostaggio domestico;Gender=Masc|Number=Sing;compostaggio domestico;NOUN
+compostiera;Gender=Fem|Number=Sing;compostiera;NOUN
+compostiera domestica;Gender=Fem|Number=Sing;compostiera domestica;NOUN
+compostiere;Gender=Fem|Number=Plur;compostiera;NOUN
+condizioni igieniche e di decoro;Gender=Fem|Number=Plur;condizioni igieniche e di decoro;NOUN
+conferente;Number=Sing;conferente;ADJ
+conferibile;Gender=Masc|Number=Sing;conferibile;ADJ
+conferibili;Gender=Fem|Number=Plur;conferibile;ADJ
+conferimenti;Gender=Masc|Number=Plur;conferimento;NOUN
+conferimento;Gender=Masc|Number=Sing;conferimento;NOUN
+conferimento dei rifiuti;Gender=Masc|Number=Sing;conferimento dei rifiuti;NOUN
+conferimento dei rifiuti speciali;Gender=Masc|Number=Sing;conferimento dei rifiuti speciali;NOUN
+conferimento del rifiuto;Gender=Masc|Number=Sing;conferimento del rifiuto;NOUN
+conferimento delle frazioni;Gender=Masc|Number=Sing;conferimento delle frazioni;NOUN
+conferimento diretto;Gender=Masc|Number=Sing;conferimento diretto;NOUN
+conferimento fuori porta;Gender=Masc|Number=Sing;conferimento fuori porta;NOUN
+conferimento presso l'isola ecologica;Gender=Masc|Number=Sing;conferimento presso l'isola ecologica;NOUN
+conferimento rifiuti su suolo pubblico;Gender=Masc|Number=Sing;conferimento rifiuti su suolo pubblico;NOUN
+conferimento separato dei rifiuti;Gender=Masc|Number=Sing;conferimento separato dei rifiuti;NOUN
+conferire;;conferire;VERB
+conferire direttamente;;conferire direttamente;VERB
+conferire i rifiuti;;conferire i rifiuti;VERB
+conferirlo;;conferire;VERB
+conferisce;Number=Sing;conferire;VERB
+conferisci;Number=Sing;conferire;VERB
+conferiscono;Number=Plur;conferire;VERB
+conferita;Gender=Fem|Number=Sing;conferito;ADJ
+conferite;Gender=Fem|Number=Plur;conferito;ADJ
+conferiti;Gender=Masc|Number=Plur;conferito;ADJ
+conferito;Gender=Masc|Number=Sing;conferito;ADJ
+container;Gender=Masc|Number=Sing;container;NOUN
+contenitore abiti usati;Gender=Masc|Number=Sing;contenitore abiti usati;NOUN
+contenitore adibito alla raccolta delle frazioni di rifiuti;Gender=Masc|Number=Sing;contenitore adibito alla raccolta delle frazioni di rifiuti;NOUN
+contenitore adibito alla raccolta specifica degli oli;Gender=Masc|Number=Sing;contenitore adibito alla raccolta specifica degli oli;NOUN
+contenitore apposito;Gender=Masc|Number=Sing;contenitore apposito;NOUN
+contenitore di raccolta;Gender=Masc|Number=Sing;contenitore di raccolta;NOUN
+contenitore di sostanze pericolose;Gender=Masc|Number=Sing;contenitore di sostanze pericolose;NOUN
+contenitore etichettato con i simboli t e f;Gender=Masc|Number=Sing;contenitore etichettato con i simboli t e f;NOUN
+contenitore etichettato con il simbolo f;Gender=Masc|Number=Sing;contenitore etichettato con il simbolo f;NOUN
+contenitore etichettato con il simbolo t;Gender=Masc|Number=Sing;contenitore etichettato con il simbolo t;NOUN
+contenitore etichettato t;Gender=Masc|Number=Sing;contenitore etichettato t;NOUN
+contenitore etichettato t e f;Gender=Masc|Number=Sing;contenitore etichettato t e f;NOUN
+contenitore per il conferimento di farmaci;Gender=Masc|Number=Sing;contenitore per il conferimento di farmaci;NOUN
+contenitore per il conferimento pannoloni e i pannolini;Gender=Masc|Number=Sing;contenitore per il conferimento pannoloni e i pannolini;NOUN
+contenitore per la raccolta dei rifiuti urbani;Gender=Masc|Number=Sing;contenitore per la raccolta dei rifiuti urbani;NOUN
+contenitore predisposto;Gender=Masc|Number=Sing;contenitore predisposto;NOUN
+contenitore siglato t/f/x;Gender=Masc|Number=Plur;contenitore siglato t/f/x;NOUN
+contenitore stradale;Gender=Masc|Number=Sing;contenitore stradale;NOUN
+contenitori adibiti alla raccolta delle frazioni di rifiuti;Gender=Masc|Number=Plur;contenitore adibito alla raccolta delle frazioni di rifiuti;NOUN
+contenitori adibiti alla raccolta specifica degli oli;Gender=Masc|Number=Plur;contenitore adibito alla raccolta specifica degli oli;NOUN
+contenitori appositi;Gender=Masc|Number=Plur;contenitore apposito;NOUN
+contenitori di raccolta;Gender=Masc|Number=Plur;contenitore di raccolta;NOUN
+contenitori di sostanze pericolose;Gender=Masc|Number=Plur;contenitore di sostanze pericolose;NOUN
+contenitori etichettati con i simboli t e f;Gender=Masc|Number=Plur;contenitore etichettato con i simboli t e f;NOUN
+contenitori etichettati con il simbolo f;Gender=Masc|Number=Plur;contenitore etichettato con il simbolo f;NOUN
+contenitori etichettati con il simbolo t;Gender=Masc|Number=Plur;contenitore etichettato con il simbolo t;NOUN
+contenitori etichettati t;Gender=Masc|Number=Plur;contenitore etichettato t;NOUN
+contenitori etichettati t e f;Gender=Masc|Number=Plur;contenitore etichettato t e f;NOUN
+contenitori per il conferimento di farmaci;Gender=Masc|Number=Plur;contenitore per il conferimento di farmaci;NOUN
+contenitori per il conferimento pannoloni e i pannolini;Gender=Masc|Number=Plur;contenitore per il conferimento pannoloni e i pannolini;NOUN
+contenitori per la raccolta dei rifiuti urbani;Gender=Masc|Number=Plur;contenitore per la raccolta dei rifiuti urbani;NOUN
+contenitori predisposti;Gender=Masc|Number=Plur;contenitore predisposto;NOUN
+contenitori siglati t/f/x;Gender=Masc|Number=Plur;contenitore siglato t/f/x;NOUN
+contenitori stradali;Gender=Masc|Number=Plur;contenitore stradale;NOUN
+contribuente;Gender=Masc|Number=Sing;contribuente;NOUN
+contribuente titolare;Gender=Masc|Number=Sing;contribuente titolare;NOUN
+contribuenti;Gender=Masc|Number=Plur;contribuente;NOUN
+contribuenti titolari;Gender=Masc|Number=Plur;contribuente titolare;NOUN
+corrosivo;Gender=Masc|Number=Sing;corrosivo;ADJ
+costi di gestione;Gender=Masc|Number=Plur;costi di gestione;NOUN
+costi di smaltimento;Gender=Masc|Number=Plur;costi di smaltimento;NOUN
+costi variabili;Gender=Masc|Number=Plur;costi variabili;NOUN
+criteri di assimilabilità dei rifiuti speciali non pericolosi ai rifiuti urbani;Gender=Masc|Number=Plur;criterio di assimilabilità dei rifiuti speciali non pericolosi ai rifiuti urbani;NOUN
+criterio di assimilabilità dei rifiuti speciali non pericolosi ai rifiuti urbani;Gender=Masc|Number=Sing;criterio di assimilabilità dei rifiuti speciali non pericolosi ai rifiuti urbani;NOUN
+crt;Gender=Masc|Number=Sing;crt;NOUN
+decoro;Gender=Masc|Number=Sing;decoro;NOUN
+decoro dell'ambiente;Gender=Masc|Number=Sing;decoro dell'ambiente;NOUN
+degrado estetico;Gender=Masc|Number=Sing;degrado estetico;NOUN
+delibera arera;Gender=Fem|Number=Sing;delibera arera;NOUN
+depositare;;depositare;VERB
+depositare i rifiuti;;depositare i rifiuti;VERB
+depositare rifiuti;;depositare rifiuti;VERB
+depositati rifiuti;Gender=Masc|Number=Plur;depositare rifiuti;VERB
+depositi di rifiuti;Gender=Masc|Number=Sing;deposito di rifiuti;NOUN
+deposito;Gender=Masc|Number=Sing;deposito;NOUN
+deposito di rifiuti;Gender=Masc|Number=Sing;deposito di rifiuti;NOUN
+deposito temporaneo;Gender=Masc|Number=Sing;deposito temporaneo;NOUN
+deposito temporaneo dei rifiuti;Gender=Masc|Number=Sing;deposito temporaneo dei rifiuti;NOUN
+deposito temporaneo del rifiuto;Gender=Masc|Number=Sing;deposito temporaneo del rifiuto;NOUN
+deposito temporaneo del rifiuto secco indifferenziato;Gender=Masc|Number=Sing;deposito temporaneo del rifiuto secco indifferenziato;NOUN
+deposito temporaneo della frazione dei rifiuti solidi urbani;Gender=Masc|Number=Sing;deposito temporaneo della frazione dei rifiuti solidi urbani;NOUN
+devono essere conferite;Gender=Fem|Number=Plur;conferire;VERB
+dichiarazione di cessazione;Gender=Fem|Number=Sing;dichiarazione di cessazione;NOUN
+dichiarazione tari;Gender=Fem|Number=Sing;dichiarazione tari;NOUN
+differenzia;Number=Sing;differenziare;VERB
+differenziabile;Gender=Masc|Number=Plur;differenziabile;ADJ
+differenziare;;differenziare;VERB
+differenziata;Gender=Fem|Number=Sing;differenziata;NOUN
+differenziate;Gender=Fem|Number=Plur;differenziata;NOUN
+differenziati;Gender=Masc|Number=Plur;differenziato;ADJ
+differenziato;Gender=Masc|Number=Sing;differenziato;ADJ
+differenziazione;Gender=Fem|Number=Sing;differenziazione;NOUN
+differenziazione dei rifiuti;Gender=Fem|Number=Sing;differenziazione dei rifiuti;NOUN
+discarica;Gender=Fem|Number=Sing;discarica;NOUN
+discariche;Gender=Fem|Number=Plur;discarica;NOUN
+disciplina dei centri di raccolta;Gender=Fem|Number=Sing;disciplina dei centri di raccolta;NOUN
+disciplina dei centri di raccolta dei rifiuti urbani raccolti in modo differenziato;Gender=Fem|Number=Sing;disciplina dei centri di raccolta dei rifiuti urbani raccolti in modo differenziato;NOUN
+disciplinare per la gestione dei centri di raccolta comunali;Gender=Masc|Number=Sing;disciplinare per la gestione dei centri di raccolta comunali;NOUN
+eco compattatore;Gender=Masc|Number=Sing;eco compattatore;NOUN
+eco-dizionario;Gender=Masc|Number=Sing;eco-dizionario;NOUN
+eco-punti;Gender=Masc|Number=Plur;eco-punto;NOUN
+eco-punto;Gender=Masc|Number=Sing;eco-punto;NOUN
+ecocalendari;Gender=Masc|Number=Plur;ecocalendario;NOUN
+ecocalendario;Gender=Masc|Number=Sing;ecocalendario;NOUN
+ecocentro;Gender=Masc|Number=Sing;ecocentro;NOUN
+ecocompattatore;Gender=Masc|Number=Sing;ecocompattatore;NOUN
+ecocompattatore mangiaplastica;Gender=Masc|Number=Sing;ecocompattatore mangiaplastica;NOUN
+ecocompattatori;Gender=Masc|Number=Plur;ecocompattatore;NOUN
+ecosostenibile;Gender=Masc|Number=Sing;ecosostenibile;ADJ
+ecovigilanza;Gender=Fem|Number=Sing;ecovigilanza;NOUN
+emissione;Gender=Fem|Number=Sing;emissione;NOUN
+energia green;Gender=Fem|Number=Sing;energia green;NOUN
+errato conferimento;Gender=Masc|Number=Sing;errato conferimento;NOUN
+esporre;;esporre;VERB
+esposizione;Gender=Fem|Number=Sing;esposizione;NOUN
+essere conferite;Gender=Fem|Number=Plur;conferire;VERB
+essere conferiti;Gender=Masc|Number=Plur;conferire;VERB
+essere conferiti direttamente;Gender=Masc|Number=Plur;conferire direttamente;VERB
+essere conferito;Gender=Masc|Number=Sing;conferire;VERB
+essere depositati;Gender=Masc|Number=Plur;depositare;VERB
+f;;f;NOUN
+f. o. u;Gender=Fem|Number=Sing;f. o. u;NOUN
+f. o. u.;Gender=Fem|Number=Sing;f. o. u.;NOUN
+farmaci;Gender=Masc|Number=Plur;farmaco;NOUN
+farmaci non utilizzato;Gender=Masc|Number=Plur;farmaco non utilizzato;NOUN
+farmaci scaduti;Gender=Masc|Number=Plur;farmaco scaduto;NOUN
+farmaci scaduti o non utilizzati;Gender=Masc|Number=Plur;farmaco scaduto o non utilizzato;NOUN
+farmaco;Gender=Masc|Number=Sing;farmaco;NOUN
+farmaco non utilizzato;Gender=Masc|Number=Sing;farmaco non utilizzato;NOUN
+farmaco scaduto;Gender=Masc|Number=Sing;farmaco scaduto;NOUN
+farmaco scaduto o non utilizzato;Gender=Masc|Number=Sing;farmaco scaduto o non utilizzato;NOUN
+fauna;Gender=Fem|Number=Sing;fauna;NOUN
+fe;;fe;NOUN
+ferro;Gender=Masc|Number=Sing;ferro;NOUN
+filiera di destinazione;Gender=Fem|Number=Sing;filiera di destinazione;NOUN
+filiere di destinazione;Gender=Fem|Number=Plur;filiera di destinazione;NOUN
+fir;Gender=Masc|Number=Sing;fir;NOUN
+frazione;Gender=Fem|Number=Sing;frazione;NOUN
+frazione carta;Gender=Fem|Number=Sing;frazione carta;NOUN
+frazione conferita;Gender=Fem|Number=Sing;frazione conferita;NOUN
+frazione dei rifiuti differenziati;Gender=Masc|Number=Sing;frazione dei rifiuti differenziati;NOUN
+frazione dei rifiuti solidi urbani;Gender=Fem|Number=Sing;frazione dei rifiuti solidi urbani;NOUN
+frazione dei rifiuti urbani;Gender=Fem|Number=Sing;frazione dei rifiuti urbani;NOUN
+frazione di non differenziabile;Gender=Fem|Number=Sing;frazione di non differenziabile;NOUN
+frazione di rifiuti;Gender=Fem|Number=Sing;frazione di rifiuti;NOUN
+frazione differenziata;Gender=Fem|Number=Sing;frazione differenziata;NOUN
+frazione indifferenziata;Gender=Fem|Number=Sing;frazione indifferenziata;NOUN
+frazione indifferenziata dei r.s.u.;Gender=Fem|Number=Sing;frazione indifferenziata dei r.s.u.;NOUN
+frazione merceologica;Gender=Fem|Number=Sing;frazione merceologica;NOUN
+frazione merceologica dei rifiuti;Gender=Fem|Number=Sing;frazione merceologica dei rifiuti;NOUN
+frazione multimateriale;Gender=Fem|Number=Sing;frazione multimateriale;NOUN
+frazione non differenziabile;Gender=Fem|Number=Sing;frazione non differenziabile;NOUN
+frazione organica;Gender=Fem|Number=Sing;frazione organica;NOUN
+frazione organica umida;Gender=Fem|Number=Sing;frazione organica umida;NOUN
+frazione riciclabile;Gender=Fem|Number=Sing;frazione riciclabile;NOUN
+frazione rifiuto;Gender=Fem|Number=Sing;frazione rifiuto;NOUN
+frazione secca;Gender=Fem|Number=Sing;frazione secca;NOUN
+frazione umida;Gender=Fem|Number=Sing;frazione umida;NOUN
+frazione umida dei r.s.u.;Gender=Fem|Number=Sing;frazione umida dei r.s.u.;NOUN
+frazione umida organica;Gender=Fem|Number=Sing;frazione umida organica;NOUN
+frazione valorizzabile economicamente;Gender=Fem|Number=Sing;frazione valorizzabile economicamente;NOUN
+frazione verde;Gender=Fem|Number=Sing;frazione verde;NOUN
+frazioni;Gender=Fem|Number=Plur;frazione;NOUN
+frazioni carta;Gender=Fem|Number=Plur;frazione carta;NOUN
+frazioni dei rifiuti differenziati;Gender=Fem|Number=Plur;frazioni dei rifiuti differenziati;NOUN
+frazioni di rifiuti;Gender=Fem|Number=Plur;frazione di rifiuti;NOUN
+frazioni differenziate;Gender=Fem|Number=Plur;frazione differenziata;NOUN
+frazioni merceologiche;Gender=Fem|Number=Plur;frazione merceologica;NOUN
+frazioni merceologiche dei rifiuti;Gender=Fem|Number=Plur;frazione merceologica dei rifiuti;NOUN
+frazioni multimateriale;Gender=Fem|Number=Plur;frazione multimateriale;NOUN
+frazioni valorizzabili economicamente;Gender=Fem|Number=Plur;frazione valorizzabile economicamente;NOUN
+frigoriferi e sistemi per il condizionamento;Gender=Masc|Number=Plur;frigoriferi e sistemi per il condizionamento;NOUN
+gestione ambientale;Gender=Fem|Number=Sing;gestione ambientale;NOUN
+gestione centri di raccolta rifiuti urbani;Gender=Fem|Number=Sing;gestione centri di raccolta rifiuti urbani;NOUN
+gestione dei rifiuti;Gender=Fem|Number=Sing;gestione dei rifiuti;NOUN
+gestione dei rifiuti differenziati;Gender=Fem|Number=Sing;gestione dei rifiuti differenziati;NOUN
+gestione dei rifiuti urbani;Gender=Fem|Number=Sing;gestione dei rifiuti urbani;NOUN
+gestione dei rifiuti urbani ed assimilati;Gender=Fem|Number=Sing;gestione dei rifiuti urbani ed assimilati;NOUN
+gestione dei servizi di igiene urbana;Gender=Fem|Number=Sing;gestione dei servizi di igiene urbana;NOUN
+gestione del centro di raccolta;Gender=Fem|Number=Sing;gestione del centro di raccolta;NOUN
+gestione del ciclo integrato dei rifiuti;Gender=Fem|Number=Sing;gestione del ciclo integrato dei rifiuti;NOUN
+gestione del servizio dei rifiuti urbani ed assimilati;Gender=Fem|Number=Sing;gestione del servizio dei rifiuti urbani ed assimilati;NOUN
+gestione del servizio di raccolta;Gender=Fem|Number=Sing;gestione del servizio di raccolta;NOUN
+gestione del servizio di raccolta per i rifiuti;Gender=Fem|Number=Sing;gestione del servizio di raccolta per i rifiuti;NOUN
+gestione del servizio di raccolta per i rifiuti provenienti da luoghi adibiti ad uso di civile abitazione;Gender=Fem|Number=Sing;gestione del servizio di raccolta per i rifiuti provenienti da luoghi adibiti ad uso di civile abitazione;NOUN
+gestione di rifiuti urbani;Gender=Fem|Number=Sing;gestione di rifiuti urbani;NOUN
+gestione integrata rifiuti con sistema porta a porta;Gender=Fem|Number=Sing;gestione integrata rifiuti con sistema porta a porta;NOUN
+gestione rifiuti;Gender=Fem|Number=Sing;gestione rifiuti;NOUN
+gestore;Gender=Masc|Number=Sing;gestore;NOUN
+gestore del centro di raccolta differenziata;Gender=Masc|Number=Sing;gestore del centro di raccolta differenziata;NOUN
+gestore del pronto intervento;Gender=Masc|Number=Sing;gestore del pronto intervento;NOUN
+gestore del servizio di igiene urbana;Gender=Masc|Number=Sing;gestore del servizio di igiene urbana;NOUN
+gestore del servizio di igiene urbana della città;Gender=Masc|Number=Sing;gestore del servizio di igiene urbana della città;NOUN
+gestore dell'attività di gestione tariffe;Gender=Masc|Number=Sing;gestore dell'attività di gestione tariffe;NOUN
+gestore della raccolta e trasporto;Gender=Masc|Number=Sing;gestore della raccolta e trasporto;NOUN
+gestore dello spazzamento e lavaggio;Gender=Masc|Number=Sing;gestore dello spazzamento e lavaggio;NOUN
+gestore dello spazzamento e lavaggio delle strade;Gender=Masc|Number=Sing;gestore dello spazzamento e lavaggio delle strade;NOUN
+gestori;Gender=Masc|Number=Plur;gestore;NOUN
+gestori del centro di raccolta differenziata;Gender=Masc|Number=Plur;gestore del centro di raccolta differenziata;NOUN
+gettare;;gettare;VERB
+gettiamoli;Number=Plur;gettare;VERB
+grande scarto di potatura;Gender=Masc|Number=Sing;grande scarto di potatura;NOUN
+grande utenza;Gender=Fem|Number=Sing;grande utenza;NOUN
+grandi scarti di potatura;Gender=Masc|Number=Plur;grande scarto di potatura;NOUN
+grandi utenze;Gender=Fem|Number=Plur;grande utenza;NOUN
+grassi;Gender=Masc|Number=Plur;grasso;NOUN
+grassi animali;Gender=Masc|Number=Plur;grasso animale;NOUN
+grassi commestibili;Gender=Masc|Number=Plur;grasso commestibile;NOUN
+grassi vegetali;Gender=Masc|Number=Plur;grasso vegetale;NOUN
+grassi vegetali esausti;Gender=Masc|Number=Plur;grasso vegetale esausto;NOUN
+grasso;Gender=Masc|Number=Sing;grasso;NOUN
+grasso animale;Gender=Masc|Number=Sing;grasso animale;NOUN
+grasso commestibile;Gender=Masc|Number=Sing;grasso commestibile;NOUN
+grasso vegetale;Gender=Masc|Number=Sing;grasso vegetale;NOUN
+grasso vegetale esausto;Gender=Masc|Number=Sing;grasso vegetale esausto;NOUN
+green;Gender=Masc|Number=Sing;green;ADJ
+guida al conferimento;Gender=Fem|Number=Sing;guida al conferimento;NOUN
+guida alla raccolta differenziata;Gender=Fem|Number=Sing;guida alla raccolta differenziata;NOUN
+igiene ambientale;Gender=Fem|Number=Sing;igiene ambientale;NOUN
+igiene del suolo;Gender=Fem|Number=Sing;igiene del suolo;NOUN
+igiene urbana;Gender=Fem|Number=Sing;igiene urbana;NOUN
+imballaggi;Gender=Masc|Number=Plur;imballaggio;NOUN
+imballaggi di cartone;Gender=Masc|Number=Plur;imballaggio di cartone;NOUN
+imballaggi di cartone e cartoncino;Gender=Masc|Number=Plur;imballaggi di cartone e cartoncino;NOUN
+imballaggi di plastica;Gender=Masc|Number=Plur;imballaggio di plastica;NOUN
+imballaggi e box in cartone;Gender=Masc|Number=Plur;imballaggi e box in cartone;NOUN
+imballaggi in carta e cartone;Gender=Masc|Number=Plur;imballaggio in carta e cartone;NOUN
+imballaggi in cartone;Gender=Masc|Number=Plur;imballaggio in cartone;NOUN
+imballaggi in cartone ondulato e cartoncino;Gender=Masc|Number=Plur;imballaggi in cartone ondulato e cartoncino;NOUN
+imballaggi in cartone, carta e cartoncini;Gender=Masc|Number=Plur;imballaggi in cartone, carta e cartoncini;NOUN
+imballaggi in legno;Gender=Masc|Number=Plur;imballaggio in legno;NOUN
+imballaggi in legno ingombranti;Gender=Masc|Number=Plur;imballaggio in legno ingombrante;NOUN
+imballaggi in materiali misti;Gender=Masc|Number=Plur;imballaggio in materiale misto;NOUN
+imballaggi in metallo;Gender=Masc|Number=Plur;imballaggio in metallo;NOUN
+imballaggi in plastica;Gender=Masc|Number=Plur;imballaggio in plastica;NOUN
+imballaggi in vetro;Gender=Masc|Number=Plur;imballaggio in vetro;NOUN
+imballaggi metallici;Gender=Masc|Number=Plur;imballaggio metallico;NOUN
+imballaggi secondari;Gender=Masc|Number=Plur;imballaggio secondario;NOUN
+imballaggio;Gender=Masc|Number=Sing;imballaggio;NOUN
+imballaggio di cartone;Gender=Masc|Number=Sing;imballaggio di cartone;NOUN
+imballaggio di plastica;Gender=Masc|Number=Sing;imballaggio di plastica;NOUN
+imballaggio in carta e cartone;Gender=Masc|Number=Plur;imballaggio in carta e cartone;NOUN
+imballaggio in cartone;Gender=Masc|Number=Sing;imballaggio in cartone;NOUN
+imballaggio in legno;Gender=Masc|Number=Sing;imballaggio in legno;NOUN
+imballaggio in legno ingombrante;Gender=Masc|Number=Sing;imballaggio in legno ingombrante;NOUN
+imballaggio in materiale misto;Gender=Masc|Number=Sing;imballaggio in materiale misto;NOUN
+imballaggio in metallo;Gender=Masc|Number=Sing;imballaggio in metallo;NOUN
+imballaggio in plastica;Gender=Fem|Number=Sing;imballaggio in plastica;NOUN
+imballaggio in vetro;Gender=Masc|Number=Sing;imballaggio in vetro;NOUN
+imballaggio metallico;Gender=Masc|Number=Sing;imballaggio metallico;NOUN
+imballaggio secondario;Gender=Masc|Number=Sing;imballaggio secondario;NOUN
+impatto inquinante;Gender=Masc|Number=Sing;impatto inquinante;NOUN
+impianti di compostaggio;Gender=Masc|Number=Plur;impianto di compostaggio;NOUN
+impianti di destinazione;Gender=Masc|Number=Plur;impianto di destinazione;NOUN
+impianti di destinazione dei rifiuti;Gender=Masc|Number=Plur;impianto di destinazione dei rifiuti;NOUN
+impianti di destinazione dei rifiuti raccolti;Gender=Masc|Number=Plur;impianto di destinazione dei rifiuti raccolti;NOUN
+impianti di frantumazione;Gender=Masc|Number=Plur;impianto di frantumazione;NOUN
+impianti di frantumazione autorizzati;Gender=Masc|Number=Plur;impianto di frantumazione autorizzato;NOUN
+impianti di smaltimento;Gender=Masc|Number=Plur;impianto di smaltimento;NOUN
+impianti finali;Gender=Masc|Number=Plur;impianto finale;NOUN
+impianti finali di smaltimento;Gender=Masc|Number=Plur;impianto finale di smaltimento;NOUN
+impianti intermedi;Gender=Masc|Number=Plur;impianto intermedio;NOUN
+impianti intermedi di smaltimento;Gender=Masc|Number=Plur;impianto intermedio di smaltimento;NOUN
+impianto di compostaggio;Gender=Masc|Number=Sing;impianto di compostaggio;NOUN
+impianto di conferimento;Gender=Masc|Number=Sing;impianto di conferimento;NOUN
+impianto di destinazione;Gender=Masc|Number=Sing;impianto di destinazione;NOUN
+impianto di destinazione dei rifiuti;Gender=Masc|Number=Sing;impianto di destinazione dei rifiuti;NOUN
+impianto di destinazione dei rifiuti raccolti;Gender=Masc|Number=Sing;impianto di destinazione dei rifiuti raccolti;NOUN
+impianto di frantumazione;Gender=Masc|Number=Sing;impianto di frantumazione;NOUN
+impianto di frantumazione autorizzato;Gender=Masc|Number=Sing;impianto di frantumazione autorizzato;NOUN
+impianto di smaltimento;Gender=Masc|Number=Sing;impianto di smaltimento;NOUN
+impianto di trattamento rifiuti;Gender=Masc|Number=Sing;impianto di trattamento rifiuti;NOUN
+impianto finale;Gender=Masc|Number=Sing;impianto finale;NOUN
+impianto finale di smaltimento;Gender=Masc|Number=Sing;impianto finale di smaltimento;NOUN
+impianto intermedio;Gender=Masc|Number=Sing;impianto intermedio;NOUN
+impianto intermedio di smaltimento;Gender=Masc|Number=Sing;impianto intermedio di smaltimento;NOUN
+indifferenziata;Gender=Fem|Number=Sing;indifferenziato;ADJ
+indifferenziato;Gender=Masc|Number=Sing;indifferenziato;NOUN
+indifferenziato;Gender=Masc|Number=Sing;indifferenziato;ADJ
+indumenti;Gender=Masc|Number=Plur;indumento;NOUN
+indumenti usati;Gender=Masc|Number=Plur;indumento usato;NOUN
+indumento;Gender=Masc|Number=Sing;indumento;NOUN
+indumento usato;Gender=Masc|Number=Sing;indumento usato;NOUN
+inerte;Gender=Masc|Number=Sing;inerte;NOUN
+inerti;Gender=Masc|Number=Plur;inerte;NOUN
+inerti: piccole quantità da interventi domestici privati;Gender=Masc|Number=Plur;inerti: piccole quantità da interventi domestici privati;NOUN
+infiammabile;Gender=Masc|Number=Sing;infiammabile;ADJ
+infiammabili;Gender=Masc|Number=Plur;infiammabile;ADJ
+ingombrante;Gender=Masc|Number=Sing;ingombrante;NOUN
+ingombrante misto;Gender=Masc|Number=Sing;ingombrante misto;NOUN
+ingombrante pericoloso;Gender=Masc|Number=Sing;ingombrante pericoloso;NOUN
+ingombrante raee;Gender=Masc|Number=Sing;ingombrante raee;NOUN
+ingombranti;Gender=Masc|Number=Plur;ingombrante;NOUN
+ingombranti e beni durevoli;Gender=Masc|Number=Plur;ingombranti e beni durevoli;NOUN
+ingombranti misti;Gender=Masc|Number=Plur;ingombrante misto;NOUN
+ingombranti pericolosi;Gender=Masc|Number=Plur;ingombrante pericoloso;NOUN
+ingombranti raee;Gender=Masc|Number=Plur;ingombrante raee;NOUN
+interruzione programmata del servizio;Gender=Fem|Number=Sing;interruzione programmata del servizio;NOUN
+interventi straordinari di spazzamento stradale;Gender=Masc|Number=Plur;intervento straordinario di spazzamento stradale;NOUN
+intervento straordinario di spazzamento stradale;Gender=Masc|Number=Sing;intervento straordinario di spazzamento stradale;NOUN
+isola;Gender=Fem|Number=Sing;isola;NOUN
+isola ecologica;Gender=Fem|Number=Sing;isola ecologica;NOUN
+isola ecologica itinerante;Gender=Fem|Number=Sing;isola ecologica itinerante;NOUN
+isole ecologiche;Gender=Fem|Number=Plur;isola ecologica;NOUN
+isole ecologiche itineranti;Gender=Fem|Number=Plur;isola ecologica itinerante;NOUN
+ka;;ka;NOUN
+kb;;kb;NOUN
+kit compostiere;Gender=Masc|Number=Sing;kit compostiere;NOUN
+lampada a vapori di sodio;Gender=Fem|Number=Sing;lampada a vapori di sodio;NOUN
+lampada fluorescente;Gender=Fem|Number=Sing;lampada fluorescente;NOUN
+lampade a vapori di sodio;Gender=Fem|Number=Plur;lampada a vapori di sodio;NOUN
+lampade fluorescenti;Gender=Fem|Number=Plur;lampada fluorescente;NOUN
+lampadina;Gender=Fem|Number=Sing;lampadina;NOUN
+lampadine;Gender=Fem|Number=Plur;lampadina;NOUN
+lampadine, tubi fluorescenti e altri con mercurio;Gender=Fem|Number=Plur;lampadine, tubi fluorescenti e altri con mercurio;NOUN
+latta;Gender=Fem|Number=Sing;latta;NOUN
+lattina;Gender=Fem|Number=Sing;lattina;NOUN
+lattina col simbolo al;Gender=Fem|Number=Sing;lattina col simbolo al;NOUN
+lattina in alluminio con il simbolo al;Gender=Fem|Number=Sing;lattina in alluminio con il simbolo al;NOUN
+lattine;Gender=Fem|Number=Plur;lattina;NOUN
+lattine col simbolo al;Gender=Fem|Number=Plur;lattina col simbolo al;NOUN
+lattine in alluminio con il simbolo al;Gender=Fem|Number=Plur;lattina in alluminio con il simbolo al;NOUN
+lavaggio;Gender=Masc|Number=Sing;lavaggio;NOUN
+lavaggio delle strade;Gender=Masc|Number=Sing;lavaggio delle strade;NOUN
+lavaggio suolo;Gender=Masc|Number=Sing;lavaggio suolo;NOUN
+lavaggio suolo aree pubbliche;Gender=Masc|Number=Sing;lavaggio suolo aree pubbliche;NOUN
+lavatrici, lavastoviglie, cucine, scaldabagni;Gender=Fem|Number=Plur;lavatrici, lavastoviglie, cucine, scaldabagni;NOUN
+legno;Gender=Masc|Number=Sing;legno;NOUN
+legno non trattato;Gender=Masc|Number=Sing;legno non trattato;NOUN
+limite di accettabilità;Gender=Masc|Number=Sing;limite di accettabilità;NOUN
+limite graduale di crescita tariffaria;Gender=Masc|Number=Sing;limite graduale di crescita tariffaria;NOUN
+limite quantitativo di conferimento;Gender=Masc|Number=Sing;limite quantitativo di conferimento;NOUN
+limiti di accettabilità;Gender=Masc|Number=Plur;limite di accettabilità;NOUN
+limiti di accettabilità e frequenze;Gender=Masc|Number=Plur;limiti di accettabilità e frequenze;NOUN
+limiti quantitativi di conferimento;Gender=Masc|Number=Plur;limite quantitativo di conferimento;NOUN
+lngombrante in legno;Gender=Masc|Number=Sing;lngombrante in legno;NOUN
+lngombranti in legno;Gender=Masc|Number=Plur;lngombrante in legno;NOUN
+macchina mangia plastica;Gender=Fem|Number=Sing;macchina mangia plastica;NOUN
+macchina mangiaplastica;Gender=Fem|Number=Sing;macchina mangiaplastica;NOUN
+macchina spazzatrice;Gender=Fem|Number=Sing;macchina spazzatrice;NOUN
+macchine spazzatrici;Gender=Fem|Number=Plur;macchina spazzatrice;NOUN
+maceria;Gender=Fem|Number=Sing;maceria;NOUN
+maceria proveniente da lavori edili;Gender=Fem|Number=Sing;maceria proveniente da lavori edili;NOUN
+macerie;Gender=Fem|Number=Plur;maceria;NOUN
+macerie provenienti da lavori edili;Gender=Fem|Number=Plur;maceria proveniente da lavori edili;NOUN
+manutenzione del verde;Gender=Fem|Number=Sing;manutenzione del verde;NOUN
+manutenzione del verde pubblico;Gender=Fem|Number=Sing;manutenzione del verde pubblico;NOUN
+mastello;Gender=Masc|Number=Sing;mastello;NOUN
+mastello contenitore;Gender=Masc|Number=Sing;mastello contenitore;NOUN
+materiale conferibile;Gender=Masc|Number=Sing;materiale conferibile;NOUN
+materiale conferito;Gender=Masc|Number=Sing;materiale conferito;NOUN
+materiale da riciclare;Gender=Masc|Number=Sing;materiale da riciclare;NOUN
+materiale differenziabile;Gender=Masc|Number=Sing;materiale differenziabile;NOUN
+materiale differenziato;Gender=Masc|Number=Sing;materiale differenziato;NOUN
+materiale edile;Gender=Masc|Number=Sing;materiale edile;NOUN
+materiale ferroso;Gender=Masc|Number=Sing;materiale ferroso;NOUN
+materiale in plastica;Gender=Masc|Number=Sing;materiale in plastica;NOUN
+materiale non conferibile;Gender=Masc|Number=Sing;materiale non conferibile;NOUN
+materiale riciclabile;Gender=Masc|Number=Sing;materiale riciclabile;NOUN
+materiali conferibili;Gender=Masc|Number=Plur;materiale conferibile;NOUN
+materiali differenziati;Gender=Masc|Number=Plur;materiale differenziato;NOUN
+materiali edili;Gender=Masc|Number=Plur;materiale edile;NOUN
+materiali ferrosi;Gender=Masc|Number=Plur;materiale ferroso;NOUN
+materiali in plastica;Gender=Masc|Number=Plur;materiale in plastica;NOUN
+materiali non conferibili;Gender=Masc|Number=Plur;materiale non conferibile;NOUN
+materiali riciclabili;Gender=Masc|Number=Plur;materiale riciclabile;NOUN
+medicina scaduta;Gender=Fem|Number=Sing;medicina scaduta;NOUN
+medicinale scaduto;Gender=Masc|Number=Sing;medicinale scaduto;NOUN
+medicinale scaduto o inutilizzato;Gender=Masc|Number=Sing;medicinale scaduto o inutilizzato;NOUN
+medicinali scaduti;Gender=Masc|Number=Plur;medicinale scaduto;NOUN
+medicinali scaduti o inutilizzati;Gender=Masc|Number=Plur;medicinale scaduto o inutilizzato;NOUN
+medicine scadute;Gender=Fem|Number=Plur;medicina scaduta;NOUN
+metalli - plastica;Gender=Masc|Number=Plur;metalli - plastica;NOUN
+metalli e imballaggi in plastica;Gender=Masc|Number=Plur;metalli e imballaggi in plastica;NOUN
+metalli, acciaio, alluminio;Gender=Masc|Number=Plur;metalli, acciaio, alluminio;NOUN
+metalli, acciaio, alluminio e banda stagnata;Gender=Masc|Number=Plur;metalli, acciaio, alluminio e banda stagnata;NOUN
+metallo - banda stagnata - alluminio;Gender=Masc|Number=Plur;metallo - banda stagnata - alluminio;NOUN
+metallo - plastica;Gender=Masc|Number=Sing;metallo - plastica;NOUN
+metallo-banda stagnata-alluminio;Gender=Masc|Number=Sing;metallo-banda stagnata-alluminio;NOUN
+metodo mtr;Gender=Masc|Number=Sing;metodo mtr;NOUN
+metodologia del porta a porta;Gender=Fem|Number=Sing;metodologia del porta a porta;NOUN
+micro discarica;Gender=Fem|Number=Sing;micro discarica;NOUN
+micro discariche;Gender=Fem|Number=Plur;micro discarica;NOUN
+microdiscarica;Gender=Masc|Number=Sing;microdiscarica;NOUN
+microdiscariche;Gender=Fem|Number=Plur;microdiscarica;NOUN
+microparticella sintetica;Gender=Fem|Number=Sing;microparticella sintetica;NOUN
+microparticelle sintetiche;Gender=Fem|Number=Plur;microparticella sintetica;NOUN
+microplastica;Gender=Fem|Number=Sing;microplastica;NOUN
+microplastiche;Gender=Fem|Number=Plur;microplastica;NOUN
+misura di gestione ambientale;Gender=Fem|Number=Sing;misura di gestione ambientale;NOUN
+misure di gestione ambientale;Gender=Fem|Number=Plur;misura di gestione ambientale;NOUN
+modalità di conferimento;Gender=Fem|Number=Plur;modalità di conferimento;NOUN
+modalità di raccolta;Gender=Fem|Number=Plur;modalità di raccolta;NOUN
+modalità di raccolta differenziata;Gender=Fem|Number=Plur;modalità di raccolta differenziata;NOUN
+modalità per il conferimento;Gender=Fem|Number=Plur;modalità per il conferimento;NOUN
+modalità stradale;Gender=Fem|Number=Sing;modalità stradale;NOUN
+modulo reclami;Gender=Masc|Number=Sing;modulo reclami;NOUN
+modulo segnalazione – reclamo – suggerimento;Gender=Masc|Number=Sing;modulo segnalazione – reclamo – suggerimento;NOUN
+mtr;;mtr;NOUN
+mtr2;;mtr2;NOUN
+mtr2-arera;Gender=Masc|Number=Sing;mtr2-arera;NOUN
+multimateriale;Gender=Masc|Number=Sing;multimateriale;NOUN
+multimateriale plastica e metalli;Gender=Masc|Number=Sing;multimateriale plastica e metalli;NOUN
+non conferibile;Gender=Masc|Number=Sing;non conferibile;ADJ
+non conferibili;Gender=Masc|Number=Plur;non conferibile;ADJ
+non differenziabile;Gender=Masc|Number=Sing;non differenziabile;ADJ
+non pericoloso;Gender=Masc|Number=Sing;non pericoloso;ADJ
+non putrescibile;Gender=Masc|Number=Sing;non putrescibile;ADJ
+non putrescibili;Gender=Masc|Number=Plur;non putrescibile;ADJ
+non riciclabile;Number=Sing;non riciclabile;ADJ
+oli;Gender=Masc|Number=Plur;olio;NOUN
+oli alimentari deteriorati;Gender=Masc|Number=Plur;olio alimentare deteriorato;NOUN
+oli alimentari esausti;Gender=Masc|Number=Plur;olio alimentare esausto;NOUN
+oli alimentari scaduti;Gender=Masc|Number=Plur;olio alimentare scaduto;NOUN
+oli animali esausti;Gender=Masc|Number=Plur;olio animale esausto;NOUN
+oli commestibili;Gender=Masc|Number=Plur;olio commestibile;NOUN
+oli e grassi;Gender=Masc|Number=Plur;oli e grassi;NOUN
+oli e grassi commestibili;Gender=Masc|Number=Plur;oli e grassi commestibili;NOUN
+oli e grassi vegetali esausti;Gender=Masc|Number=Plur;oli e grassi vegetali esausti;NOUN
+oli esausti;Gender=Masc|Number=Plur;olio esausto;NOUN
+oli esausti commestibili;Gender=Masc|Number=Plur;olio esausto commestibile;NOUN
+oli esausti e grassi vegetali;Gender=Masc|Number=Plur;oli esausti e grassi vegetali;NOUN
+oli esausti e grassi vegetali di provenieza domestica;Gender=Masc|Number=Plur;oli esausti e grassi vegetali di provenieza domestica;NOUN
+oli minerali;Gender=Masc|Number=Plur;olio minerale;NOUN
+oli motore;Gender=Masc|Number=Plur;olio motore;NOUN
+oli non commestibili;Gender=Masc|Number=Plur;olio non commestibile;NOUN
+oli vegetali da frittura;Gender=Masc|Number=Plur;olio vegetale da frittura;NOUN
+oli vegetali e animali esausti;Gender=Masc|Number=Plur;oli vegetali e animali esausti;NOUN
+olii esausti;Gender=Masc|Number=Plur;olio esausto;NOUN
+olio;Gender=Masc|Number=Sing;olio;NOUN
+olio alimentare deteriorato;Gender=Masc|Number=Sing;olio alimentare deteriorato;NOUN
+olio alimentare esausto;Gender=Masc|Number=Sing;olio alimentare esausto;NOUN
+olio alimentare scaduto;Gender=Masc|Number=Sing;olio alimentare scaduto;NOUN
+olio animale esausto;Gender=Masc|Number=Sing;olio animale esausto;NOUN
+olio commestibile;Gender=Masc|Number=Sing;olio commestibile;NOUN
+olio esausto;Gender=Masc|Number=Sing;olio esausto;NOUN
+olio esausto commestibile;Gender=Masc|Number=Sing;olio esausto commestibile;NOUN
+olio minerale;Gender=Masc|Number=Sing;olio minerale;NOUN
+olio motore;Gender=Masc|Number=Sing;olio motore;NOUN
+olio non commestibile;Gender=Masc|Number=Sing;olio non commestibile;NOUN
+olio usato;Gender=Masc|Number=Sing;olio usato;NOUN
+olio vegetale;Gender=Masc|Number=Sing;olio vegetale;NOUN
+olio vegetale da frittura;Gender=Masc|Number=Sing;olio vegetale da frittura;NOUN
+olio vegetale esausto;Gender=Masc|Number=Sing;olio vegetale esausto;NOUN
+operatore del centro di raccolta;Gender=Masc|Number=Sing;operatore del centro di raccolta;NOUN
+operatore dell'isola ecologica;Gender=Masc|Number=Sing;operatore dell'isola ecologica;NOUN
+operatore di pronto intervento;Gender=Masc|Number=Sing;operatore di pronto intervento;NOUN
+operatore ecologico;Gender=Masc|Number=Sing;operatore ecologico;NOUN
+operatori dell'isola ecologica;Gender=Masc|Number=Plur;operatore dell'isola ecologica;NOUN
+operazione di carico dei rifiuti;Gender=Fem|Number=Sing;operazione di carico dei rifiuti;NOUN
+operazione di combustione;Gender=Fem|Number=Sing;operazione di combustione;NOUN
+operazione di conferimento;Gender=Fem|Number=Sing;operazione di conferimento;NOUN
+operazioni di carico dei rifiuti;Gender=Fem|Number=Plur;operazione di carico dei rifiuti;NOUN
+operazioni di combustione;Gender=Fem|Number=Plur;operazione di combustione;NOUN
+operazioni di conferimento;Gender=Fem|Number=Plur;operazione di conferimento;NOUN
+organico;Gender=Masc|Number=Sing;organico;NOUN
+organico e bioplastiche compostabili;Gender=Masc|Number=Sing;organico e bioplastiche compostabili;NOUN
+pannolini;Gender=Masc|Number=Plur;pannolini;NOUN
+pannolini e pannoloni;Gender=Masc|Number=Plur;pannolini e pannoloni;NOUN
+pannolini | pannoloni | traverse;Gender=Masc|Number=Plur;pannolini | pannoloni | traverse;NOUN
+pannolini, pannoloni e traverse;Gender=Masc|Number=Plur;pannolini, pannoloni e traverse;NOUN
+pannoloni;Gender=Masc|Number=Plur;pannoloni;NOUN
+pap;Gender=Fem|Number=Sing;pap;NOUN
+parte variabile;Gender=Fem|Number=Sing;parte variabile;NOUN
+patrimonio verde;Gender=Masc|Number=Sing;patrimonio verde;NOUN
+pe;;pe;NOUN
+pef;Gender=Masc;pef;NOUN
+percentuale di raccolta differenziata;Gender=Fem|Number=Sing;percentuale di raccolta differenziata;NOUN
+percentuale di raccolta differenziata dei rifiuti;Gender=Fem|Number=Sing;percentuale di raccolta differenziata dei rifiuti;NOUN
+percentuali di raccolta differenziata;Gender=Fem|Number=Plur;percentuale di raccolta differenziata;NOUN
+performance ambientali;Gender=Fem|Number=Plur;performance ambientali;NOUN
+pericolosi;Gender=Masc|Number=Plur;pericoloso;ADJ
+pericoloso;Gender=Masc|Number=Sing;pericoloso;ADJ
+piano di raccolta;Gender=Masc|Number=Sing;piano di raccolta;NOUN
+piano di raccolta differenziata dei rifiuti;Gender=Masc|Number=Sing;piano di raccolta differenziata dei rifiuti;NOUN
+piano di riorganizzazione del servizio di raccolta rsu;Gender=Masc|Number=Sing;piano di riorganizzazione del servizio di raccolta rsu;NOUN
+piano finanziario;Gender=Masc|Number=Sing;piano finanziario;NOUN
+piano finanziario del servizio di gestione dei rifiuti;Gender=Masc|Number=Sing;piano finanziario del servizio di gestione dei rifiuti;NOUN
+piano tariffario;Gender=Masc|Number=Sing;piano tariffario;NOUN
+piano tariffario tari;Gender=Masc|Number=Sing;piano tariffario tari;NOUN
+piano tariffario tassa sui rifiuti;Gender=Masc|Number=Sing;piano tariffario tassa sui rifiuti;NOUN
+piano tariffe;Gender=Masc|Number=Sing;piano tariffe;NOUN
+piano tariffe tari;Gender=Masc|Number=Sing;piano tariffe tari;NOUN
+piattaforma di conferimento;Gender=Fem|Number=Sing;piattaforma di conferimento;NOUN
+piattaforma di trasferenza;Gender=Fem|Number=Sing;piattaforma di trasferenza;NOUN
+piccoli raee;Gender=Masc|Number=Plur;piccolo raee;NOUN
+piccoli scarti di fiori e piante;Gender=Masc|Number=Plur;piccolo scarto di fiori e piante;NOUN
+piccoli scarti di potatura;Gender=Masc|Number=Plur;piccolo scarto di potatura;NOUN
+piccoli sfalci di potatura;Gender=Masc|Number=Plur;piccolo sfalcio di potatura;NOUN
+piccolo raee;Gender=Masc|Number=Sing;piccolo raee;NOUN
+piccolo scarto di fiori e piante;Gender=Masc|Number=Sing;piccolo scarto di fiori e piante;NOUN
+piccolo scarto di potatura;Gender=Masc|Number=Sing;piccolo scarto di potatura;NOUN
+piccolo sfalcio di potatura;Gender=Masc|Number=Sing;piccolo sfalcio di potatura;NOUN
+pila;Gender=Fem|Number=Sing;pila;NOUN
+pila esausta;Gender=Fem|Number=Sing;pila esausta;NOUN
+pila portatile;Gender=Fem|Number=Sing;pila portatile;NOUN
+pila scarica;Gender=Fem|Number=Sing;pila scarica;NOUN
+pile;Gender=Fem|Number=Plur;pila;NOUN
+pile e batterie ad uso domestico;Gender=Fem|Number=Plur;pile e batterie ad uso domestico;NOUN
+pile ed accumulatori esausti;Gender=Fem|Number=Plur;pile ed accumulatori esausti;NOUN
+pile esauste;Gender=Fem|Number=Plur;pila esausta;NOUN
+pile portatili;Gender=Fem|Number=Plur;pila portatile;NOUN
+pile portatili, batterie e accumulatori al piombo derivanti dalla manutenzione di veicoli ad uso privato effettuata in proprio dalle utenze domestiche;Gender=Fem|Number=Plur;pile portatili, batterie e accumulatori al piombo derivanti dalla manutenzione di veicoli ad uso privato effettuata in proprio dalle utenze domestiche;NOUN
+pile scariche;Gender=Fem|Number=Plur;pila scarica;NOUN
+piombo;Gender=Masc|Number=Sing;piombo;NOUN
+plastica;Gender=Fem|Number=Sing;plastica;NOUN
+plastica e metalli;Gender=Fem|Number=Sing;plastica e metalli;NOUN
+plastica in mono materiale;Gender=Fem|Number=Sing;plastica in mono materiale;NOUN
+plastica riciclata;Gender=Fem|Number=Sing;plastica riciclata;NOUN
+plastica – alluminio e banda stagnata;Gender=Fem|Number=Sing;plastica – alluminio e banda stagnata;NOUN
+plastica – lattine;Gender=Fem|Number=Sing;plastica – lattine;NOUN
+plastica, acciaio e alluminio;;plastica, acciaio e alluminio;NOUN
+plc;;plc;NOUN
+pneumatici;Gender=Masc|Number=Plur;pneumatico;NOUN
+pneumatici derivanti dalla manutenzione dei veicoli ad uso privato;Gender=Masc|Number=Plur;pneumatico derivante dalla manutenzione dei veicoli ad uso privato;NOUN
+pneumatici derivanti dalla manutenzione dei veicoli ad uso privato effettuata in proprio da utenze domestiche;Gender=Masc|Number=Plur;pneumatico derivante dalla manutenzione dei veicoli ad uso privato effettuata in proprio da utenze domestiche;NOUN
+pneumatici derivanti dalla manutenzione dei veicoli ad uso privato effettuata in proprio dalle utenze domestiche;Gender=Masc|Number=Plur;pneumatico derivante dalla manutenzione dei veicoli ad uso privato effettuata in proprio dalle utenze domestiche;NOUN
+pneumatico;Gender=Masc|Number=Sing;pneumatico;NOUN
+pneumatico derivante dalla manutenzione dei veicoli ad uso privato;Gender=Masc|Number=Plur;pneumatico derivante dalla manutenzione dei veicoli ad uso privato;NOUN
+pneumatico derivante dalla manutenzione dei veicoli ad uso privato effettuata in proprio da utenze domestiche;Gender=Masc|Number=Plur;pneumatico derivante dalla manutenzione dei veicoli ad uso privato effettuata in proprio da utenze domestiche;NOUN
+pneumatico derivante dalla manutenzione dei veicoli ad uso privato effettuata in proprio dalle utenze domestiche;Gender=Masc|Number=Plur;pneumatico derivante dalla manutenzione dei veicoli ad uso privato effettuata in proprio dalle utenze domestiche;NOUN
+porta a porta;;porta a porta;NOUN
+porta a porta spinto;Gender=Masc|Number=Sing;porta a porta spinto;NOUN
+porta-a-porta;;porta-a-porta;NOUN
+postazione stradale;Gender=Fem|Number=Sing;postazione stradale;NOUN
+postazioni stradali;Gender=Fem|Number=Plur;postazione stradale;NOUN
+potatura;Gender=Fem|Number=Sing;potatura;NOUN
+potatura di alberi;Gender=Fem|Number=Sing;potatura di alberi;NOUN
+potature;Gender=Fem|Number=Plur;potatura;NOUN
+potature di alberi;Gender=Fem|Number=Plur;potatura di alberi;NOUN
+prodotti e contenitori etichettati con i simboli t e/o f;Gender=Masc|Number=Plur;prodotti e contenitori etichettati con i simboli t e/o f;NOUN
+prodotti e contenitori etichettati con i simboli t e/o f e pitture in genere;Gender=Masc|Number=Plur;prodotti e contenitori etichettati con i simboli t e/o f e pitture in genere;NOUN
+prodotti pericolosi tossici, infiammabili e corrosivi;Gender=Masc|Number=Plur;prodotti pericolosi tossici, infiammabili e corrosivi;NOUN
+prodotti riciclabili;Gender=Masc|Number=Plur;prodotto riciclabile;NOUN
+prodotti tessili;Gender=Masc|Number=Plur;prodotto tessile;NOUN
+prodotto riciclabile;Gender=Masc|Number=Sing;prodotto riciclabile;NOUN
+prodotto tessile;Gender=Masc|Number=Sing;prodotto tessile;NOUN
+ps;;ps;NOUN
+pulizia;Gender=Fem|Number=Sing;pulizia;NOUN
+pulizia degli arenili urbani;Gender=Fem|Number=Sing;pulizia degli arenili urbani;NOUN
+pulizia, lavaggio e disinfezione;Gender=Masc|Number=Sing;pulizia, lavaggio e disinfezione;NOUN
+pulizia, lavaggio e disinfezione aree interne ed esterne;Gender=Fem|Number=Sing;pulizia, lavaggio e disinfezione aree interne ed esterne;NOUN
+punti di conferimento;Gender=Masc|Number=Plur;punto di conferimento;NOUN
+punti di raccolta;Gender=Masc|Number=Plur;punto di raccolta;NOUN
+punti raccolta;Gender=Masc|Number=Plur;punto raccolta;NOUN
+punto di conferimento;Gender=Masc|Number=Sing;punto di conferimento;NOUN
+punto di raccolta;Gender=Masc|Number=Sing;punto di raccolta;NOUN
+punto raccolta;Gender=Masc|Number=Sing;punto raccolta;NOUN
+putrescibile;Gender=Masc|Number=Sing;putrescibile;ADJ
+quota fissa;Gender=Fem|Number=Sing;quota fissa;NOUN
+quota limite di conferimento mensile;Gender=Fem|Number=Sing;quota limite di conferimento mensile;NOUN
+quota variabile;Gender=Fem|Number=Sing;quota variabile;NOUN
+r.a.e.e;Gender=Masc|Number=Plur;r.a.e.e;NOUN
+r.a.e.e.;Gender=Masc|Number=Plur;r.a.e.e.;NOUN
+r.s.u.;Gender=Masc|Number=Plur;r.s.u.;NOUN
+r1;;r1;NOUN
+r2;;r2;NOUN
+r3;;r3;NOUN
+r4;;r4;NOUN
+r5;;r5;NOUN
+raccoglitore pile esauste;Gender=Masc|Number=Sing;raccoglitore pile esauste;NOUN
+raccoglitori pile esauste;Gender=Masc|Number=Plur;raccoglitore pile esauste;NOUN
+raccolta;Gender=Fem|Number=Sing;raccolta;NOUN
+raccolta a chiamata;Gender=Fem|Number=Sing;raccolta a chiamata;NOUN
+raccolta degli oli;Gender=Fem|Number=Sing;raccolta degli oli;NOUN
+raccolta degli oli esausti;Gender=Fem|Number=Sing;raccolta degli oli esausti;NOUN
+raccolta dei rifiuti;Gender=Fem|Number=Sing;raccolta dei rifiuti;NOUN
+raccolta dei rifiuti in forma differenziata;Gender=Fem|Number=Sing;raccolta dei rifiuti in forma differenziata;NOUN
+raccolta dei rifiuti solidi urbani;Gender=Fem|Number=Sing;raccolta dei rifiuti solidi urbani;NOUN
+raccolta dei rifiuti urbani;Gender=Fem|Number=Sing;raccolta dei rifiuti urbani;NOUN
+raccolta dei rifiuti urbani e speciali;Gender=Fem|Number=Sing;raccolta dei rifiuti urbani e speciali;NOUN
+raccolta di pannolini e pannoloni;Gender=Fem|Number=Sing;raccolta di pannolini e pannoloni;NOUN
+raccolta di prossimità;Gender=Fem|Number=Sing;raccolta di prossimità;NOUN
+raccolta di rifiuti;Gender=Fem|Number=Sing;raccolta di rifiuti;NOUN
+raccolta di rifiuti solidi urbani;Gender=Fem|Number=Sing;raccolta di rifiuti solidi urbani;NOUN
+raccolta differenziata;Gender=Fem|Number=Sing;raccolta differenziata;NOUN
+raccolta differenziata degli oli vegetali e animali esausti;Gender=Fem|Number=Sing;raccolta differenziata degli oli vegetali e animali esausti;NOUN
+raccolta differenziata dei rifiuti;Gender=Fem|Number=Sing;raccolta differenziata dei rifiuti;NOUN
+raccolta differenziata dei rifiuti porta-a-porta;Gender=Fem|Number=Sing;raccolta differenziata dei rifiuti porta-a-porta;NOUN
+raccolta differenziata dei rifiuti solidi urbani;Gender=Fem|Number=Sing;raccolta differenziata dei rifiuti solidi urbani;NOUN
+raccolta differenziata dei rifiuti urbani;Gender=Fem|Number=Sing;raccolta differenziata dei rifiuti urbani;NOUN
+raccolta differenziata e igiene del suolo;Gender=Fem|Number=Sing;raccolta differenziata e igiene del suolo;NOUN
+raccolta differenziata e servizi complementari;Gender=Fem|Number=Sing;raccolta differenziata e servizi complementari;NOUN
+raccolta differenziata porta a porta;Gender=Fem|Number=Sing;raccolta differenziata porta a porta;NOUN
+raccolta differenziata porta a porta dei rifiuti solidi urbani;Gender=Fem|Number=Sing;raccolta differenziata porta a porta dei rifiuti solidi urbani;NOUN
+raccolta differenziata porta a porta spinto;Gender=Fem|Number=Sing;raccolta differenziata porta a porta spinto;NOUN
+raccolta differenziata rifiuti solidi urbani;Gender=Fem|Number=Sing;raccolta differenziata rifiuti solidi urbani;NOUN
+raccolta domiciliare;Gender=Fem|Number=Sing;raccolta domiciliare;NOUN
+raccolta domiciliare dei rifiuti;Gender=Fem|Number=Sing;raccolta domiciliare dei rifiuti;NOUN
+raccolta domiciliare porta a porta;Gender=Fem|Number=Sing;raccolta domiciliare porta a porta;NOUN
+raccolta integrata;Gender=Fem|Number=Sing;raccolta integrata;NOUN
+raccolta integrata con il sistema del porta a porta;Gender=Fem|Number=Sing;raccolta integrata con il sistema del porta a porta;NOUN
+raccolta olio alimentare esausto;Gender=Fem|Number=Sing;raccolta olio alimentare esausto;NOUN
+raccolta organico;Gender=Fem|Number=Sing;raccolta organico;NOUN
+raccolta porta a porta;Gender=Fem|Number=Sing;raccolta porta a porta;NOUN
+raccolta rifiuti;Gender=Fem|Number=Sing;raccolta rifiuti;NOUN
+raccolta rifiuti solidi urbani;Gender=Fem|Number=Sing;raccolta rifiuti solidi urbani;NOUN
+raccolta rsu;Gender=Fem|Number=Sing;raccolta rsu;NOUN
+raccolta stradale;Gender=Fem|Number=Sing;raccolta stradale;NOUN
+raccolta stradale con cassonetti e campane;Gender=Fem|Number=Sing;raccolta stradale con cassonetti e campane;NOUN
+raccolta tessili;Gender=Fem|Number=Sing;raccolta tessili;NOUN
+raccolta trasporto dei rifiuti solidi urbani;Gender=Fem|Number=Sing;raccolta trasporto dei rifiuti solidi urbani;NOUN
+raccolta/ritiro;Gender=Fem|Number=Sing;raccolta/ritiro;NOUN
+raccolte differenziate;Gender=Fem|Number=Plur;raccolta differenziata;NOUN
+raccolte porta a porta;Gender=Fem|Number=Plur;raccolta porta a porta;NOUN
+raee;Gender=Masc;raee;NOUN
+ramaglia;Gender=Fem|Number=Sing;ramaglia;NOUN
+ramaglie;Gender=Fem|Number=Plur;ramaglia;NOUN
+ramaglie e sfalci d'erba;Gender=Fem|Number=Plur;ramaglie e sfalci d'erba;NOUN
+ramaglie, sfalci e potature;Gender=Fem|Number=Plur;ramaglie, sfalci e potature;NOUN
+recupero;Gender=Masc|Number=Sing;recupero;NOUN
+recupero degli oli esausti;Gender=Masc|Number=Sing;recupero degli oli esausti;NOUN
+recupero dei materiali;Gender=Masc|Number=Sing;recupero dei materiali;NOUN
+recupero dei rifiuti organici domestici;Gender=Masc|Number=Sing;recupero dei rifiuti organici domestici;NOUN
+recupero di rifiuti;Gender=Masc|Number=Sing;recupero di rifiuti;NOUN
+regolamento comunale gestione del servizio dei rifiuti urbani ed assimilati;Gender=Masc|Number=Sing;regolamento comunale gestione del servizio dei rifiuti urbani ed assimilati;NOUN
+regolamento comunale per la gestione dei rifiuti differenziati;Gender=Masc|Number=Sing;regolamento comunale per la gestione dei rifiuti differenziati;NOUN
+regolamento comunale per la gestione dei rifiuti urbani ed assimilati e la tutela del decoro e dell'igiene ambientale;Gender=Masc|Number=Sing;regolamento comunale per la gestione dei rifiuti urbani ed assimilati e la tutela del decoro e dell'igiene ambientale;NOUN
+regolamento comunale per la gestione del servizio dei rifiuti urbani ed assimilati;Gender=Masc|Number=Sing;regolamento comunale per la gestione del servizio dei rifiuti urbani ed assimilati;NOUN
+regolamento per la gestione dei rifiuti differenziati;Gender=Masc|Number=Sing;regolamento per la gestione dei rifiuti differenziati;NOUN
+regolamento per la gestione dei rifiuti urbani ed assimilati;Gender=Masc|Number=Sing;regolamento per la gestione dei rifiuti urbani ed assimilati;NOUN
+regolamento per la gestione dei rifiuti urbani ed assimilati e la tutela del decoro e dell'igiene urbana;Gender=Masc|Number=Sing;regolamento per la gestione dei rifiuti urbani ed assimilati e la tutela del decoro e dell'igiene urbana;NOUN
+regolamento tari;Gender=Masc|Number=Sing;regolamento tari;NOUN
+residui;Gender=Masc|Number=Plur;residuo;NOUN
+residui agricoli;Gender=Masc|Number=Plur;residuo agricolo;NOUN
+residui industriali;Gender=Masc|Number=Plur;residuo industriale;NOUN
+residui organici;Gender=Masc|Number=Plur;residuo organico;NOUN
+residui putrescibili;Gender=Masc|Number=Plur;residuo putrescibile;NOUN
+residui vegetali;Gender=Masc|Number=Plur;residuo vegetale;NOUN
+residui vegetali agricoli;Gender=Masc|Number=Plur;residuo vegetale agricolo;NOUN
+residui vegetali agricoli e forestali;Gender=Masc|Number=Plur;residui vegetali agricoli e forestali;NOUN
+residui vegetali forestali;Gender=Masc|Number=Plur;residuo vegetale forestale;NOUN
+residuo;Gender=Masc|Number=Sing;residuo;NOUN
+residuo agricolo;Gender=Masc|Number=Sing;residuo agricolo;NOUN
+residuo industriale;Gender=Masc|Number=Sing;residuo industriale;NOUN
+residuo organico;Gender=Masc|Number=Sing;residuo organico;NOUN
+residuo putrescibile;Gender=Masc|Number=Sing;residuo putrescibile;NOUN
+residuo vegetale;Gender=Masc|Number=Sing;residuo vegetale;NOUN
+residuo vegetale agricolo;Gender=Masc|Number=Sing;residuo vegetale agricolo;NOUN
+residuo vegetale forestale;Gender=Masc|Number=Sing;residuo vegetale forestale;NOUN
+responsabile del centro;Gender=Masc|Number=Sing;responsabile del centro;NOUN
+responsabile del centro di raccolta;Gender=Masc|Number=Sing;responsabile del centro di raccolta;NOUN
+richiesta di attrezzature per la raccolta;Gender=Fem|Number=Sing;richiesta di attrezzature per la raccolta;NOUN
+richiesta per la sostituzione/integrazione o modifica della volumetria;Gender=Fem|Number=Sing;richiesta per la sostituzione/integrazione o modifica della volumetria;NOUN
+ricicla;Number=Sing;riciclare;VERB
+riciclabile;Gender=Masc|Number=Sing;riciclabile;ADJ
+riciclabili;Gender=Masc|Number=Plur;riciclabile;ADJ
+riciclaggio;Gender=Masc|Number=Sing;riciclaggio;NOUN
+riciclare;;riciclare;VERB
+riciclato;Gender=Masc|Number=Sing;riciclato;ADJ
+riciclo;Gender=Masc|Number=Sing;riciclo;NOUN
+riciclo dei materiali;Gender=Masc|Number=Sing;riciclo dei materiali;NOUN
+riciclo/recupero dei materiali;Gender=Masc|Number=Sing;riciclo/recupero dei materiali;NOUN
+rifiuti;Gender=Masc|Number=Plur;rifiuto;NOUN
+rifiuti abbandonati;Gender=Masc|Number=Plur;rifiuto abbandonato;NOUN
+rifiuti biodegradabili;Gender=Masc|Number=Plur;rifiuto biodegradabile;NOUN
+rifiuti biodegradabili di cucine e mense;Gender=Masc|Number=Plur;rifiuto biodegradabile di cucine e mense;NOUN
+rifiuti conferibili;Gender=Masc|Number=Plur;rifiuto conferibile;NOUN
+rifiuti conferiti;Gender=Masc|Number=Plur;rifiuto conferito;NOUN
+rifiuti contenenti mercurio;Gender=Masc|Number=Plur;rifiuto contenente mercurio;NOUN
+rifiuti da apparecchiature elettriche ed elettroniche;Gender=Masc|Number=Plur;rifiuto da apparecchiature elettriche ed elettroniche;NOUN
+rifiuti da apparecchiature elettroniche ed elettriche;Gender=Masc|Number=Plur;rifiuto da apparecchiature elettroniche ed elettriche;NOUN
+rifiuti di grandi dimensioni;Gender=Masc|Number=Plur;rifiuto di grandi dimensioni;NOUN
+rifiuti di origine organica;Gender=Masc|Number=Plur;rifiuto di origine organica;NOUN
+rifiuti di provenienza domestica;Gender=Masc|Number=Plur;rifiuto di provenienza domestica;NOUN
+rifiuti di provenienza domestica e similari;Gender=Masc|Number=Plur;rifiuti di provenienza domestica e similari;NOUN
+rifiuti differenziati;Gender=Masc|Number=Plur;rifiuto differenziato;NOUN
+rifiuti dispersi;Gender=Masc|Number=Plur;rifiuto disperso;NOUN
+rifiuti domestici;Gender=Masc|Number=Plur;rifiuto domestico;NOUN
+rifiuti già conferiti;Gender=Masc|Number=Plur;rifiuto già conferito;NOUN
+rifiuti in metalli;Gender=Masc|Number=Plur;rifiuto in metallo;NOUN
+rifiuti in plastica;Gender=Masc|Number=Plur;rifiuto in plastica;NOUN
+rifiuti in vetro;Gender=Masc|Number=Plur;rifiuto in vetro;NOUN
+rifiuti indifferenziati;Gender=Masc|Number=Plur;rifiuto indifferenziato;NOUN
+rifiuti inerti;Gender=Masc|Number=Plur;rifiuto inerte;NOUN
+rifiuti inerti provenienti da piccole manutenzioni effettuate direttamente dagli utenti domestici;Gender=Masc|Number=Plur;rifiuto inerte proveniente da piccole manutenzioni effettuate direttamente dagli utenti domestici;NOUN
+rifiuti ingombranti;Gender=Masc|Number=Plur;rifiuto ingombrante;NOUN
+rifiuti legnosi;Gender=Masc|Number=Plur;rifiuto legnoso;NOUN
+rifiuti non ingombranti;Gender=Masc|Number=Plur;rifiuto non ingombrante;NOUN
+rifiuti non pericolosi;Gender=Masc|Number=Plur;rifiuto non pericoloso;NOUN
+rifiuti non riciclabili;Gender=Masc|Number=Plur;rifiuto non riciclabile;NOUN
+rifiuti organici;Gender=Masc|Number=Plur;rifiuto organico;NOUN
+rifiuti organici domestici;Gender=Masc|Number=Plur;rifiuto organico domestico;NOUN
+rifiuti ospedalieri;Gender=Masc|Number=Plur;rifiuto ospedaliero;NOUN
+rifiuti provenienti da luoghi adibiti ad uso di civile abitazione;Gender=Masc|Number=Plur;rifiuto proveniente da luogo adibito ad uso di civile abitazione;NOUN
+rifiuti provenienti dalla raccolta differenziata;Gender=Masc|Number=Plur;rifiuto proveniente dalla raccolta differenziata;NOUN
+rifiuti raccolti a domicilio;Gender=Masc|Number=Plur;rifiuto raccolto a domicilio;NOUN
+rifiuti raee;Gender=Masc|Number=Plur;rifiuto raee;NOUN
+rifiuti riciclabili;Gender=Masc|Number=Plur;rifiuto riciclabile;NOUN
+rifiuti solidi urbani;Gender=Masc|Number=Plur;rifiuto solido urbano;NOUN
+rifiuti speciali;Gender=Masc|Number=Plur;rifiuto speciale;NOUN
+rifiuti speciali non pericolosi;Gender=Masc|Number=Plur;rifiuto speciale non pericoloso;NOUN
+rifiuti speciali non pericolosi prodotti da utenze domestiche, assimilabili ai rifiuti urbani;Gender=Masc|Number=Plur;rifiuto speciale non pericoloso prodotto da utenze domestiche, assimilabile ai rifiuti urbani;NOUN
+rifiuti t/f;Gender=Masc|Number=Plur;rifiuto t/f;NOUN
+rifiuti urbani;Gender=Masc|Number=Plur;rifiuto urbano;NOUN
+rifiuti urbani ingombranti;Gender=Masc|Number=Plur;rifiuto urbano ingombrante;NOUN
+rifiuti urbani pericolosi;Gender=Masc|Number=Plur;rifiuto urbano pericoloso;NOUN
+rifiuti urbani pericolosi ed ingombranti;Gender=Masc|Number=Plur;rifiuto urbano pericoloso ed ingombrante;NOUN
+rifiuti vegetali;Gender=Masc|Number=Plur;rifiuto vegetale;NOUN
+rifiuti vegetali verdi;Gender=Masc|Number=Plur;rifiuto vegetale verde;NOUN
+rifiuti verdi;Gender=Masc|Number=Plur;rifiuto verde;NOUN
+rifiuti verdi e potature;Gender=Masc|Number=Plur;rifiuti verdi e potature;NOUN
+rifiuti voluminosi;Gender=Masc|Number=Plur;rifiuto voluminoso;NOUN
+rifiuti zero;Gender=Masc|Number=Plur;rifiuti zero;NOUN
+rifiuto;Gender=Masc|Number=Sing;rifiuto;NOUN
+rifiuto abbandonato;Gender=Masc|Number=Sing;rifiuto abbandonato;NOUN
+rifiuto biodegradabile;Gender=Masc|Number=Sing;rifiuto biodegradabile;NOUN
+rifiuto biodegradabile di cucine e mense;Gender=Masc|Number=Sing;rifiuto biodegradabile di cucine e mense;NOUN
+rifiuto conferibile;Gender=Masc|Number=Sing;rifiuto conferibile;NOUN
+rifiuto conferito;Gender=Masc|Number=Sing;rifiuto conferito;NOUN
+rifiuto contenente mercurio;Gender=Masc|Number=Sing;rifiuto contenente mercurio;NOUN
+rifiuto da apparecchiature elettriche ed elettroniche;Gender=Masc|Number=Sing;rifiuto da apparecchiature elettriche ed elettroniche;NOUN
+rifiuto da apparecchiature elettroniche ed elettriche;Gender=Masc|Number=Sing;rifiuto da apparecchiature elettroniche ed elettriche;NOUN
+rifiuto di grandi dimensioni;Gender=Masc|Number=Sing;rifiuto di grandi dimensioni;NOUN
+rifiuto di origine organica;Gender=Masc|Number=Sing;rifiuto di origine organica;NOUN
+rifiuto di provenienza domestica;Gender=Masc|Number=Sing;rifiuto di provenienza domestica;NOUN
+rifiuto differenziato;Gender=Masc|Number=Sing;rifiuto differenziato;NOUN
+rifiuto disperso;Gender=Masc|Number=Sing;rifiuto disperso;NOUN
+rifiuto domestico;Gender=Masc|Number=Sing;rifiuto domestico;NOUN
+rifiuto già conferito;Gender=Masc|Number=Sing;rifiuto già conferito;NOUN
+rifiuto in metallo;Gender=Masc|Number=Sing;rifiuto in metallo;NOUN
+rifiuto in plastica;Gender=Masc|Number=Sing;rifiuto in plastica;NOUN
+rifiuto in vetro;Gender=Masc|Number=Sing;rifiuto in vetro;NOUN
+rifiuto indifferenziato;Gender=Masc|Number=Sing;rifiuto indifferenziato;NOUN
+rifiuto inerte;Gender=Masc|Number=Sing;rifiuto inerte;NOUN
+rifiuto inerte proveniente da piccole manutenzioni effettuate direttamente dagli utenti domestici;;rifiuto inerte proveniente da piccole manutenzioni effettuate direttamente dagli utenti domestici;NOUN
+rifiuto ingombrante;Gender=Masc|Number=Sing;rifiuto ingombrante;NOUN
+rifiuto legnoso;Gender=Masc|Number=Sing;rifiuto legnoso;NOUN
+rifiuto non ingombrante;Gender=Masc|Number=Sing;rifiuto non ingombrante;NOUN
+rifiuto non pericoloso;Gender=Masc|Number=Sing;rifiuto non pericoloso;NOUN
+rifiuto non riciclabile;Gender=Masc|Number=Sing;rifiuto non riciclabile;NOUN
+rifiuto organico;Gender=Masc|Number=Sing;rifiuto organico;NOUN
+rifiuto organico domestico;Gender=Masc|Number=Sing;rifiuto organico domestico;NOUN
+rifiuto ospedaliero;Gender=Fem|Number=Sing;rifiuto ospedaliero;NOUN
+rifiuto pericoloso;Gender=Masc|Number=Sing;rifiuto pericoloso;NOUN
+rifiuto proveniente da luogo adibito ad uso di civile abitazione;Gender=Masc|Number=Sing;rifiuto proveniente da luogo adibito ad uso di civile abitazione;NOUN
+rifiuto proveniente dalla raccolta differenziata;Gender=Masc|Number=Plur;rifiuto proveniente dalla raccolta differenziata;NOUN
+rifiuto raccolto a domicilio;Gender=Fem;rifiuto raccolto a domicilio;NOUN
+rifiuto raee;Gender=Masc|Number=Plur;rifiuto raee;NOUN
+rifiuto riciclabile;Gender=Masc|Number=Sing;rifiuto riciclabile;NOUN
+rifiuto secco indifferenziato;Gender=Masc|Number=Sing;rifiuto secco indifferenziato;NOUN
+rifiuto secco residuo;Gender=Masc|Number=Sing;rifiuto secco residuo;NOUN
+rifiuto solido urbano;Gender=Masc|Number=Sing;rifiuto solido urbano;NOUN
+rifiuto speciale;Gender=Masc|Number=Sing;rifiuto speciale;NOUN
+rifiuto speciale non pericoloso;Gender=Masc|Number=Sing;rifiuto speciale non pericoloso;NOUN
+rifiuto speciale non pericoloso prodotto da utenze domestiche, assimilabile ai rifiuti urbani;Gender=Masc|Number=Sing;rifiuto speciale non pericoloso prodotto da utenze domestiche, assimilabile ai rifiuti urbani;NOUN
+rifiuto t/f;Gender=Masc|Number=Sing;rifiuto t/f;NOUN
+rifiuto urbano;Gender=Masc|Number=Sing;rifiuto urbano;NOUN
+rifiuto urbano ingombrante;Gender=Masc|Number=Sing;rifiuto urbano ingombrante;NOUN
+rifiuto urbano pericoloso;Gender=Masc|Number=Sing;rifiuto urbano pericoloso;NOUN
+rifiuto urbano pericoloso ed ingombrante;Gender=Masc|Number=Sing;rifiuto urbano pericoloso ed ingombrante;NOUN
+rifiuto urbano residuo;Gender=Masc|Number=Sing;rifiuto urbano residuo;NOUN
+rifiuto vegetale;Gender=Masc|Number=Sing;rifiuto vegetale;NOUN
+rifiuto vegetale verde;Gender=Masc|Number=Sing;rifiuto vegetale verde;NOUN
+rifiuto verde;Gender=Masc|Number=Sing;rifiuto verde;NOUN
+rifiuto voluminoso;Gender=Masc|Number=Sing;rifiuto voluminoso;NOUN
+rimozione di micro discariche;Gender=Fem|Number=Sing;rimozione di micro discariche;NOUN
+rimozione micro discariche;Gender=Fem|Number=Sing;rimozione micro discariche;NOUN
+ritiri;Gender=Masc|Number=Plur;ritiro;NOUN
+ritiro;Gender=Masc|Number=Sing;ritiro;NOUN
+ritiro a domicilio;Gender=Masc|Number=Sing;ritiro a domicilio;NOUN
+ritiro gratuito a domicilio;Gender=Masc|Number=Sing;ritiro gratuito a domicilio;NOUN
+ritiro ingombranti e raee;Gender=Masc|Number=Sing;ritiro ingombranti e raee;NOUN
+ritiro rifiuti;Gender=Masc|Number=Sing;ritiro rifiuti;NOUN
+ritiro su prenotazione;Gender=Masc|Number=Sing;ritiro su prenotazione;NOUN
+riuso;Gender=Masc|Number=Sing;riuso;NOUN
+riuso del materiale riciclato;Gender=Masc|Number=Sing;riuso del materiale riciclato;NOUN
+riutilizzabile;Gender=Masc|Number=Sing;riutilizzabile;ADJ
+riutilizzabili;Gender=Masc|Number=Plur;riutilizzabile;ADJ
+riutilizzo;Gender=Masc|Number=Sing;riutilizzo;NOUN
+riutilizzo dei materiali;Gender=Masc|Number=Sing;riutilizzo dei materiali;NOUN
+rottame in vetro;Gender=Masc|Number=Sing;rottame in vetro;NOUN
+rottami in vetro;Gender=Masc|Number=Plur;rottame in vetro;NOUN
+rsu;Gender=Masc;rsu;NOUN
+ruota gommata;Gender=Fem|Number=Sing;ruota gommata;NOUN
+ruote gommate;Gender=Fem|Number=Plur;ruota gommata;NOUN
+rup;Gender=Masc;rup;NOUN
+rur;;rur;NOUN
+sacchetti;Gender=Masc|Number=Plur;sacchetto;NOUN
+sacchetti biodegradabili;Gender=Masc|Number=Plur;sacchetto biodegradabile;NOUN
+sacchetti di carta;Gender=Masc|Number=Plur;sacchetto di carta;NOUN
+sacchetti non conformi;Gender=Masc|Number=Plur;sacchetto non conforme;NOUN
+sacchetti trasparenti;Gender=Masc|Number=Plur;sacchetto trasparente;NOUN
+sacchetto;Gender=Masc|Number=Sing;sacchetto;NOUN
+sacchetto a svuotamento;Gender=Masc|Number=Sing;sacchetto a svuotamento;NOUN
+sacchetto biodegradabile;Gender=Masc|Number=Sing;sacchetto biodegradabile;NOUN
+sacchetto biodegradabile compostabile;Gender=Masc|Number=Sing;sacchetto biodegradabile compostabile;NOUN
+sacchetto di carta;Gender=Masc|Number=Sing;sacchetto di carta;NOUN
+sacchetto di carta o cartone;Gender=Masc|Number=Sing;sacchetto di carta o cartone;NOUN
+sacchetto non conforme;Gender=Masc|Number=Sing;sacchetto non conforme;NOUN
+sacchetto trasparente;Gender=Masc|Number=Sing;sacchetto trasparente;NOUN
+sacchi;Gender=Masc|Number=Plur;sacco;NOUN
+sacchi di bioplastica;Gender=Masc|Number=Plur;sacco di bioplastica;NOUN
+sacchi di colore nero;Gender=Masc|Number=Plur;sacco di colore nero;NOUN
+sacchi di plastica;Gender=Masc|Number=Plur;sacco di plastica;NOUN
+sacchi semitrasparenti;Gender=Masc|Number=Plur;sacco semitrasparente;NOUN
+sacco;Gender=Masc|Number=Sing;sacco;NOUN
+sacco biodegradabile;Gender=Masc|Number=Sing;sacco biodegradabile;NOUN
+sacco biodegradabile e compostabile;Gender=Masc|Number=Sing;sacco biodegradabile e compostabile;NOUN
+sacco di bioplastica;Gender=Masc|Number=Sing;sacco di bioplastica;NOUN
+sacco di colore nero;Gender=Masc|Number=Sing;sacco di colore nero;NOUN
+sacco di plastica;Gender=Masc|Number=Sing;sacco di plastica;NOUN
+sacco semitrasparente;Gender=Masc|Number=Sing;sacco semitrasparente;NOUN
+scarrabile;Gender=Masc|Number=Sing;scarrabile;NOUN
+scarrabile pressa;Gender=Masc|Number=Sing;scarrabile pressa;NOUN
+scarrabili;Gender=Masc|Number=Plur;scarrabile;NOUN
+scarrabili pressa;Gender=Masc|Number=Plur;scarrabile pressa;NOUN
+scarti;Gender=Masc|Number=Plur;scarto;NOUN
+scarti di cucina;Gender=Masc|Number=Plur;scarto di cucina;NOUN
+scarti di materiali edili;Gender=Masc|Number=Plur;scarto di materiali edili;NOUN
+scarti di potatura;Gender=Masc|Number=Plur;scarto di potatura;NOUN
+scarti tessili;Gender=Masc|Number=Plur;scarto tessile;NOUN
+scarti vegetali;Gender=Masc|Number=Plur;scarto vegetale;NOUN
+scarti vegetali provenienti dalla cura del giardino;Gender=Masc|Number=Plur;scarto vegetale proveniente dalla cura del giardino;NOUN
+scarto;Gender=Masc|Number=Sing;scarto;NOUN
+scarto di cucina;Gender=Masc|Number=Sing;scarto di cucina;NOUN
+scarto di materiali edili;Gender=Masc|Number=Sing;scarto di materiali edili;NOUN
+scarto di potatura;Gender=Masc|Number=Sing;scarto di potatura;NOUN
+scarto tessile;Gender=Masc|Number=Sing;scarto tessile;NOUN
+scarto vegetale;Gender=Masc|Number=Sing;scarto vegetale;NOUN
+scarto vegetale proveniente dalla cura del giardino;Gender=Masc|Number=Sing;scarto vegetale proveniente dalla cura del giardino;NOUN
+secchiello;Gender=Masc|Number=Sing;secchiello;NOUN
+secchiello areato;Gender=Masc|Number=Sing;secchiello areato;NOUN
+secchiello contenitore;Gender=Masc|Number=Sing;secchiello contenitore;NOUN
+secco;Gender=Masc|Number=Sing;secco;NOUN
+secco indifferenziato;Gender=Masc|Number=Sing;secco indifferenziato;NOUN
+secco non riciclabile;Gender=Masc|Number=Sing;secco non riciclabile;NOUN
+secco residuale;Gender=Masc|Number=Sing;secco residuale;NOUN
+secco residuale non riciclabile;Gender=Masc|Number=Sing;secco residuale non riciclabile;NOUN
+secco residuo;Gender=Masc|Number=Sing;secco residuo;NOUN
+segnalazione di disservizi;Gender=Fem|Number=Sing;segnalazione di disservizi;NOUN
+segnalazione verbale;Gender=Fem|Number=Sing;segnalazione verbale;NOUN
+separare i rifiuti;;separare i rifiuti;VERB
+servizi di igiene urbana;Gender=Masc|Number=Plur;servizio di igiene urbana;NOUN
+servizi di raccolta;Gender=Masc|Number=Plur;servizio di raccolta;NOUN
+servizi di raccolta porta a porta;Gender=Masc|Number=Plur;servizio di raccolta porta a porta;NOUN
+servizi di smaltimento rifiuti urbani ed assimilabili;Gender=Masc|Number=Plur;servizio di smaltimento rifiuti urbani ed assimilabili;NOUN
+servizi gestione integrata rifiuti;Gender=Masc|Number=Plur;servizio gestione integrata rifiuti;NOUN
+servizi gestione integrata rifiuti con sistema porta a porta;Gender=Masc|Number=Plur;servizio gestione integrata rifiuti con sistema porta a porta;NOUN
+servizio di ecovigilanza;Gender=Masc|Number=Sing;servizio di ecovigilanza;NOUN
+servizio di gestione dei rifiuti;Gender=Masc|Number=Sing;servizio di gestione dei rifiuti;NOUN
+servizio di gestione dei rifiuti urbani;Gender=Masc|Number=Sing;servizio di gestione dei rifiuti urbani;NOUN
+servizio di gestione del ciclo dei rifiuti urbani;Gender=Masc|Number=Sing;servizio di gestione del ciclo dei rifiuti urbani;NOUN
+servizio di gestione integrata dei rifiuti;Gender=Masc|Number=Sing;servizio di gestione integrata dei rifiuti;NOUN
+servizio di igiene urbana;Gender=Masc|Number=Sing;servizio di igiene urbana;NOUN
+servizio di raccolta;Gender=Masc|Number=Sing;servizio di raccolta;NOUN
+servizio di raccolta degli oli esausti commestibili;Gender=Masc|Number=Sing;servizio di raccolta degli oli esausti commestibili;NOUN
+servizio di raccolta dei rifiuti;Gender=Masc|Number=Sing;servizio di raccolta dei rifiuti;NOUN
+servizio di raccolta di oli alimentari esausti;Gender=Masc|Number=Sing;servizio di raccolta di oli alimentari esausti;NOUN
+servizio di raccolta di pannolini e pannoloni;Gender=Masc|Number=Sing;servizio di raccolta di pannolini e pannoloni;NOUN
+servizio di raccolta di prossimità;Gender=Masc|Number=Sing;servizio di raccolta di prossimità;NOUN
+servizio di raccolta differenziata;Gender=Masc|Number=Sing;servizio di raccolta differenziata;NOUN
+servizio di raccolta differenziata dei rifiuti solidi urbani;Gender=Masc|Number=Sing;servizio di raccolta differenziata dei rifiuti solidi urbani;NOUN
+servizio di raccolta differenziata porta a porta;Gender=Masc|Number=Sing;servizio di raccolta differenziata porta a porta;NOUN
+servizio di raccolta differenziata porta a porta dei rifiuti solidi urbani;Gender=Masc|Number=Sing;servizio di raccolta differenziata porta a porta dei rifiuti solidi urbani;NOUN
+servizio di raccolta domiciliare dei rifiuti;Gender=Masc|Number=Sing;servizio di raccolta domiciliare dei rifiuti;NOUN
+servizio di raccolta e trasporto dei rifiuti urbani;Gender=Masc|Number=Sing;servizio di raccolta e trasporto dei rifiuti urbani;NOUN
+servizio di raccolta per i rifiuti provenienti da luoghi adibiti ad uso di civile abitazione;Gender=Masc|Number=Sing;servizio di raccolta per i rifiuti provenienti da luoghi adibiti ad uso di civile abitazione;NOUN
+servizio di raccolta porta a porta;Gender=Masc|Number=Sing;servizio di raccolta porta a porta;NOUN
+servizio di raccolta porta a porta dei rifiuti solidi urbani;Gender=Masc|Number=Sing;servizio di raccolta porta a porta dei rifiuti solidi urbani;NOUN
+servizio di smaltimento rifiuti urbani ed assimilabili;Gender=Masc|Number=Sing;servizio di smaltimento rifiuti urbani ed assimilabili;NOUN
+servizio di spazzamento;Gender=Masc|Number=Sing;servizio di spazzamento;NOUN
+servizio di svuotamento;Gender=Masc|Number=Sing;servizio di svuotamento;NOUN
+servizio domiciliare;Gender=Masc|Number=Sing;servizio domiciliare;NOUN
+servizio ecologia;Gender=Masc|Number=Sing;servizio ecologia;NOUN
+servizio ecologia e gestione del ciclo integrato rifiuti;Gender=Masc|Number=Sing;servizio ecologia e gestione del ciclo integrato rifiuti;NOUN
+servizio ecologico;Gender=Masc|Number=Sing;servizio ecologico;NOUN
+servizio gestione integrata rifiuti;Gender=Masc|Number=Sing;servizio gestione integrata rifiuti;NOUN
+servizio gestione integrata rifiuti con sistema porta a porta;Gender=Masc|Number=Sing;servizio gestione integrata rifiuti con sistema porta a porta;NOUN
+servizio ingombranti;Gender=Masc|Number=Sing;servizio ingombranti;NOUN
+servizio integrato di igiene urbana;Gender=Masc|Number=Sing;servizio integrato di igiene urbana;NOUN
+servizio integrato di igiene urbana e servizi accessori;Gender=Masc|Number=Sing;servizio integrato di igiene urbana e servizi accessori;NOUN
+servizio integrato gestione rifiuti;Gender=Masc|Number=Sing;servizio integrato gestione rifiuti;NOUN
+servizio integrato gestione rifiuti – raccolta differenziata;Gender=Masc|Number=Sing;servizio integrato gestione rifiuti – raccolta differenziata;NOUN
+servizio integrato gestione rifiuti – raccolta differenziata e servizi complementari;Gender=Masc|Number=Sing;servizio integrato gestione rifiuti – raccolta differenziata e servizi complementari;NOUN
+servizio meccanizzato;Gender=Masc|Number=Sing;servizio meccanizzato;NOUN
+servizio porta a porta;Gender=Masc|Number=Sing;servizio porta a porta;NOUN
+servizio raccolta e trasporto;Gender=Masc|Number=Sing;servizio raccolta e trasporto;NOUN
+servizio rifiuti;Gender=Masc|Number=Sing;servizio rifiuti;NOUN
+settore ambiente ufficio servizi esternalizzati e raccolta differenziata;Gender=Masc|Number=Sing;settore ambiente ufficio servizi esternalizzati e raccolta differenziata;NOUN
+settore ecologia ed ambiente;Gender=Masc|Number=Sing;settore ecologia ed ambiente;NOUN
+sfalci;Gender=Masc|Number=Plur;sfalcio;NOUN
+sfalci d'erba;Gender=Masc|Number=Plur;sfalcio d'erba;NOUN
+sfalci di potatura;Gender=Masc|Number=Plur;sfalcio di potatura;NOUN
+sfalci di potature;Gender=Masc|Number=Plur;sfalcio di potatura;NOUN
+sfalci di potature da manutenzione di giardino;Gender=Masc|Number=Plur;sfalcio di potatura da manutenzione di giardino;NOUN
+sfalci e potature;Gender=Masc|Number=Plur;sfalci e potature;NOUN
+sfalci e potature da attività di giardinaggio di uso domestico;Gender=Masc|Number=Plur;sfalci e potature da attività di giardinaggio di uso domestico;NOUN
+sfalci e potature da manutenzione di giardino;Gender=Masc|Number=Plur;sfalci e potature da manutenzione di giardino;NOUN
+sfalci e ramaglie;Gender=Masc|Number=Plur;sfalci e ramaglie;NOUN
+sfalci, ramaglie e potature;Gender=Masc|Number=Plur;sfalci, ramaglie e potature;NOUN
+sfalcio;Gender=Masc|Number=Sing;sfalcio;NOUN
+sfalcio d'erba;Gender=Masc|Number=Sing;sfalcio d'erba;NOUN
+sfalcio di potatura;Gender=Masc|Number=Sing;sfalcio di potatura;NOUN
+sfalcio di potatura da manutenzione di giardino;Gender=Masc|Number=Sing;sfalcio di potatura da manutenzione di giardino;NOUN
+single-use plastics;Gender=Fem|Number=Plur;single-use plastics;NOUN
+sistema a chiamata;Gender=Masc|Number=Sing;sistema a chiamata;NOUN
+sistema del porta a porta;Gender=Masc|Number=Sing;sistema del porta a porta;NOUN
+sistema di gestione ambientale;Gender=Masc|Number=Sing;sistema di gestione ambientale;NOUN
+sistema di raccolta differenziata;Gender=Masc|Number=Sing;sistema di raccolta differenziata;NOUN
+sistema di raccolta differenziata dei rifiuti porta-a-porta;Gender=Masc|Number=Sing;sistema di raccolta differenziata dei rifiuti porta-a-porta;NOUN
+sistema di raccolta porta a porta;Gender=Masc|Number=Sing;sistema di raccolta porta a porta;NOUN
+sistema porta a porta;Gender=Masc|Number=Sing;sistema porta a porta;NOUN
+sistemi di raccolta differenziata;Gender=Masc|Number=Plur;sistema di raccolta differenziata;NOUN
+sistri;Gender=Masc|Number=Sing;sistri;NOUN
+smaltimento;Gender=Masc|Number=Sing;smaltimento;NOUN
+smaltimento dei rifiuti;Gender=Masc|Number=Sing;smaltimento dei rifiuti;NOUN
+smaltimento dei rifiuti solidi urbani;Gender=Masc|Number=Sing;smaltimento dei rifiuti solidi urbani;NOUN
+smaltire;;smaltire;VERB
+smaltire i rifiuti;;smaltire i rifiuti;VERB
+smaltire tramite combustione all'aperto;;smaltire tramite combustione all'aperto;VERB
+smaltiscilo;Number=Sing;smaltire;VERB
+smaltiti;Gender=Masc|Number=Sing;smaltito;ADJ
+smaltito;Gender=Masc|Number=Plur;smaltito;ADJ
+soggetto gestore;Gender=Masc|Number=Sing;soggetto gestore;NOUN
+sono conferiti;Gender=Masc|Number=Plur;conferire;VERB
+sostanza inquinante;Gender=Fem|Number=Sing;sostanza inquinante;NOUN
+sostanza pericolosa;Gender=Fem|Number=Sing;sostanza pericolosa;NOUN
+sostanze inquinanti;Gender=Fem|Number=Plur;sostanza inquinante;NOUN
+sostanze pericolose;Gender=Fem|Number=Plur;sostanza pericolosa;NOUN
+spazzamento;Gender=Masc|Number=Sing;spazzamento;NOUN
+spazzamento delle strade;Gender=Masc|Number=Sing;spazzamento delle strade;NOUN
+spazzamento integrato;Gender=Masc|Number=Sing;spazzamento integrato;NOUN
+spazzamento manuale;Gender=Masc|Number=Sing;spazzamento manuale;NOUN
+spazzamento meccanizzato;Gender=Masc|Number=Sing;spazzamento meccanizzato;NOUN
+spazzamento stradale;Gender=Masc|Number=Sing;spazzamento stradale;NOUN
+spazzamento strade;Gender=Masc|Number=Sing;spazzamento strade;NOUN
+spazzatura;Gender=Fem|Number=Sing;spazzatura;NOUN
+stazione di conferimento;Gender=Fem|Number=Sing;stazione di conferimento;NOUN
+stazione di conferimento automatizzata;Gender=Fem|Number=Sing;stazione di conferimento automatizzata;NOUN
+stazione ecologica;Gender=Fem|Number=Sing;stazione ecologica;NOUN
+stazione informatizzata;Gender=Fem|Number=Sing;stazione informatizzata;NOUN
+stazione informatizzata per il conferimento;Gender=Fem|Number=Sing;stazione informatizzata per il conferimento;NOUN
+stazione informatizzata per il conferimento di pannolini e pannoloni;Gender=Fem|Number=Sing;stazione informatizzata per il conferimento di pannolini e pannoloni;NOUN
+stazioni di conferimento;Gender=Fem|Number=Plur;stazione di conferimento;NOUN
+stazioni di conferimento automatizzate;Gender=Fem|Number=Plur;stazione di conferimento automatizzata;NOUN
+stazioni informatizzate;Gender=Fem|Number=Plur;stazione informatizzata;NOUN
+stazioni informatizzate per il conferimento;Gender=Fem|Number=Plur;stazione informatizzata per il conferimento;NOUN
+stazioni informatizzate per il conferimento di pannolini e pannoloni;Gender=Fem|Number=Plur;stazione informatizzata per il conferimento di pannolini e pannoloni;NOUN
+stoccaggio;Gender=Masc|Number=Sing;stoccaggio;NOUN
+stoccaggio provvisorio;Gender=Masc|Number=Sing;stoccaggio provvisorio;NOUN
+stoppia;Gender=Fem|Number=Sing;stoppia;NOUN
+stoppie;Gender=Fem|Number=Plur;stoppia;NOUN
+struttura di smaltimento;Gender=Fem|Number=Sing;struttura di smaltimento;NOUN
+sup;;sup;NOUN
+svuotamento;Gender=Masc|Number=Sing;svuotamento;NOUN
+svuotamento dei carrellati;Gender=Masc|Number=Sing;svuotamento dei carrellati;NOUN
+svuotamento dei carrellati condominiali;Gender=Masc|Number=Sing;svuotamento dei carrellati condominiali;NOUN
+svuotamento dei cestini;Gender=Masc|Number=Sing;svuotamento dei cestini;NOUN
+svuotamento dei contenitori;Gender=Masc|Number=Sing;svuotamento dei contenitori;NOUN
+svuotamento dei contenitori colmi;Gender=Masc|Number=Sing;svuotamento dei contenitori colmi;NOUN
+t;;t;NOUN
+ta.ri.;Gender=Fem|Number=Sing;ta.ri.;NOUN
+tares;Gender=Fem|Number=Sing;tares;NOUN
+tari;Gender=Fem|Number=Sing;tari;NOUN
+tari presuntiva;Gender=Fem|Number=Sing;tari presuntiva;NOUN
+tariffa;Gender=Fem|Number=Sing;tariffa;NOUN
+tariffa per i rifiuti;Gender=Fem|Number=Sing;tariffa per i rifiuti;NOUN
+tariffa tari;Gender=Fem|Number=Sing;tariffa tari;NOUN
+tariffe;Gender=Fem|Number=Plur;tariffa;NOUN
+tarsu;Gender=Fem|Number=Sing;tarsu;NOUN
+tassa rifiuti;Gender=Fem|Number=Sing;tassa rifiuti;NOUN
+tassa sui rifiuti;Gender=Fem|Number=Sing;tassa sui rifiuti;NOUN
+tassa sui rifiuti solidi urbani;Gender=Fem|Number=Sing;tassa sui rifiuti solidi urbani;NOUN
+tessile;Gender=Masc|Number=Sing;tessile;NOUN
+tessili;Gender=Masc|Number=Plur;tessili;NOUN
+tetra pak;Gender=Fem|Number=Sing;tetra pak;NOUN
+tetrapack;Gender=Masc|Number=Sing;tetrapack;NOUN
+tetrapak;Gender=Masc|Number=Sing;tetrapak;NOUN
+tmb;;tmb;NOUN
+tmv;;tmv;NOUN
+toner;Gender=Masc|Number=Plur;toner;NOUN
+toner e cartucce;Gender=Masc;toner e cartucce;NOUN
+toner e cartucce esausti;Gender=Masc;toner e cartucce esausti;NOUN
+toner esausti;Gender=Masc|Number=Plur;toner esausto;NOUN
+toner esausto;Gender=Masc|Number=Sing;toner esausto;NOUN
+tossici;Gender=Masc|Number=Plur;tossico;ADJ
+tossico;Gender=Masc|Number=Sing;tossico;ADJ
+totale annuale conferito;Gender=Masc|Number=Sing;totale annuale conferito;NOUN
+totale massimo annuale;Gender=Masc|Number=Sing;totale massimo annuale;NOUN
+trasporto;Gender=Masc|Number=Sing;trasporto;NOUN
+trasporto ad impianto autorizzato;Gender=Masc|Number=Sing;trasporto ad impianto autorizzato;NOUN
+trasporto dei rifiuti;Gender=Masc|Number=Sing;trasporto dei rifiuti;NOUN
+trasporto dei rifiuti urbani;Gender=Masc|Number=Sing;trasporto dei rifiuti urbani;NOUN
+tributo puntuale;Gender=Masc|Number=Sing;tributo puntuale;NOUN
+tubi al neon;Gender=Masc|Number=Plur;tubo al neon;NOUN
+tubi contenenti mercurio;Gender=Masc|Number=Plur;tubo contenente mercurio;NOUN
+tubi di neon;Gender=Masc|Number=Plur;tubo di neon;NOUN
+tubi fluorescenti;Gender=Masc|Number=Plur;tubo fluorescente;NOUN
+tubi fluorescenti al neon;Gender=Masc|Number=Plur;tubo fluorescente al neon;NOUN
+tubi fluorescenti contenenti mercurio;Gender=Masc|Number=Plur;tubo fluorescente contenente mercurio;NOUN
+tubi fluorescenti e altri con mercurio;Gender=Masc|Number=Plur;tubi fluorescenti e altri con mercurio;NOUN
+tubi fluorescenti ed altri rifiuti contenenti mercurio;Gender=Masc|Number=Plur;tubi fluorescenti ed altri rifiuti contenenti mercurio;NOUN
+tubi fluorescenti ed altri tubi contenenti mercurio;Gender=Masc|Number=Plur;tubi fluorescenti ed altri tubi contenenti mercurio;NOUN
+tubi fluorescenti rd;Gender=Masc|Number=Plur;tubo fluorescente rd;NOUN
+tubi fluorescenti rd altri rifiuti contenenti mercurio;Gender=Masc|Number=Plur;tubi fluorescenti rd altri rifiuti contenenti mercurio;NOUN
+tubo al neon;Gender=Masc|Number=Sing;tubo al neon;NOUN
+tubo contenente mercurio;Gender=Masc|Number=Sing;tubo contenente mercurio;NOUN
+tubo di neon;Gender=Masc|Number=Sing;tubo di neon;NOUN
+tubo fluorescente;Gender=Masc|Number=Sing;tubo fluorescente;NOUN
+tubo fluorescente al neon;Gender=Masc|Number=Sing;tubo fluorescente al neon;NOUN
+tubo fluorescente contenente mercurio;Gender=Masc|Number=Sing;tubo fluorescente contenente mercurio;NOUN
+tubo fluorescente rd;Gender=Masc|Number=Sing;tubo fluorescente rd;NOUN
+ufficio ambiente;Gender=Masc|Number=Sing;ufficio ambiente;NOUN
+ufficio ecologia;Gender=Masc|Number=Sing;ufficio ecologia;NOUN
+ufficio servizi esternalizzati e raccolta differenziata;Gender=Masc|Number=Sing;ufficio servizi esternalizzati e raccolta differenziata;NOUN
+uffìcio tari;Gender=Masc|Number=Sing;uffìcio tari;NOUN
+umido;Gender=Masc|Number=Sing;umido;NOUN
+utente;Gender=Masc|Number=Sing;utente;NOUN
+utente domestico;Gender=Masc|Number=Sing;utente domestico;NOUN
+utenti;Gender=Masc|Number=Plur;utente;NOUN
+utenti domestici;Gender=Masc|Number=Plur;utente domestico;NOUN
+utenza;Gender=Fem|Number=Sing;utenza;NOUN
+utenza commerciale;Gender=Fem|Number=Sing;utenza commerciale;NOUN
+utenza commerciale produttiva;Gender=Fem|Number=Sing;utenza commerciale produttiva;NOUN
+utenza domestica;Gender=Fem|Number=Sing;utenza domestica;NOUN
+utenza non domestica;Gender=Fem|Number=Sing;utenza non domestica;NOUN
+utenza turistica;Gender=Fem|Number=Sing;utenza turistica;NOUN
+utenza turistica non domestica;Gender=Fem|Number=Sing;utenza turistica non domestica;NOUN
+utenze;Gender=Fem|Number=Plur;utenza;NOUN
+utenze commerciali;Gender=Fem|Number=Plur;utenza commerciale;NOUN
+utenze commerciali produttive;Gender=Fem|Number=Plur;utenza commerciale produttiva;NOUN
+utenze domestiche;Gender=Fem|Number=Plur;utenza domestica;NOUN
+utenze non domestiche;Gender=Fem|Number=Plur;utenza non domestica;NOUN
+utenze turistiche;Gender=Fem|Number=Plur;utenza turistica;NOUN
+utenze turistiche non domestiche;Gender=Fem|Number=Plur;utenza turistica non domestica;NOUN
+valorizzazione economica;Gender=Fem|Number=Sing;valorizzazione economica;NOUN
+vanno conferiti;Gender=Masc|Number=Plur;conferire;VERB
+vengono conferiti;Gender=Masc|Number=Plur;conferire;VERB
+verde;Gender=Masc|Number=Sing;verde;NOUN
+vetri;Gender=Masc|Number=Plur;vetro;NOUN
+vetro;Gender=Masc|Number=Sing;vetro;NOUN
+vetro e contenitori in vetro;Gender=Masc|Number=Sing;vetro e contenitori in vetro;NOUN
+vetro in lastre;Gender=Masc|Number=Sing;vetro in lastre;NOUN
+vetro in lastre e grossi recipienti;Gender=Masc|Number=Sing;vetro in lastre e grossi recipienti;NOUN
+vigilanza igienico-sanitaria;Gender=Fem|Number=Sing;vigilanza igienico-sanitaria;NOUN
+volta cassonetti;Gender=Fem|Number=Sing;volta cassonetti;NOUN
+volta cassonetti post;Gender=Masc|Number=Sing;volta cassonetti post;NOUN
+volta cassonetti post.;Number=Sing;volta cassonetti post.;NOUN
+x;;x;NOUN

@@ -1,0 +1,12 @@
+Servizio/frequenza; Zona A: centro urbano e nuclei periferici; Zona A: centro urbano e nuclei periferici; Zona B e Zona C
+;Utenze domestiche; Attività commerciali; Zone rurali
+;Offerta; Offerta; Offerta
+Secco; 1/7; 1/7; 1/7
+Organico; 3/7; 3/7 6/7 * ristoranti periodo estivo; 3/7
+Multimateriale; 2/7; 3/7; 1/7
+Carta e cartone; 1/7; 1/7; 1/14
+Imballaggi in cartone; -; 6/7; - 
+Vetro; domiciliare; 1/7; 1/7; 1/14
+Ingombranti e beni durevoli; 6/7; 6/7; 6/7
+Servizio/frequenza; Utenze Turistiche Fascia Costiera Offerta
+Secco Residuo; 7/7

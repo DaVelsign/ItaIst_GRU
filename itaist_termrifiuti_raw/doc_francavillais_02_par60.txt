@@ -1,0 +1,2 @@
+9.5.3. Metodo di attribuzione del coefficiente per il calcolo del punteggio dell’offerta economica
+Quanto all’offerta economica, è attribuito all’elemento economico un coefficiente, variabile da zero ad uno, calcolato tramite la: Formula con interpolazione lineare Ci = Ra/Rmax dove: Ci = coefficiente attribuito al concorrente i-esimo; Ra = ribasso percentuale dell’offerta del concorrente i-esimo; Rmax = ribasso percentuale dell’offerta più conveniente.
